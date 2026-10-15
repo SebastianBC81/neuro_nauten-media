@@ -1,0 +1,56 @@
+name: Stimmen-Infos holen
+# Lädt die Lizenzangaben (MODEL_CARD) der deutschen Piper-Stimmen, damit vor der Nutzung geprüft werden kann,
+# ob eine Stimme kostenlos und auch kommerziell genutzt werden darf. Mit "voice" wird zusätzlich genau diese Stimme geladen.
+on:
+  workflow_dispatch:
+    inputs:
+      voice:
+        description: "Stimme laden, z. B. de_DE-kerstin-low (leer = nur Infos)"
+        required: false
+        default: ""
+permissions:
+  contents: write
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Infos und Stimme laden
+        env:
+          VOICE: ${{ inputs.voice }}
+        run: |
+          set -e
+          B=https://huggingface.co/rhasspy/piper-voices/resolve/main
+          mkdir -p tts/info tts/voices
+          curl -sfL "$B/voices.json" -o tts/info/voices.json
+          python3 - <<'EOF'
+          import json, subprocess
+          v = json.load(open("tts/info/voices.json"))
+          B = "https://huggingface.co/rhasspy/piper-voices/resolve/main/"
+          for k, e in v.items():
+              if not k.startswith("de_DE"):
+                  continue
+              for f in e["files"]:
+                  if f.endswith("MODEL_CARD"):
+                      subprocess.run(["curl", "-sfL", B + f, "-o", f"tts/info/{k}.MODEL_CARD"], check=False)
+          EOF
+          if [ -n "$VOICE" ]; then
+            python3 - <<'EOF'
+          import json, os, subprocess
+          k = os.environ["VOICE"]
+          e = json.load(open("tts/info/voices.json"))[k]
+          B = "https://huggingface.co/rhasspy/piper-voices/resolve/main/"
+          for f in e["files"]:
+              if f.endswith((".onnx", ".onnx.json")):
+                  subprocess.run(["curl", "-sfL", B + f, "-o", "tts/voices/" + os.path.basename(f)], check=True)
+          EOF
+          fi
+      - name: Speichern
+        run: |
+          git config user.name "neuro_nauten-autopost"
+          git config user.email "actions@users.noreply.github.com"
+          git add tts
+          git diff --cached --quiet && exit 0
+          git commit -m "Stimmen-Infos aktualisiert"
+          for i in 1 2 3; do git pull --rebase -q origin main && git push -q origin HEAD:main && exit 0; sleep 5; done
+          exit 1
