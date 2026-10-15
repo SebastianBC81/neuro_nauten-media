@@ -18,6 +18,7 @@ jobs:
         env:
           IG_TOKEN: ${{ secrets.IG_TOKEN }}
           PAGES_BASE: https://sebastianbc81.github.io/neuro_nauten-media/
+          CHECK: ${{ github.event_name == 'workflow_dispatch' && '1' || '0' }}
         run: python3 autopost/post.py
       - name: Status speichern
         if: always()

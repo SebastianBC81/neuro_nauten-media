@@ -145,7 +145,28 @@ def publish(item, uid):
     return api("POST", f"{uid}/media_publish", creation_id=c["id"])["id"]
 
 
+def check():
+    """Selbsttest bei manuellem Start: Instagram-Zugang und GitHub Pages prüfen, ohne zu posten."""
+    ok = True
+    try:
+        me = api("GET", "me", fields="user_id,username,account_type")
+        print(f"Instagram-Zugang OK: @{me.get('username')} ({me.get('account_type')})")
+    except Exception as e:
+        ok = False
+        print(f"Instagram-Zugang FEHLER: {e}")
+    test = PAGES + "vorschau/claude-serie-1-2.jpg"
+    if reachable(test):
+        print(f"GitHub Pages OK: {test}")
+    else:
+        ok = False
+        print(f"GitHub Pages FEHLER: {test} nicht erreichbar")
+    if not ok:
+        sys.exit(1)
+
+
 def main():
+    if os.environ.get("CHECK") == "1":
+        check()
     queue = load(Q, [])
     posted = load(P, {})
     changed = False
