@@ -16,7 +16,7 @@ FEED mit mehreren Bildern wird ein Karussell (max. 10 Bilder, nur JPG).
 Umgebung: IG_TOKEN (Secret, Pflicht), PAGES_BASE (z. B. https://sebastianbc81.github.io/neuro_nauten-media/),
 DRY_RUN=1 zum Testen ohne Posten.
 """
-import datetime as dt, json, os, sys, time, urllib.parse, urllib.request, urllib.error
+import datetime as dt, json, os, re, sys, time, urllib.parse, urllib.request, urllib.error
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 Q = os.path.join(ROOT, "autopost", "queue.json")
@@ -114,12 +114,22 @@ def wait_ready(cid, video):
     raise RuntimeError(f"Container {cid} nicht fertig geworden")
 
 
+def limit_tags(cap, n=5):
+    """Instagram erlaubt seit Dez. 2025 nur 5 Hashtags pro Beitrag; überzählige werden entfernt."""
+    seen = []
+    def keep(m):
+        seen.append(m.group(0))
+        return m.group(0) if len(seen) <= n else ""
+    cap = re.sub(r"#[\wÄÖÜäöüß]+", keep, cap)
+    return re.sub(r"[ \t]+\n", "\n", re.sub(r" {2,}", " ", cap)).strip()
+
+
 def publish(item, uid):
     urls = [media_url(m) for m in item["media"]]
     for u in urls:
         if not reachable(u):
             raise RuntimeError(f"Medium nicht erreichbar: {u}")
-    cap = item.get("caption", "")
+    cap = limit_tags(item.get("caption", ""))
     t = item["type"]
     if t == "REEL":
         c = api("POST", f"{uid}/media", media_type="REELS", video_url=urls[0], caption=cap, share_to_feed="true")
