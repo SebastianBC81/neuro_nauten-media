@@ -5,6 +5,13 @@ Chatterbox setzt ein unhörbares Wasserzeichen, das die Datei als KI-Audio kennz
 """
 import json, os, sys
 import torch, torchaudio
+
+# Chatterbox-Checkpoints sind auf GPU gespeichert; auf dem CPU-Runner immer auf CPU laden
+_load = torch.load
+def _cpu_load(*a, **k):
+    k["map_location"] = torch.device("cpu")
+    return _load(*a, **k)
+torch.load = _cpu_load
 from chatterbox.mtl_tts import ChatterboxMultilingualTTS
 
 folder = sys.argv[1]
