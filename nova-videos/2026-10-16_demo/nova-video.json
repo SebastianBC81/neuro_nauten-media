@@ -1,9 +1,14 @@
-{"series": "Nova erklärt", "voice": "de_DE-kerstin-low", "speaker": null, "speed": 1.0, "music": 2,
+{
+ "series": "Nova empfiehlt",
+ "voice": null,
+ "speaker": null,
+ "speed": 1.0,
+ "music": 3,
  "lines": [
-  "Hi, ich bin *Nova*, eure KI-Guide bei Neuronauten.",
-  "Wusstest du, dass ChatGPT auch *gratis* richtig viel kann?",
-  "Erstens: der *Sprachmodus*. Einfach reden statt tippen.",
-  "Zweitens: *Fotos* hochladen und fragen, was darauf zu sehen ist.",
-  "Drittens: *eigene Anweisungen*. Sag einmal, wie du Antworten willst.",
-  "Speicher dir das und *folge* uns für mehr KI-Tipps!"
- ]}
+  "ChatGPT kann *gratis* mehr, als du denkst",
+  "1. *Sprachmodus*: reden statt tippen",
+  "2. *Fotos* hochladen und fragen, was drauf ist",
+  "3. *Eigene Anweisungen*: einmal sagen, wie du Antworten willst",
+  "*Speichern* & folgen für mehr KI-Tipps!"
+ ]
+}
