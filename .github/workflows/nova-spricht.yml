@@ -1,0 +1,35 @@
+name: Nova spricht
+# Erzeugt Novas Stimme (Chatterbox Multilingual, MIT) für ein Video-Ordner mit nova-video.json.
+on:
+  workflow_dispatch:
+    inputs:
+      folder:
+        description: "Ordner im Repo, z. B. nova-videos/2026-10-16_demo"
+        required: true
+permissions:
+  contents: write
+jobs:
+  speak:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Installieren
+        run: |
+          pip install --quiet torch torchaudio --index-url https://download.pytorch.org/whl/cpu
+          pip install --quiet chatterbox-tts
+      - name: Sprechen
+        run: python3 tts/sprechen.py "${{ inputs.folder }}"
+      - name: Speichern
+        if: always()
+        run: |
+          git config user.name "neuro_nauten-autopost"
+          git config user.email "actions@users.noreply.github.com"
+          git add "${{ inputs.folder }}"
+          git diff --cached --quiet && exit 0
+          git commit -m "Nova-Stimme erzeugt: ${{ inputs.folder }}"
+          for i in 1 2 3; do git pull --rebase -q origin main && git push -q origin HEAD:main && exit 0; sleep 5; done
+          exit 1
