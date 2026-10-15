@@ -1,0 +1,18 @@
+name: Instagram-Zugang verlängern
+# Ruft jede Woche die offizielle Verlängerung für den Instagram-Zugangsschlüssel auf
+# (gilt sonst 60 Tage). Der Schlüssel selbst wird nirgends ausgegeben.
+on:
+  schedule:
+    - cron: "17 3 * * 1"
+  workflow_dispatch:
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Schlüssel verlängern
+        env:
+          IG_TOKEN: ${{ secrets.IG_TOKEN }}
+        run: |
+          curl -sf -o /dev/null "https://graph.instagram.com/refresh_access_token?grant_type=ig_refresh_token&access_token=${IG_TOKEN}" \
+            && echo "Zugang verlängert." \
+            || { echo "Verlängerung fehlgeschlagen: Schlüssel neu erzeugen (siehe autopost/ANLEITUNG.md)."; exit 1; }
