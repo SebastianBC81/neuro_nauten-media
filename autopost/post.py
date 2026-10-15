@@ -148,18 +148,22 @@ def publish(item, uid):
 def check():
     """Selbsttest bei manuellem Start: Instagram-Zugang und GitHub Pages prüfen, ohne zu posten."""
     ok = True
+    lines = [now().isoformat()]
     try:
         me = api("GET", "me", fields="user_id,username,account_type")
-        print(f"Instagram-Zugang OK: @{me.get('username')} ({me.get('account_type')})")
+        lines.append(f"Instagram-Zugang OK: @{me.get('username')} ({me.get('account_type')})")
     except Exception as e:
         ok = False
-        print(f"Instagram-Zugang FEHLER: {e}")
+        lines.append(f"Instagram-Zugang FEHLER: {str(e).replace(TOKEN, '***') if TOKEN else e}")
     test = PAGES + "vorschau/claude-serie-1-2.jpg"
     if reachable(test):
-        print(f"GitHub Pages OK: {test}")
+        lines.append(f"GitHub Pages OK: {test}")
     else:
         ok = False
-        print(f"GitHub Pages FEHLER: {test} nicht erreichbar")
+        lines.append(f"GitHub Pages FEHLER: {test} nicht erreichbar")
+    print("\n".join(lines))
+    with open(os.path.join(ROOT, "autopost", "selbsttest.txt"), "w") as f:
+        f.write("\n".join(lines) + "\n")
     if not ok:
         sys.exit(1)
 
