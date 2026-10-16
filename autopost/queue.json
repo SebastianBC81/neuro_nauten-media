@@ -16,5 +16,36 @@
    "nova-videos/2026-10-16_demo/nova-video.mp4"
   ],
   "caption": "Nova empfiehlt 💡 3 Dinge, die ChatGPT auch gratis kann: Sprachmodus, Fotos hochladen und eigene Anweisungen.\n\n💾 Speichern und ausprobieren.\n\nNova ist eine KI-Figur 🤖 Das Bild ist KI-generiert.\n\n#KI #TechWissen #KIAvatar #Gratis #Lernen"
+ },
+ {
+  "id": "2026-11-14-reel",
+  "at": "2026-11-14T12:00:00+01:00",
+  "type": "REEL",
+  "media": [
+   "posts/2026-11-14_quiz-ki-alltag/reel-tools.mp4"
+  ],
+  "caption": "3 kostenlose KI-Helfer für deinen Alltag 📱 Welchen nutzt du schon? Schreib's in die Kommentare!\n\nTipp: Keine persönlichen Daten oder Fotos von anderen Menschen hochladen.\n\nNova ist eine KI-Figur 🤖 Folge @neuro_nauten für täglich neue KI-Tipps!\n\n#AI #LernenMitKI #Alltagshelfer #Gratis #Zukunft"
+ },
+ {
+  "id": "2026-11-14-karussell",
+  "at": "2026-11-14T18:00:00+01:00",
+  "type": "FEED",
+  "media": [
+   "posts/2026-11-14_quiz-ki-alltag/slide-01.jpg",
+   "posts/2026-11-14_quiz-ki-alltag/slide-02.jpg",
+   "posts/2026-11-14_quiz-ki-alltag/slide-03.jpg",
+   "posts/2026-11-14_quiz-ki-alltag/slide-04.jpg",
+   "posts/2026-11-14_quiz-ki-alltag/slide-05.jpg"
+  ],
+  "caption": "Samstags-Quiz 🧠 Wo steckt KI in deinem Alltag?\n\n3 Fragen, rate erst, dann wische! Schreib deine Punkte in die Kommentare 👇\n\n#ChatGPT #Produktivität #Quiz #Wissenstest #Medienkompetenz"
+ },
+ {
+  "id": "2026-11-14-story",
+  "at": "2026-11-14T18:15:00+01:00",
+  "type": "STORY",
+  "media": [
+   "posts/2026-11-14_quiz-ki-alltag/story.jpg"
+  ],
+  "caption": ""
  }
 ]
