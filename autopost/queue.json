@@ -84,8 +84,9 @@
   "at": "2026-10-17T15:00:00+02:00",
   "type": "FEED",
   "media": [
-   "https://export-download.canva.com/sOL1E/DAHYJbsOL1E/-1/0/0001-4504118758554790567.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQYCGKMUH5AO7UJ26%2F20261015%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20261015T152940Z&X-Amz-Expires=56716&X-Amz-Signature=59ce7cb07ad1324ed53bf7a9c7c7d462c21796c0896b20140bb80bdbf04ea792&X-Amz-SignedHeaders=host%3Bx-amz-expected-bucket-owner&response-expires=Fri%2C%2016%20Oct%202026%2007%3A14%3A56%20GMT"
+   "autopost/media/2026-10-17-foto-1.jpg"
   ],
-  "caption": "3 Zeitspar-Tricks für den Job ⏱️\n\n1. Lange Mails zusammenfassen lassen\n2. Aus Stichpunkten ein Protokoll machen\n3. To-dos nach Wichtigkeit sortieren\n\n🔒 Keine vertraulichen Firmendaten oder Namen von Kolleg:innen eingeben.\n\n💾 Speichern für den nächsten Bürotag! Das Bild wurde mit Canva erstellt und kann KI-generierte Inhalte enthalten.\n\n#Technologie #LernenMitKI #ZukunftDerArbeit #Job #Lernen"
+  "caption": "3 Zeitspar-Tricks für den Job ⏱️\n\n1. Lange Mails zusammenfassen lassen\n2. Aus Stichpunkten ein Protokoll machen\n3. To-dos nach Wichtigkeit sortieren\n\n🔒 Keine vertraulichen Firmendaten oder Namen von Kolleg:innen eingeben.\n\n💾 Speichern für den nächsten Bürotag! Das Bild wurde mit Canva erstellt und kann KI-generierte Inhalte enthalten.\n\n#Technologie #LernenMitKI #ZukunftDerArbeit #Job #Lernen",
+  "ready_after": "2026-10-16T05:26:54.598874+00:00"
  }
 ]
