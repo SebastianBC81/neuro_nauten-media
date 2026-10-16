@@ -1,0 +1,32 @@
+{
+ "series": "Claude-Setup",
+ "tag_thema": "claude",
+ "carousel": {
+  "kicker": "Claude-Setup #3",
+  "title": "Stile: So *klingt* Claude",
+  "subtitle": "Kurz, ausführlich oder ganz dein eigener Stil.",
+  "slides": [
+   {
+    "heading": "Wo *finde* ich das?",
+    "body": "Im Eingabefeld über das Menü für Werkzeuge und Optionen. Dort lässt sich ein Stil auswählen.",
+    "example_label": "GUT ZU WISSEN",
+    "example": "Bezeichnungen und Menüs können je nach App, Version und Tarif abweichen."
+   },
+   {
+    "heading": "Welche *Stile* gibt es?",
+    "body": "Vorlagen wie Normal, Prägnant für kurze Antworten, Erklärend zum Lernen und Formell für offizielle Texte.",
+    "example_label": "BEISPIEL",
+    "example": "Für eine schnelle Info „Prägnant“, zum Verstehen eines neuen Themas „Erklärend“."
+   },
+   {
+    "heading": "Eigenen Stil *anlegen*",
+    "body": "Beschreibe, wie Claude schreiben soll, oder gib einen eigenen Beispieltext als Vorlage.",
+    "example_label": "TIPP",
+    "example": "Als Vorlage nur Texte nutzen, die keine privaten Daten anderer enthalten."
+   }
+  ],
+  "cta": "Morgen: *Projekte*"
+ },
+ "caption": "Claude-Setup #3: Stile 🎨\n\nMit Stilen legst du fest, wie Claude antwortet: kurz und knapp, ausführlich erklärt, formell oder in deinem eigenen Stil. Den Stil wählst du direkt beim Schreiben aus (je nach App und Tarif).\n\n💾 Speichern und morgen kommt Tipp 4: Projekte.",
+ "hashtags": ["Claude", "ClaudeAI", "Anthropic", "KIAssistent", "ChatbotTipps"]
+}
