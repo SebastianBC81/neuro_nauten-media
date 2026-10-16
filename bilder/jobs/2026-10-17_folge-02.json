@@ -1,0 +1,9 @@
+{
+ "model": "SimianLuo/LCM_Dreamshaper_v7",
+ "steps": 6,
+ "size": 768,
+ "images": [
+  {"file": "bilder/2026-10-17_folge-02/einfach.png", "prompt": "a lighthouse", "seed": 7},
+  {"file": "bilder/2026-10-17_folge-02/besser.png", "prompt": "a red and white lighthouse on a rocky coast, watercolor painting, soft pastel colors, visible brush strokes on paper, calm sea", "seed": 7}
+ ]
+}

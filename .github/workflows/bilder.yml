@@ -1,0 +1,41 @@
+name: Beispielbilder erzeugen
+# Kostenlose KI-Beispielbilder für die Serie „Bilder-Prompts“ (frei lizenziertes Modell, läuft auf der CPU des GitHub-Runners).
+on:
+  workflow_dispatch:
+    inputs:
+      job:
+        description: "Job-Datei, z. B. bilder/jobs/2026-10-17_folge-02.json"
+        required: true
+permissions:
+  contents: write
+jobs:
+  bilder:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+      - name: Werkzeuge installieren
+        run: |
+          pip install -q torch --index-url https://download.pytorch.org/whl/cpu
+          pip install -q diffusers transformers accelerate safetensors
+      - name: Lizenz des Modells festhalten
+        env:
+          JOB: ${{ inputs.job }}
+        run: |
+          M=$(python3 -c "import json,os;print(json.load(open(os.environ['JOB'])).get('model','SimianLuo/LCM_Dreamshaper_v7'))")
+          mkdir -p bilder/info
+          curl -sfL "https://huggingface.co/$M/raw/main/README.md" -o "bilder/info/$(echo $M | tr / _).README.md" || true
+      - name: Bilder erzeugen
+        env:
+          JOB: ${{ inputs.job }}
+        run: python3 bilder/erzeugen.py "$JOB" 2>&1 | tee bilder/letzter-lauf.txt
+      - name: Speichern
+        if: always()
+        run: |
+          git config user.name "neuro_nauten-autopost"
+          git config user.email "actions@users.noreply.github.com"
+          git add bilder
+          git diff --cached --quiet && exit 0
+          git commit -m "Beispielbilder erzeugt"
+          for i in 1 2 3; do git pull --rebase -q origin main && git push -q origin HEAD:main && exit 0; sleep 5; done
+          exit 1
