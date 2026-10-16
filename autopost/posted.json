@@ -13,5 +13,21 @@
   "tries": 1,
   "media_id": "18113652113012145",
   "posted_at": "2026-10-16T15:05:49.989148+00:00"
+ },
+ "2026-10-16-karussell": {
+  "tries": 1,
+  "error": "Instagram-API 400: {\"error\":{\"message\":\"API access blocked.\",\"type\":\"OAuthException\",\"code\":200,\"fbtrace_id\":\"AvuZpdF_detWR0QO5tQas2h\"}}"
+ },
+ "2026-10-16-story": {
+  "tries": 1,
+  "error": "Instagram-API 400: {\"error\":{\"message\":\"API access blocked.\",\"type\":\"OAuthException\",\"code\":200,\"fbtrace_id\":\"AxJEGWwKljl62eHFuubOcVk\"}}"
+ },
+ "2026-10-16-tiktok-story": {
+  "tries": 1,
+  "error": "Instagram-API 400: {\"error\":{\"message\":\"API access blocked.\",\"type\":\"OAuthException\",\"code\":200,\"fbtrace_id\":\"A84qE1FX7RuSmjNRietgtsp\"}}"
+ },
+ "2026-10-16-bildprompts-01": {
+  "tries": 1,
+  "error": "Instagram-API 400: {\"error\":{\"message\":\"API access blocked.\",\"type\":\"OAuthException\",\"code\":200,\"fbtrace_id\":\"Ay39qC0jlSJV2iR1pQcx5XB\"}}"
  }
 }
