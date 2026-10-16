@@ -1,1097 +1,1098 @@
 [
-  {
-    "id": "2026-10-15-story-tagesplan",
-    "at": "2026-10-15T21:00:00+02:00",
-    "type": "STORY",
-    "media": [
-      "extras/2026-10-15_story-tagesplan/story.jpg"
-    ],
-    "caption": ""
-  },
-  {
-    "id": "2026-10-16-nova-video",
-    "at": "2026-10-16T17:00:00+02:00",
-    "type": "REEL",
-    "media": [
-      "nova-videos/2026-10-16_lernen-mit-ki/nova-video.mp4"
-    ],
-    "caption": "Lernen mit KI 📚 3 Tricks von Nova: Lernkarten aus deinen Notizen, dich abfragen lassen und Schwieriges ganz einfach erklären lassen.\n\n💾 Speichern und vor der nächsten Prüfung ausprobieren.\n\nNova ist eine KI-Figur 🤖 Das Bild ist KI-generiert.\n\n#KI #TechWissen #Lernmotivation #Bildung #Lernen"
-  },
-  {
-    "id": "2026-11-14-reel",
-    "at": "2026-11-14T12:00:00+01:00",
-    "type": "REEL",
-    "media": [
-      "posts/2026-11-14_quiz-ki-alltag/reel-tools.mp4"
-    ],
-    "caption": "3 kostenlose KI-Helfer für deinen Alltag 📱 Welchen nutzt du schon? Schreib's in die Kommentare!\n\nTipp: Keine persönlichen Daten oder Fotos von anderen Menschen hochladen.\n\nNova ist eine KI-Figur 🤖 Folge @neuro_nauten für täglich neue KI-Tipps!\n\n#AI #LernenMitKI #Alltagshelfer #Gratis #Zukunft"
-  },
-  {
-    "id": "2026-11-14-karussell",
-    "at": "2026-11-14T18:00:00+01:00",
-    "type": "FEED",
-    "media": [
-      "posts/2026-11-14_quiz-ki-alltag/slide-01.jpg",
-      "posts/2026-11-14_quiz-ki-alltag/slide-02.jpg",
-      "posts/2026-11-14_quiz-ki-alltag/slide-03.jpg",
-      "posts/2026-11-14_quiz-ki-alltag/slide-04.jpg",
-      "posts/2026-11-14_quiz-ki-alltag/slide-05.jpg"
-    ],
-    "caption": "Samstags-Quiz 🧠 Wo steckt KI in deinem Alltag?\n\n3 Fragen, rate erst, dann wische! Schreib deine Punkte in die Kommentare 👇\n\nNova ist eine KI-Figur 🤖\n\n#ChatGPT #Produktivität #Quiz #Wissenstest #Medienkompetenz"
-  },
-  {
-    "id": "2026-11-14-story",
-    "at": "2026-11-14T18:15:00+01:00",
-    "type": "STORY",
-    "media": [
-      "posts/2026-11-14_quiz-ki-alltag/story.jpg"
-    ],
-    "caption": ""
-  },
-  {
-    "id": "2026-10-17-nova-video",
-    "at": "2026-10-17T17:00:00+02:00",
-    "type": "REEL",
-    "media": [
-      "nova-videos/2026-10-17_texte-schreiben/nova-video.mp4"
-    ],
-    "caption": "Texte schneller schreiben ✍️ Nova zeigt 3 Wege: aus Stichpunkten eine Mail machen, lange Texte kürzen und den Ton anpassen.\n\nTipp: Keine privaten Daten in den Chat kopieren.\n\nNova ist eine KI-Figur 🤖 Das Bild ist KI-generiert.\n\n#Technologie #ChatGPTDeutsch #KIAvatar #AITools #Wissen"
-  },
-  {
-    "id": "2026-10-18-claude-03",
-    "at": "2026-10-18T09:00:00+02:00",
-    "type": "FEED",
-    "media": [
-      "serie-claude/2026-10-17_folge-03/slide-01.jpg",
-      "serie-claude/2026-10-17_folge-03/slide-02.jpg",
-      "serie-claude/2026-10-17_folge-03/slide-03.jpg",
-      "serie-claude/2026-10-17_folge-03/slide-04.jpg",
-      "serie-claude/2026-10-17_folge-03/slide-05.jpg"
-    ],
-    "caption": "Claude-Setup #3: Stile 🎨\n\nMit Stilen legst du fest, wie Claude antwortet: kurz und knapp, ausführlich erklärt, formell oder in deinem eigenen Stil. Den Stil wählst du direkt beim Schreiben aus (je nach App und Tarif).\n\n💾 Speichern! In der nächsten Folge: Tipp 4, Projekte.\n\nNova ist eine KI-Figur 🤖\n\n#KünstlicheIntelligenz #KITools #KIAssistent #Anthropic #Zukunft"
-  },
-  {
-    "id": "2026-10-19-foto",
-    "at": "2026-10-19T09:00:00+02:00",
-    "type": "FEED",
-    "media": [
-      "autopost/media/2026-10-17-foto-1.jpg"
-    ],
-    "caption": "3 Zeitspar-Tricks für den Job ⏱️\n\n1. Lange Mails zusammenfassen lassen\n2. Aus Stichpunkten ein Protokoll machen\n3. To-dos nach Wichtigkeit sortieren\n\n🔒 Keine vertraulichen Firmendaten oder Namen von Kolleg:innen eingeben.\n\n💾 Speichern für den nächsten Bürotag! Das Bild wurde mit Canva erstellt und kann KI-generierte Inhalte enthalten.\n\n#Technologie #LernenMitKI #ZukunftDerArbeit #Job #Lernen",
-    "ready_after": "2026-10-16T05:26:54.598874+00:00"
-  },
-  {
-    "id": "2026-10-17-bildprompts-02",
-    "at": "2026-10-17T09:00:00+02:00",
-    "type": "FEED",
-    "media": [
-      "autopost/media/2026-10-17-bildprompts-02-1.jpg"
-    ],
-    "caption": "Bilder-Prompts #2: Leg den Stil fest 🎨\n\n„ein Leuchtturm“ lässt der KI freie Wahl. Mit Stilangabe (Aquarell, Foto, Bleistift, 3D, Comic) bekommst du den Look, den du willst.\n\n💾 Speichern! In der nächsten Folge: Tipp 3, Licht.\n\nBeispielbilder sind KI-generiert 🤖\n\n#KI #TechWissen #AIArtCommunity #DigitalArt #TechTipps",
-    "ready_after": "2026-10-16T05:34:22.137565+00:00"
-  },
-  {
-    "id": "2026-10-16-tiktok-story",
-    "at": "2026-10-16T18:16:00+02:00",
-    "type": "STORY",
-    "media": [
-      "extras/tiktok-ankuendigung/story.jpg"
-    ],
-    "caption": ""
-  },
-  {
-    "id": "2026-10-16-reel-nachgeholt",
-    "at": "2026-10-16T12:15:00+02:00",
-    "type": "REEL",
-    "media": [
-      "posts/2026-10-16_wie-chatgpt-schreibt/reel-tools.mp4"
-    ],
-    "caption": "3 KI-Tools, die nichts kosten 🔥\n\n1️⃣ Perplexity: Suchen mit KI, Antworten mit Quellenangaben zum Nachprüfen\n2️⃣ DeepL: übersetzt ganze Texte natürlich, die Gratis-Version reicht für den Alltag\n3️⃣ Canva KI: Bilder und Designs per Texteingabe, auch im Gratis-Tarif\n\n💾 Speichern, damit du sie wiederfindest.\n💬 Welches Tool nutzt du schon?\n👉 Folge @neuro_nauten für täglich neue KI-Tools und Tipps.\n\n#KITools #KostenloseTools #Perplexity #DeepL #KI"
-  },
-  {
-    "id": "2026-10-16-karussell",
-    "at": "2026-10-16T18:00:00+02:00",
-    "type": "FEED",
-    "media": [
-      "posts/2026-10-16_wie-chatgpt-schreibt/slide-01.jpg",
-      "posts/2026-10-16_wie-chatgpt-schreibt/slide-02.jpg",
-      "posts/2026-10-16_wie-chatgpt-schreibt/slide-03.jpg",
-      "posts/2026-10-16_wie-chatgpt-schreibt/slide-04.jpg",
-      "posts/2026-10-16_wie-chatgpt-schreibt/slide-05.jpg"
-    ],
-    "caption": "Wie schreibt ChatGPT eigentlich Texte? ✍️🤖\n\nEs zerlegt Sprache in Tokens und sagt immer das nächste Stück voraus, Milliarden Mal trainiert. Die ganze Erklärung in 5 Folien.\n\n💬 Was überrascht dich daran am meisten?\n\n#KI #ChatGPT #Sprachmodell #LLM #KIerklärt #TechWissen #LernenMitKI #neuronauten #Claude #ClaudeAI #Anthropic #AI #ArtificialIntelligence #KünstlicheIntelligenz #GenerativeAI #AITools",
-    "via": "metricool-umzug"
-  },
-  {
-    "id": "2026-10-16-story",
-    "at": "2026-10-16T18:15:00+02:00",
-    "type": "STORY",
-    "media": [
-      "posts/2026-10-16_wie-chatgpt-schreibt/story.jpg"
-    ],
-    "caption": "",
-    "via": "metricool-umzug"
-  },
-  {
-    "id": "2026-10-16-bildprompts-01",
-    "at": "2026-10-16T20:00:00+02:00",
-    "type": "FEED",
-    "media": [
-      "https://static.metricool.com/planner/202610/7409051-file-8679266879848293841.jpeg"
-    ],
-    "caption": "Bilder-Prompts #1: Beschreib dein Motiv genau 🎨\n\nNeue Serie! 30 Tage lang zeigen wir dir, wie du mit ChatGPT & Co. richtig gute KI-Bilder erstellst.\n\nEinfacher Prompt: „eine Katze“ → die KI rät.\nBesserer Prompt: „Fotorealistische rote Katze schläft auf einer weißen Fensterbank, weiches Morgenlicht, Garten unscharf im Hintergrund, gemütlich, Nahaufnahme“ → genau dein Bild.\n\nDie Formel: Motiv + Stil + Licht + Perspektive + Farben + Stimmung + Format\n\n💾 Speichern und morgen kommt Tipp 2: Stil festlegen.\n\nBeide Beispielbilder sind KI-generiert 🤖\n\n#BilderPrompts #KIBilder #ChatGPT #PromptEngineering #KIlernen #neuro_nauten #Claude #ClaudeAI #Anthropic #AI #ArtificialIntelligence #KünstlicheIntelligenz #GenerativeAI #AITools",
-    "via": "metricool-umzug"
-  },
-  {
-    "id": "2026-10-17-reel",
-    "at": "2026-10-17T12:00:00+02:00",
-    "type": "REEL",
-    "media": [
-      "posts/2026-10-17_quiz-ki-basics/reel-tools.mp4"
-    ],
-    "caption": "3 ChatGPT-Funktionen, die auch in der Gratis-Version stecken ⚡ Welche nutzt du schon? Schreib's in die Kommentare!\n\nTipp: Keine persönlichen Daten in Chats oder Fotos teilen.\n\nNova ist eine KI-Figur 🤖 Folge @neuro_nauten auf Instagram & TikTok für täglich neue KI-Tipps!\n\n#KI #ChatGPT #KITools #KITipps #Gratis #LernenMitKI #Produktivität #neuronauten #Claude #ClaudeAI #Anthropic #AI #ArtificialIntelligence #KünstlicheIntelligenz #GenerativeAI #AITools",
-    "via": "metricool-umzug"
-  },
-  {
-    "id": "2026-10-17-karussell",
-    "at": "2026-10-17T18:00:00+02:00",
-    "type": "FEED",
-    "media": [
-      "posts/2026-10-17_quiz-ki-basics/slide-01.jpg",
-      "posts/2026-10-17_quiz-ki-basics/slide-02.jpg",
-      "posts/2026-10-17_quiz-ki-basics/slide-03.jpg",
-      "posts/2026-10-17_quiz-ki-basics/slide-04.jpg",
-      "posts/2026-10-17_quiz-ki-basics/slide-05.jpg"
-    ],
-    "caption": "Samstags-Quiz 🧠 Wie fit bist du in KI?\n\nRate erst, dann wische zur Auflösung. Schreib deine Punktzahl in die Kommentare: 0, 1, 2 oder 3? 👇\n\nNova ist eine KI-Figur 🤖\n\n#KI #Quiz #KIQuiz #KünstlicheIntelligenz #LernenMitKI #Wissen #ChatGPT #neuronauten #Claude #ClaudeAI #Anthropic #AI #ArtificialIntelligence #GenerativeAI #AITools",
-    "via": "metricool-umzug"
-  },
-  {
-    "id": "2026-10-17-story",
-    "at": "2026-10-17T18:15:00+02:00",
-    "type": "STORY",
-    "media": [
-      "posts/2026-10-17_quiz-ki-basics/story.jpg"
-    ],
-    "caption": "",
-    "via": "metricool-umzug"
-  },
-  {
-    "id": "2026-10-18-reel",
-    "at": "2026-10-18T12:00:00+02:00",
-    "type": "REEL",
-    "media": [
-      "posts/2026-10-18_deepfakes-erkennen/reel-tools.mp4"
-    ],
-    "caption": "Fake oder echt? 🔍 Mit Google Lens und TinEye findest du in Sekunden heraus, woher ein Bild stammt. Speichern für den nächsten viralen Post!\n\nNova ist eine KI-Figur 🤖 Folge @neuro_nauten auf Instagram & TikTok für täglich neue KI-Tipps!\n\n#KI #Deepfake #FakeNews #Medienkompetenz #GoogleLens #Faktencheck #KIerkennen #neuronauten #Claude #ClaudeAI #Anthropic #AI #ArtificialIntelligence #KünstlicheIntelligenz #GenerativeAI #AITools",
-    "via": "metricool-umzug"
-  },
-  {
-    "id": "2026-10-18-karussell",
-    "at": "2026-10-18T18:00:00+02:00",
-    "type": "FEED",
-    "media": [
-      "posts/2026-10-18_deepfakes-erkennen/slide-01.jpg",
-      "posts/2026-10-18_deepfakes-erkennen/slide-02.jpg",
-      "posts/2026-10-18_deepfakes-erkennen/slide-03.jpg",
-      "posts/2026-10-18_deepfakes-erkennen/slide-04.jpg",
-      "posts/2026-10-18_deepfakes-erkennen/slide-05.jpg"
-    ],
-    "caption": "Deepfakes erkennen 🕵️ KI-Fakes werden immer echter, aber mit diesen Checks fällst du seltener darauf rein.\n\n📤 Teile den Beitrag mit Familie und Freunden, besonders mit denen, die viel in WhatsApp-Gruppen unterwegs sind.\n\nNova ist eine KI-Figur 🤖\n\n#Deepfake #KI #Medienkompetenz #FakeNews #Sicherheit #KIerklärt #Digitalisierung #neuronauten #Claude #ClaudeAI #Anthropic #AI #ArtificialIntelligence #KünstlicheIntelligenz #GenerativeAI #AITools",
-    "via": "metricool-umzug"
-  },
-  {
-    "id": "2026-10-18-story",
-    "at": "2026-10-18T18:15:00+02:00",
-    "type": "STORY",
-    "media": [
-      "posts/2026-10-18_deepfakes-erkennen/story.jpg"
-    ],
-    "caption": "",
-    "via": "metricool-umzug"
-  },
-  {
-    "id": "2026-10-19-reel",
-    "at": "2026-10-19T12:00:00+02:00",
-    "type": "REEL",
-    "media": [
-      "posts/2026-10-19_ki-ml-deep-learning/reel-tools.mp4"
-    ],
-    "caption": "Lernen mit KI 📚 Drei kostenlose Tools für Schule, Studium und Weiterbildung. Welches probierst du zuerst?\n\nNova ist eine KI-Figur 🤖 Folge @neuro_nauten auf Instagram & TikTok für täglich neue KI-Tipps!\n\n#KI #LernenMitKI #NotebookLM #ChatGPT #Studium #Schule #Weiterbildung #neuronauten #Claude #ClaudeAI #Anthropic #AI #ArtificialIntelligence #KünstlicheIntelligenz #GenerativeAI #AITools",
-    "via": "metricool-umzug"
-  },
-  {
-    "id": "2026-10-19-karussell",
-    "at": "2026-10-19T18:00:00+02:00",
-    "type": "FEED",
-    "media": [
-      "posts/2026-10-19_ki-ml-deep-learning/slide-01.jpg",
-      "posts/2026-10-19_ki-ml-deep-learning/slide-02.jpg",
-      "posts/2026-10-19_ki-ml-deep-learning/slide-03.jpg",
-      "posts/2026-10-19_ki-ml-deep-learning/slide-04.jpg",
-      "posts/2026-10-19_ki-ml-deep-learning/slide-05.jpg"
-    ],
-    "caption": "KI, Machine Learning, Deep Learning: Was ist was? 🧅\n\nStell sie dir wie Zwiebelschalen vor: KI ist außen, Deep Learning ganz innen. Die Erklärung in den Folien.\n\n💾 Speichern für die nächste Diskussion im Büro!\n\nNova ist eine KI-Figur 🤖\n\n#KI #MachineLearning #DeepLearning #KIerklärt #KünstlicheIntelligenz #LernenMitKI #Weiterbildung #neuronauten #Claude #ClaudeAI #Anthropic #AI #ArtificialIntelligence #GenerativeAI #AITools",
-    "via": "metricool-umzug"
-  },
-  {
-    "id": "2026-10-19-story",
-    "at": "2026-10-19T18:15:00+02:00",
-    "type": "STORY",
-    "media": [
-      "posts/2026-10-19_ki-ml-deep-learning/story.jpg"
-    ],
-    "caption": "",
-    "via": "metricool-umzug"
-  },
-  {
-    "id": "2026-10-20-reel",
-    "at": "2026-10-20T12:00:00+02:00",
-    "type": "REEL",
-    "media": [
-      "posts/2026-10-20_prompt-formel/reel-tools.mp4"
-    ],
-    "caption": "Die Prompt-Formel ✍️ Rolle, Aufgabe mit Kontext, Format. Funktioniert mit ChatGPT, Claude, Gemini und Co. Speichern und beim nächsten Prompt ausprobieren!\n\nNova ist eine KI-Figur 🤖 Folge @neuro_nauten auf Instagram & TikTok für täglich neue KI-Tipps!\n\n#KI #Prompt #PromptEngineering #ChatGPT #Claude #KITipps #LernenMitKI #neuronauten #ClaudeAI #Anthropic #AI #ArtificialIntelligence #KünstlicheIntelligenz #GenerativeAI #AITools",
-    "via": "metricool-umzug"
-  },
-  {
-    "id": "2026-10-20-karussell",
-    "at": "2026-10-20T18:00:00+02:00",
-    "type": "FEED",
-    "media": [
-      "posts/2026-10-20_prompt-formel/slide-01.jpg",
-      "posts/2026-10-20_prompt-formel/slide-02.jpg",
-      "posts/2026-10-20_prompt-formel/slide-03.jpg",
-      "posts/2026-10-20_prompt-formel/slide-04.jpg",
-      "posts/2026-10-20_prompt-formel/slide-05.jpg"
-    ],
-    "caption": "Die 4-Teile-Formel für bessere Prompts 🎯\n\nRolle + Aufgabe + Kontext + Format = Antworten, die wirklich passen. Probier's aus und erzähl uns in den Kommentaren, wie's geklappt hat!\n\n💾 Speichern, damit du die Formel parat hast.\n\nNova ist eine KI-Figur 🤖\n\n#Prompt #PromptEngineering #ChatGPT #KI #KITipps #Produktivität #LernenMitKI #neuronauten #Claude #ClaudeAI #Anthropic #AI #ArtificialIntelligence #KünstlicheIntelligenz #GenerativeAI #AITools",
-    "via": "metricool-umzug"
-  },
-  {
-    "id": "2026-10-20-story",
-    "at": "2026-10-20T18:15:00+02:00",
-    "type": "STORY",
-    "media": [
-      "posts/2026-10-20_prompt-formel/story.jpg"
-    ],
-    "caption": "",
-    "via": "metricool-umzug"
-  },
-  {
-    "id": "2026-10-21-reel",
-    "at": "2026-10-21T12:00:00+02:00",
-    "type": "REEL",
-    "media": [
-      "posts/2026-10-21_emails-mit-ki/reel-tools.mp4"
-    ],
-    "caption": "Bessere E-Mails mit KI 📧 Stichpunkte rein, Entwurf raus, Feinschliff mit DeepL Write. Und immer dran denken: keine persönlichen Daten in KI-Tools.\n\nNova ist eine KI-Figur 🤖 Folge @neuro_nauten auf Instagram & TikTok für täglich neue KI-Tipps!\n\n#KI #EMail #ChatGPT #DeepL #Büro #Produktivität #Datenschutz #neuronauten #Claude #ClaudeAI #Anthropic #AI #ArtificialIntelligence #KünstlicheIntelligenz #GenerativeAI #AITools",
-    "via": "metricool-umzug"
-  },
-  {
-    "id": "2026-10-21-karussell",
-    "at": "2026-10-21T18:00:00+02:00",
-    "type": "FEED",
-    "media": [
-      "posts/2026-10-21_emails-mit-ki/slide-01.jpg",
-      "posts/2026-10-21_emails-mit-ki/slide-02.jpg",
-      "posts/2026-10-21_emails-mit-ki/slide-03.jpg",
-      "posts/2026-10-21_emails-mit-ki/slide-04.jpg",
-      "posts/2026-10-21_emails-mit-ki/slide-05.jpg"
-    ],
-    "caption": "Bessere E-Mails mit KI ✉️🤖\n\nStichpunkte rein, Ton festlegen, fertig. Und das Wichtigste: keine sensiblen Daten in den Chat, sondern Platzhalter verwenden.\n\n💾 Speichern für die nächste schwierige Mail!\n💬 Für welche Mails nutzt du KI schon?\n\nNova ist eine KI-Figur 🤖\n\n#KI #KIimAlltag #EMail #ChatGPT #Produktivität #Datenschutz #LernenMitKI #neuronauten #Claude #ClaudeAI #Anthropic #AI #ArtificialIntelligence #KünstlicheIntelligenz #GenerativeAI #AITools",
-    "via": "metricool-umzug"
-  },
-  {
-    "id": "2026-10-21-story",
-    "at": "2026-10-21T18:15:00+02:00",
-    "type": "STORY",
-    "media": [
-      "posts/2026-10-21_emails-mit-ki/story.jpg"
-    ],
-    "caption": "",
-    "via": "metricool-umzug"
-  },
-  {
-    "id": "2026-10-22-reel",
-    "at": "2026-10-22T12:00:00+02:00",
-    "type": "REEL",
-    "media": [
-      "posts/2026-10-22_mythos-ki-nimmt-jobs/reel-tools.mp4"
-    ],
-    "caption": "3 KI-Skills, die in fast jedem Job helfen 💼 Prompten, prüfen, schützen. Welchen willst du als Nächstes lernen?\n\nNova ist eine KI-Figur 🤖 Folge @neuro_nauten auf Instagram & TikTok für täglich neue KI-Tipps!\n\n#KI #Karriere #Zukunftderarbeit #Weiterbildung #KISkills #Job #LernenMitKI #neuronauten #Claude #ClaudeAI #Anthropic #AI #ArtificialIntelligence #KünstlicheIntelligenz #GenerativeAI #AITools",
-    "via": "metricool-umzug"
-  },
-  {
-    "id": "2026-10-22-karussell",
-    "at": "2026-10-22T18:00:00+02:00",
-    "type": "FEED",
-    "media": [
-      "posts/2026-10-22_mythos-ki-nimmt-jobs/slide-01.jpg",
-      "posts/2026-10-22_mythos-ki-nimmt-jobs/slide-02.jpg",
-      "posts/2026-10-22_mythos-ki-nimmt-jobs/slide-03.jpg",
-      "posts/2026-10-22_mythos-ki-nimmt-jobs/slide-04.jpg",
-      "posts/2026-10-22_mythos-ki-nimmt-jobs/slide-05.jpg"
-    ],
-    "caption": "„KI nimmt uns alle Jobs weg“: Mythos oder Fakt? 🤔\n\nEher Mythos. KI übernimmt Aufgaben, nicht ganze Menschen. Wer lernt, sie zu nutzen, hat einen echten Vorsprung.\n\n💬 Wie verändert KI deinen Job? Schreib's in die Kommentare!\n\nNova ist eine KI-Figur 🤖\n\n#KI #Zukunftderarbeit #Jobs #MythosOderFakt #Weiterbildung #LernenMitKI #KIerklärt #neuronauten #Claude #ClaudeAI #Anthropic #AI #ArtificialIntelligence #KünstlicheIntelligenz #GenerativeAI #AITools",
-    "via": "metricool-umzug"
-  },
-  {
-    "id": "2026-10-22-story",
-    "at": "2026-10-22T18:15:00+02:00",
-    "type": "STORY",
-    "media": [
-      "posts/2026-10-22_mythos-ki-nimmt-jobs/story.jpg"
-    ],
-    "caption": "",
-    "via": "metricool-umzug"
-  },
-  {
-    "id": "2026-10-23-reel",
-    "at": "2026-10-23T12:00:00+02:00",
-    "type": "REEL",
-    "media": [
-      "posts/2026-10-23_wie-bildgeneratoren-funktionieren/reel-tools.mp4"
-    ],
-    "caption": "KI-Bilder kostenlos erstellen 🎨 Welches Tool hast du schon getestet? Schreib's in die Kommentare!\n\nTipp: Keine Fotos von echten Personen hochladen und KI-Bilder immer als KI-generiert kennzeichnen.\n\nNova ist eine KI-Figur 🤖 Folge @neuro_nauten auf Instagram & TikTok für täglich neue KI-Tipps!\n\n#Technologie #Weiterbildung #Gratis #BildKI #Lernen",
-    "via": "metricool-umzug"
-  },
-  {
-    "id": "2026-10-23-karussell",
-    "at": "2026-10-23T18:00:00+02:00",
-    "type": "FEED",
-    "media": [
-      "posts/2026-10-23_wie-bildgeneratoren-funktionieren/slide-01.jpg",
-      "posts/2026-10-23_wie-bildgeneratoren-funktionieren/slide-02.jpg",
-      "posts/2026-10-23_wie-bildgeneratoren-funktionieren/slide-03.jpg",
-      "posts/2026-10-23_wie-bildgeneratoren-funktionieren/slide-04.jpg",
-      "posts/2026-10-23_wie-bildgeneratoren-funktionieren/slide-05.jpg"
-    ],
-    "caption": "Wie malt eine KI eigentlich Bilder? 🎨🤖\n\nSie startet mit Rauschen und entfernt es Schritt für Schritt, gelenkt von deinem Prompt. Das Verfahren heißt Diffusion.\n\n💾 Speichern & teilen!\n\nNova ist eine KI-Figur 🤖\n\n#KI #KIBilder #Bildgenerator #Diffusion #KIerklärt #TechWissen #LernenMitKI #neuronauten #Claude #ClaudeAI #Anthropic #AI #ArtificialIntelligence #KünstlicheIntelligenz #GenerativeAI #AITools",
-    "via": "metricool-umzug"
-  },
-  {
-    "id": "2026-10-23-story",
-    "at": "2026-10-23T18:15:00+02:00",
-    "type": "STORY",
-    "media": [
-      "posts/2026-10-23_wie-bildgeneratoren-funktionieren/story.jpg"
-    ],
-    "caption": "",
-    "via": "metricool-umzug"
-  },
-  {
-    "id": "2026-10-24-reel",
-    "at": "2026-10-24T12:00:00+02:00",
-    "type": "REEL",
-    "media": [
-      "posts/2026-10-24_quiz-prompts/reel-tools.mp4"
-    ],
-    "caption": "3 Prompt-Tricks, die sofort bessere Antworten bringen 💬 Welchen probierst du zuerst? Schreib's in die Kommentare!\n\nTipp: Keine Passwörter oder privaten Daten in Prompts schreiben.\n\nNova ist eine KI-Figur 🤖 Folge @neuro_nauten auf Instagram & TikTok für täglich neue KI-Tipps!\n\n#Technologie #KIimAlltag #ChatGPTTipps #PromptTipps #Lifehacks",
-    "via": "metricool-umzug"
-  },
-  {
-    "id": "2026-10-24-karussell",
-    "at": "2026-10-24T18:00:00+02:00",
-    "type": "FEED",
-    "media": [
-      "posts/2026-10-24_quiz-prompts/slide-01.jpg",
-      "posts/2026-10-24_quiz-prompts/slide-02.jpg",
-      "posts/2026-10-24_quiz-prompts/slide-03.jpg",
-      "posts/2026-10-24_quiz-prompts/slide-04.jpg",
-      "posts/2026-10-24_quiz-prompts/slide-05.jpg"
-    ],
-    "caption": "Samstags-Quiz 🧠 Bist du ein Prompt-Profi?\n\nRate erst, dann wische zur Auflösung. Schreib deine Punktzahl in die Kommentare 👇\n\nNova ist eine KI-Figur 🤖\n\n#KI #Quiz #Prompt #ChatGPT #KITipps #LernenMitKI #KIerklärt #neuronauten #Claude #ClaudeAI #Anthropic #AI #ArtificialIntelligence #KünstlicheIntelligenz #GenerativeAI #AITools",
-    "via": "metricool-umzug"
-  },
-  {
-    "id": "2026-10-24-story",
-    "at": "2026-10-24T18:15:00+02:00",
-    "type": "STORY",
-    "media": [
-      "posts/2026-10-24_quiz-prompts/story.jpg"
-    ],
-    "caption": "",
-    "via": "metricool-umzug"
-  },
-  {
-    "id": "2026-10-25-reel",
-    "at": "2026-10-25T12:00:00+01:00",
-    "type": "REEL",
-    "media": [
-      "posts/2026-10-25_datenschutz-chatbots/reel.mp4"
-    ],
-    "caption": "Was weiß die KI über dich? 🔒 3 Datenschutz-Regeln für Chatbots. Folge @neuro_nauten für mehr!\n\nNova ist eine KI-Figur 🤖\n\n📲 Folge @neuro_nauten auf Instagram & TikTok!\n\n#Datenschutz #KI #ChatGPT #Sicherheit #Medienkompetenz #KIerklärt #LernenMitKI #neuronauten #Claude #ClaudeAI #Anthropic #AI #ArtificialIntelligence #KünstlicheIntelligenz #GenerativeAI #AITools",
-    "via": "metricool-umzug"
-  },
-  {
-    "id": "2026-10-25-karussell",
-    "at": "2026-10-25T18:00:00+01:00",
-    "type": "FEED",
-    "media": [
-      "posts/2026-10-25_datenschutz-chatbots/slide-01.jpg",
-      "posts/2026-10-25_datenschutz-chatbots/slide-02.jpg",
-      "posts/2026-10-25_datenschutz-chatbots/slide-03.jpg",
-      "posts/2026-10-25_datenschutz-chatbots/slide-04.jpg",
-      "posts/2026-10-25_datenschutz-chatbots/slide-05.jpg"
-    ],
-    "caption": "Datenschutz bei Chatbots 🔒\n\nAlles, was du eintippst, kann gespeichert werden. Darum: keine Passwörter, keine Gesundheitsdaten, keine Daten anderer, und im Job die Regeln checken.\n\n📤 Teile das mit jemandem, der ChatGPT alles erzählt!\n\nNova ist eine KI-Figur 🤖\n\n#Datenschutz #KI #ChatGPT #Sicherheit #Medienkompetenz #KIerklärt #LernenMitKI #neuronauten #Claude #ClaudeAI #Anthropic #AI #ArtificialIntelligence #KünstlicheIntelligenz #GenerativeAI #AITools",
-    "via": "metricool-umzug"
-  },
-  {
-    "id": "2026-10-25-story",
-    "at": "2026-10-25T18:15:00+01:00",
-    "type": "STORY",
-    "media": [
-      "posts/2026-10-25_datenschutz-chatbots/story.jpg"
-    ],
-    "caption": "",
-    "via": "metricool-umzug"
-  },
-  {
-    "id": "2026-10-26-reel",
-    "at": "2026-10-26T12:00:00+01:00",
-    "type": "REEL",
-    "media": [
-      "posts/2026-10-26_neuronales-netz/reel.mp4"
-    ],
-    "caption": "Neuronales Netz in 20 Sekunden erklärt 🧠 Folge @neuro_nauten für mehr!\n\nNova ist eine KI-Figur 🤖\n\n📲 Folge @neuro_nauten auf Instagram & TikTok!\n\n#KI #NeuronalesNetz #DeepLearning #KIBasics #KIerklärt #TechWissen #LernenMitKI #neuronauten #Claude #ClaudeAI #Anthropic #AI #ArtificialIntelligence #KünstlicheIntelligenz #GenerativeAI #AITools",
-    "via": "metricool-umzug"
-  },
-  {
-    "id": "2026-10-26-karussell",
-    "at": "2026-10-26T18:00:00+01:00",
-    "type": "FEED",
-    "media": [
-      "posts/2026-10-26_neuronales-netz/slide-01.jpg",
-      "posts/2026-10-26_neuronales-netz/slide-02.jpg",
-      "posts/2026-10-26_neuronales-netz/slide-03.jpg",
-      "posts/2026-10-26_neuronales-netz/slide-04.jpg",
-      "posts/2026-10-26_neuronales-netz/slide-05.jpg"
-    ],
-    "caption": "Was ist ein neuronales Netz? 🧠\n\nViele verbundene Recheneinheiten in Schichten. Lernen heißt: die Gewichte der Verbindungen so lange anpassen, bis die Antworten stimmen.\n\n💾 Speichern für später!\n\nNova ist eine KI-Figur 🤖\n\n#KI #NeuronalesNetz #DeepLearning #KIBasics #KIerklärt #TechWissen #LernenMitKI #neuronauten #Claude #ClaudeAI #Anthropic #AI #ArtificialIntelligence #KünstlicheIntelligenz #GenerativeAI #AITools",
-    "via": "metricool-umzug"
-  },
-  {
-    "id": "2026-10-26-story",
-    "at": "2026-10-26T18:15:00+01:00",
-    "type": "STORY",
-    "media": [
-      "posts/2026-10-26_neuronales-netz/story.jpg"
-    ],
-    "caption": "",
-    "via": "metricool-umzug"
-  },
-  {
-    "id": "2026-10-27-reel",
-    "at": "2026-10-27T12:00:00+01:00",
-    "type": "REEL",
-    "media": [
-      "posts/2026-10-27_prompt-beispiele-geben/reel.mp4"
-    ],
-    "caption": "Der Beispiel-Trick für bessere Prompts ✍️ Folge @neuro_nauten für mehr!\n\nNova ist eine KI-Figur 🤖\n\n📲 Folge @neuro_nauten auf Instagram & TikTok!\n\n#Prompt #PromptEngineering #ChatGPT #KITipps #Produktivität #LernenMitKI #KIerklärt #neuronauten #Claude #ClaudeAI #Anthropic #AI #ArtificialIntelligence #KünstlicheIntelligenz #GenerativeAI #AITools",
-    "via": "metricool-umzug"
-  },
-  {
-    "id": "2026-10-27-karussell",
-    "at": "2026-10-27T18:00:00+01:00",
-    "type": "FEED",
-    "media": [
-      "posts/2026-10-27_prompt-beispiele-geben/slide-01.jpg",
-      "posts/2026-10-27_prompt-beispiele-geben/slide-02.jpg",
-      "posts/2026-10-27_prompt-beispiele-geben/slide-03.jpg",
-      "posts/2026-10-27_prompt-beispiele-geben/slide-04.jpg",
-      "posts/2026-10-27_prompt-beispiele-geben/slide-05.jpg"
-    ],
-    "caption": "Prompt-Tipp: Zeig der KI ein Beispiel ✍️\n\nStatt lange zu beschreiben, gib 1–2 Muster mit. Die KI übernimmt Stil und Aufbau. Das heißt Few-Shot-Prompting.\n\n💬 Wofür probierst du das zuerst aus?\n\nNova ist eine KI-Figur 🤖\n\n#Prompt #PromptEngineering #ChatGPT #KITipps #Produktivität #LernenMitKI #KIerklärt #neuronauten #Claude #ClaudeAI #Anthropic #AI #ArtificialIntelligence #KünstlicheIntelligenz #GenerativeAI #AITools",
-    "via": "metricool-umzug"
-  },
-  {
-    "id": "2026-10-27-story",
-    "at": "2026-10-27T18:15:00+01:00",
-    "type": "STORY",
-    "media": [
-      "posts/2026-10-27_prompt-beispiele-geben/story.jpg"
-    ],
-    "caption": "",
-    "via": "metricool-umzug"
-  },
-  {
-    "id": "2026-10-28-reel",
-    "at": "2026-10-28T12:00:00+01:00",
-    "type": "REEL",
-    "media": [
-      "posts/2026-10-28_lernen-mit-ki/reel.mp4"
-    ],
-    "caption": "Lernen mit KI: 3 Tricks 📚 Folge @neuro_nauten für mehr!\n\nNova ist eine KI-Figur 🤖\n\n📲 Folge @neuro_nauten auf Instagram & TikTok!\n\n#Lernen #KI #LernenMitKI #Schule #Studium #ChatGPT #KIimAlltag #neuronauten #Claude #ClaudeAI #Anthropic #AI #ArtificialIntelligence #KünstlicheIntelligenz #GenerativeAI #AITools",
-    "via": "metricool-umzug"
-  },
-  {
-    "id": "2026-10-28-karussell",
-    "at": "2026-10-28T18:00:00+01:00",
-    "type": "FEED",
-    "media": [
-      "posts/2026-10-28_lernen-mit-ki/slide-01.jpg",
-      "posts/2026-10-28_lernen-mit-ki/slide-02.jpg",
-      "posts/2026-10-28_lernen-mit-ki/slide-03.jpg",
-      "posts/2026-10-28_lernen-mit-ki/slide-04.jpg",
-      "posts/2026-10-28_lernen-mit-ki/slide-05.jpg"
-    ],
-    "caption": "Besser lernen mit KI 📚🤖\n\nErklären lassen, abfragen lassen, aber selbst denken. So wird KI zum geduldigsten Nachhilfelehrer der Welt.\n\n📤 Teile das mit jemandem, der gerade für Prüfungen lernt!\n\nNova ist eine KI-Figur 🤖\n\n#Lernen #KI #LernenMitKI #Schule #Studium #ChatGPT #KIimAlltag #neuronauten #Claude #ClaudeAI #Anthropic #AI #ArtificialIntelligence #KünstlicheIntelligenz #GenerativeAI #AITools",
-    "via": "metricool-umzug"
-  },
-  {
-    "id": "2026-10-28-story",
-    "at": "2026-10-28T18:15:00+01:00",
-    "type": "STORY",
-    "media": [
-      "posts/2026-10-28_lernen-mit-ki/story.jpg"
-    ],
-    "caption": "",
-    "via": "metricool-umzug"
-  },
-  {
-    "id": "2026-10-29-reel",
-    "at": "2026-10-29T12:00:00+01:00",
-    "type": "REEL",
-    "media": [
-      "posts/2026-10-29_mythos-ki-ist-neutral/reel.mp4"
-    ],
-    "caption": "Ist KI neutral? ⚖️ Spoiler: nein. Folge @neuro_nauten für mehr!\n\nNova ist eine KI-Figur 🤖\n\n📲 Folge @neuro_nauten auf Instagram & TikTok!\n\n#KI #Bias #MythosOderFakt #Ethik #Medienkompetenz #KIerklärt #LernenMitKI #neuronauten #Claude #ClaudeAI #Anthropic #AI #ArtificialIntelligence #KünstlicheIntelligenz #GenerativeAI #AITools",
-    "via": "metricool-umzug"
-  },
-  {
-    "id": "2026-10-29-karussell",
-    "at": "2026-10-29T18:00:00+01:00",
-    "type": "FEED",
-    "media": [
-      "posts/2026-10-29_mythos-ki-ist-neutral/slide-01.jpg",
-      "posts/2026-10-29_mythos-ki-ist-neutral/slide-02.jpg",
-      "posts/2026-10-29_mythos-ki-ist-neutral/slide-03.jpg",
-      "posts/2026-10-29_mythos-ki-ist-neutral/slide-04.jpg",
-      "posts/2026-10-29_mythos-ki-ist-neutral/slide-05.jpg"
-    ],
-    "caption": "„KI ist neutral“: Mythos oder Fakt? ⚖️\n\nMythos. KI lernt aus menschlichen Daten und übernimmt deren Verzerrungen. Darum: Ergebnisse immer kritisch prüfen.\n\n💬 Ist dir so etwas schon mal aufgefallen?\n\nNova ist eine KI-Figur 🤖\n\n#KI #Bias #MythosOderFakt #Ethik #Medienkompetenz #KIerklärt #LernenMitKI #neuronauten #Claude #ClaudeAI #Anthropic #AI #ArtificialIntelligence #KünstlicheIntelligenz #GenerativeAI #AITools",
-    "via": "metricool-umzug"
-  },
-  {
-    "id": "2026-10-29-story",
-    "at": "2026-10-29T18:15:00+01:00",
-    "type": "STORY",
-    "media": [
-      "posts/2026-10-29_mythos-ki-ist-neutral/story.jpg"
-    ],
-    "caption": "",
-    "via": "metricool-umzug"
-  },
-  {
-    "id": "2026-10-30-reel",
-    "at": "2026-10-30T12:00:00+01:00",
-    "type": "REEL",
-    "media": [
-      "posts/2026-10-30_spracherkennung/reel.mp4"
-    ],
-    "caption": "So hört KI zu 🎙️ In 3 Schritten erklärt. Folge @neuro_nauten für mehr!\n\nNova ist eine KI-Figur 🤖\n\n📲 Folge @neuro_nauten auf Instagram & TikTok!\n\n#KI #Spracherkennung #Sprachassistent #KIerklärt #TechWissen #LernenMitKI #neuronauten #Claude #ClaudeAI #Anthropic #AI #ArtificialIntelligence #KünstlicheIntelligenz #GenerativeAI #AITools",
-    "via": "metricool-umzug"
-  },
-  {
-    "id": "2026-10-30-karussell",
-    "at": "2026-10-30T18:00:00+01:00",
-    "type": "FEED",
-    "media": [
-      "posts/2026-10-30_spracherkennung/slide-01.jpg",
-      "posts/2026-10-30_spracherkennung/slide-02.jpg",
-      "posts/2026-10-30_spracherkennung/slide-03.jpg",
-      "posts/2026-10-30_spracherkennung/slide-04.jpg",
-      "posts/2026-10-30_spracherkennung/slide-05.jpg"
-    ],
-    "caption": "Wie versteht KI Sprache? 🎙️🤖\n\nSchall wird zu Daten, Muster werden zu Wörtern, und der Kontext räumt Fehler aus. Sprachassistenten machen das in Sekundenbruchteilen.\n\n💾 Speichern & teilen!\n\nNova ist eine KI-Figur 🤖\n\n#KI #Spracherkennung #Sprachassistent #KIerklärt #TechWissen #LernenMitKI #neuronauten #Claude #ClaudeAI #Anthropic #AI #ArtificialIntelligence #KünstlicheIntelligenz #GenerativeAI #AITools",
-    "via": "metricool-umzug"
-  },
-  {
-    "id": "2026-10-30-story",
-    "at": "2026-10-30T18:15:00+01:00",
-    "type": "STORY",
-    "media": [
-      "posts/2026-10-30_spracherkennung/story.jpg"
-    ],
-    "caption": "",
-    "via": "metricool-umzug"
-  },
-  {
-    "id": "2026-10-31-reel",
-    "at": "2026-10-31T12:00:00+01:00",
-    "type": "REEL",
-    "media": [
-      "posts/2026-10-31_quiz-ki-mythen/reel.mp4"
-    ],
-    "caption": "Wahr oder falsch? 🧠 Das KI-Mythen-Quiz. Folge @neuro_nauten für mehr!\n\nNova ist eine KI-Figur 🤖\n\n📲 Folge @neuro_nauten auf Instagram & TikTok!\n\n#KI #Quiz #MythosOderFakt #LernenMitKI #KIerklärt #Wissen #neuronauten #Claude #ClaudeAI #Anthropic #AI #ArtificialIntelligence #KünstlicheIntelligenz #GenerativeAI #AITools",
-    "via": "metricool-umzug"
-  },
-  {
-    "id": "2026-10-31-karussell",
-    "at": "2026-10-31T18:00:00+01:00",
-    "type": "FEED",
-    "media": [
-      "posts/2026-10-31_quiz-ki-mythen/slide-01.jpg",
-      "posts/2026-10-31_quiz-ki-mythen/slide-02.jpg",
-      "posts/2026-10-31_quiz-ki-mythen/slide-03.jpg",
-      "posts/2026-10-31_quiz-ki-mythen/slide-04.jpg",
-      "posts/2026-10-31_quiz-ki-mythen/slide-05.jpg"
-    ],
-    "caption": "Samstags-Quiz 🧠 Wahr oder falsch?\n\nDrei Aussagen über KI. Rate erst, dann wische! Wie viele hattest du richtig? 👇\n\nNova ist eine KI-Figur 🤖\n\n#KI #Quiz #MythosOderFakt #LernenMitKI #KIerklärt #Wissen #neuronauten #Claude #ClaudeAI #Anthropic #AI #ArtificialIntelligence #KünstlicheIntelligenz #GenerativeAI #AITools",
-    "via": "metricool-umzug"
-  },
-  {
-    "id": "2026-10-31-story",
-    "at": "2026-10-31T18:15:00+01:00",
-    "type": "STORY",
-    "media": [
-      "posts/2026-10-31_quiz-ki-mythen/story.jpg"
-    ],
-    "caption": "",
-    "via": "metricool-umzug"
-  },
-  {
-    "id": "2026-11-01-reel",
-    "at": "2026-11-01T12:00:00+01:00",
-    "type": "REEL",
-    "media": [
-      "posts/2026-11-01_eu-ai-act/reel.mp4"
-    ],
-    "caption": "Das KI-Gesetz der EU in 20 Sekunden 🇪🇺 Folge @neuro_nauten für mehr!\n\nNova ist eine KI-Figur 🤖\n\n📲 Folge @neuro_nauten auf Instagram & TikTok!\n\n#KI #AIAct #EU #KIGesetz #Ethik #KIerklärt #LernenMitKI #neuronauten #Claude #ClaudeAI #Anthropic #AI #ArtificialIntelligence #KünstlicheIntelligenz #GenerativeAI #AITools",
-    "via": "metricool-umzug"
-  },
-  {
-    "id": "2026-11-01-karussell",
-    "at": "2026-11-01T18:00:00+01:00",
-    "type": "FEED",
-    "media": [
-      "posts/2026-11-01_eu-ai-act/slide-01.jpg",
-      "posts/2026-11-01_eu-ai-act/slide-02.jpg",
-      "posts/2026-11-01_eu-ai-act/slide-03.jpg",
-      "posts/2026-11-01_eu-ai-act/slide-04.jpg",
-      "posts/2026-11-01_eu-ai-act/slide-05.jpg"
-    ],
-    "caption": "Der EU AI Act einfach erklärt 🇪🇺⚖️\n\nRegeln nach Risiko, Verbote für besonders gefährliche Anwendungen und mehr Transparenz bei Chatbots und Deepfakes.\n\n💬 Findest du die Regeln zu streng oder zu locker?\n\nNova ist eine KI-Figur 🤖\n\n#KI #AIAct #EU #KIGesetz #Ethik #KIerklärt #LernenMitKI #neuronauten #Claude #ClaudeAI #Anthropic #AI #ArtificialIntelligence #KünstlicheIntelligenz #GenerativeAI #AITools",
-    "via": "metricool-umzug"
-  },
-  {
-    "id": "2026-11-01-story",
-    "at": "2026-11-01T18:15:00+01:00",
-    "type": "STORY",
-    "media": [
-      "posts/2026-11-01_eu-ai-act/story.jpg"
-    ],
-    "caption": "",
-    "via": "metricool-umzug"
-  },
-  {
-    "id": "2026-11-02-reel",
-    "at": "2026-11-02T12:00:00+01:00",
-    "type": "REEL",
-    "media": [
-      "posts/2026-11-02_trainingsdaten/reel.mp4"
-    ],
-    "caption": "Was frisst eine KI? 🍽️ Trainingsdaten erklärt. Folge @neuro_nauten für mehr!\n\nNova ist eine KI-Figur 🤖\n\n📲 Folge @neuro_nauten auf Instagram & TikTok!\n\n#KI #Trainingsdaten #Daten #KIBasics #KIerklärt #LernenMitKI #neuronauten #Claude #ClaudeAI #Anthropic #AI #ArtificialIntelligence #KünstlicheIntelligenz #GenerativeAI #AITools",
-    "via": "metricool-umzug"
-  },
-  {
-    "id": "2026-11-02-karussell",
-    "at": "2026-11-02T18:00:00+01:00",
-    "type": "FEED",
-    "media": [
-      "posts/2026-11-02_trainingsdaten/slide-01.jpg",
-      "posts/2026-11-02_trainingsdaten/slide-02.jpg",
-      "posts/2026-11-02_trainingsdaten/slide-03.jpg",
-      "posts/2026-11-02_trainingsdaten/slide-04.jpg",
-      "posts/2026-11-02_trainingsdaten/slide-05.jpg"
-    ],
-    "caption": "Trainingsdaten: das Futter der KI 🍽️🤖\n\nOhne Daten keine KI, und schlechte Daten machen schlechte KI. Garbage in, garbage out!\n\n💾 Speichern für später!\n\nNova ist eine KI-Figur 🤖\n\n#KI #Trainingsdaten #Daten #KIBasics #KIerklärt #LernenMitKI #neuronauten #Claude #ClaudeAI #Anthropic #AI #ArtificialIntelligence #KünstlicheIntelligenz #GenerativeAI #AITools",
-    "via": "metricool-umzug"
-  },
-  {
-    "id": "2026-11-02-story",
-    "at": "2026-11-02T18:15:00+01:00",
-    "type": "STORY",
-    "media": [
-      "posts/2026-11-02_trainingsdaten/story.jpg"
-    ],
-    "caption": "",
-    "via": "metricool-umzug"
-  },
-  {
-    "id": "2026-11-03-reel",
-    "at": "2026-11-03T12:00:00+01:00",
-    "type": "REEL",
-    "media": [
-      "posts/2026-11-03_prompt-rueckfragen/reel.mp4"
-    ],
-    "caption": "Ein Satz für bessere KI-Antworten 🙋 Folge @neuro_nauten für mehr!\n\nNova ist eine KI-Figur 🤖\n\n📲 Folge @neuro_nauten auf Instagram & TikTok!\n\n#Prompt #PromptEngineering #ChatGPT #KITipps #Produktivität #LernenMitKI #neuronauten #Claude #ClaudeAI #Anthropic #AI #ArtificialIntelligence #KünstlicheIntelligenz #GenerativeAI #AITools",
-    "via": "metricool-umzug"
-  },
-  {
-    "id": "2026-11-03-karussell",
-    "at": "2026-11-03T18:00:00+01:00",
-    "type": "FEED",
-    "media": [
-      "posts/2026-11-03_prompt-rueckfragen/slide-01.jpg",
-      "posts/2026-11-03_prompt-rueckfragen/slide-02.jpg",
-      "posts/2026-11-03_prompt-rueckfragen/slide-03.jpg",
-      "posts/2026-11-03_prompt-rueckfragen/slide-04.jpg",
-      "posts/2026-11-03_prompt-rueckfragen/slide-05.jpg"
-    ],
-    "caption": "Prompt-Tipp: Lass die KI zurückfragen 🙋\n\nEin Satz am Ende reicht: „Stell mir zuerst bis zu 5 Fragen, bevor du antwortest.“ Probier's aus!\n\n💾 Speichern!\n\nNova ist eine KI-Figur 🤖\n\n#Prompt #PromptEngineering #ChatGPT #KITipps #Produktivität #LernenMitKI #neuronauten #Claude #ClaudeAI #Anthropic #AI #ArtificialIntelligence #KünstlicheIntelligenz #GenerativeAI #AITools",
-    "via": "metricool-umzug"
-  },
-  {
-    "id": "2026-11-03-story",
-    "at": "2026-11-03T18:15:00+01:00",
-    "type": "STORY",
-    "media": [
-      "posts/2026-11-03_prompt-rueckfragen/story.jpg"
-    ],
-    "caption": "",
-    "via": "metricool-umzug"
-  },
-  {
-    "id": "2026-11-04-reel",
-    "at": "2026-11-04T12:00:00+01:00",
-    "type": "REEL",
-    "media": [
-      "posts/2026-11-04_bewerbung-mit-ki/reel.mp4"
-    ],
-    "caption": "Bewerben mit KI: 3 Tipps 💼 Folge @neuro_nauten für mehr!\n\nNova ist eine KI-Figur 🤖\n\n📲 Folge @neuro_nauten auf Instagram & TikTok!\n\n#Bewerbung #KI #Karriere #ChatGPT #KIimAlltag #LernenMitKI #neuronauten #Claude #ClaudeAI #Anthropic #AI #ArtificialIntelligence #KünstlicheIntelligenz #GenerativeAI #AITools",
-    "via": "metricool-umzug"
-  },
-  {
-    "id": "2026-11-04-karussell",
-    "at": "2026-11-04T18:00:00+01:00",
-    "type": "FEED",
-    "media": [
-      "posts/2026-11-04_bewerbung-mit-ki/slide-01.jpg",
-      "posts/2026-11-04_bewerbung-mit-ki/slide-02.jpg",
-      "posts/2026-11-04_bewerbung-mit-ki/slide-03.jpg",
-      "posts/2026-11-04_bewerbung-mit-ki/slide-04.jpg",
-      "posts/2026-11-04_bewerbung-mit-ki/slide-05.jpg"
-    ],
-    "caption": "Bewerben mit KI 💼🤖\n\nEntwurf selbst schreiben, von der KI verbessern lassen und das Vorstellungsgespräch üben. Aber echt bleiben!\n\n📤 Teile das mit jemandem, der sich gerade bewirbt!\n\nNova ist eine KI-Figur 🤖\n\n#Bewerbung #KI #Karriere #ChatGPT #KIimAlltag #LernenMitKI #neuronauten #Claude #ClaudeAI #Anthropic #AI #ArtificialIntelligence #KünstlicheIntelligenz #GenerativeAI #AITools",
-    "via": "metricool-umzug"
-  },
-  {
-    "id": "2026-11-04-story",
-    "at": "2026-11-04T18:15:00+01:00",
-    "type": "STORY",
-    "media": [
-      "posts/2026-11-04_bewerbung-mit-ki/story.jpg"
-    ],
-    "caption": "",
-    "via": "metricool-umzug"
-  },
-  {
-    "id": "2026-11-05-reel",
-    "at": "2026-11-05T12:00:00+01:00",
-    "type": "REEL",
-    "media": [
-      "posts/2026-11-05_mythos-ki-versteht-mich/reel.mp4"
-    ],
-    "caption": "Versteht die KI dich wirklich? 💭 Folge @neuro_nauten für mehr!\n\nNova ist eine KI-Figur 🤖\n\n📲 Folge @neuro_nauten auf Instagram & TikTok!\n\n#KI #MythosOderFakt #ChatGPT #MentaleGesundheit #Medienkompetenz #KIerklärt #neuronauten #Claude #ClaudeAI #Anthropic #AI #ArtificialIntelligence #KünstlicheIntelligenz #GenerativeAI #AITools",
-    "via": "metricool-umzug"
-  },
-  {
-    "id": "2026-11-05-karussell",
-    "at": "2026-11-05T18:00:00+01:00",
-    "type": "FEED",
-    "media": [
-      "posts/2026-11-05_mythos-ki-versteht-mich/slide-01.jpg",
-      "posts/2026-11-05_mythos-ki-versteht-mich/slide-02.jpg",
-      "posts/2026-11-05_mythos-ki-versteht-mich/slide-03.jpg",
-      "posts/2026-11-05_mythos-ki-versteht-mich/slide-04.jpg",
-      "posts/2026-11-05_mythos-ki-versteht-mich/slide-05.jpg"
-    ],
-    "caption": "„Die KI versteht mich“: Mythos oder Fakt? 💭\n\nEher Mythos. KI ahmt Mitgefühl überzeugend nach, fühlt aber nichts. Bei echten Sorgen sind Menschen unersetzlich.\n\n💬 Wie siehst du das?\n\nNova ist eine KI-Figur 🤖\n\n#KI #MythosOderFakt #ChatGPT #MentaleGesundheit #Medienkompetenz #KIerklärt #neuronauten #Claude #ClaudeAI #Anthropic #AI #ArtificialIntelligence #KünstlicheIntelligenz #GenerativeAI #AITools",
-    "via": "metricool-umzug"
-  },
-  {
-    "id": "2026-11-05-story",
-    "at": "2026-11-05T18:15:00+01:00",
-    "type": "STORY",
-    "media": [
-      "posts/2026-11-05_mythos-ki-versteht-mich/story.jpg"
-    ],
-    "caption": "",
-    "via": "metricool-umzug"
-  },
-  {
-    "id": "2026-11-06-reel",
-    "at": "2026-11-06T12:00:00+01:00",
-    "type": "REEL",
-    "media": [
-      "posts/2026-11-06_empfehlungsalgorithmen/reel.mp4"
-    ],
-    "caption": "Wie dein Feed dich so gut kennt 📱 Folge @neuro_nauten für mehr!\n\nNova ist eine KI-Figur 🤖\n\n📲 Folge @neuro_nauten auf Instagram & TikTok!\n\n#KI #Algorithmus #SocialMedia #Filterblase #KIerklärt #Medienkompetenz #neuronauten #Claude #ClaudeAI #Anthropic #AI #ArtificialIntelligence #KünstlicheIntelligenz #GenerativeAI #AITools",
-    "via": "metricool-umzug"
-  },
-  {
-    "id": "2026-11-06-karussell",
-    "at": "2026-11-06T18:00:00+01:00",
-    "type": "FEED",
-    "media": [
-      "posts/2026-11-06_empfehlungsalgorithmen/slide-01.jpg",
-      "posts/2026-11-06_empfehlungsalgorithmen/slide-02.jpg",
-      "posts/2026-11-06_empfehlungsalgorithmen/slide-03.jpg",
-      "posts/2026-11-06_empfehlungsalgorithmen/slide-04.jpg",
-      "posts/2026-11-06_empfehlungsalgorithmen/slide-05.jpg"
-    ],
-    "caption": "Warum kennt dein Feed dich so gut? 📱🤖\n\nEr misst alles, was du tust, und vergleicht dich mit Millionen anderen. Vorsicht vor der Filterblase!\n\n💾 Speichern & teilen!\n\nNova ist eine KI-Figur 🤖\n\n#KI #Algorithmus #SocialMedia #Filterblase #KIerklärt #Medienkompetenz #neuronauten #Claude #ClaudeAI #Anthropic #AI #ArtificialIntelligence #KünstlicheIntelligenz #GenerativeAI #AITools",
-    "via": "metricool-umzug"
-  },
-  {
-    "id": "2026-11-06-story",
-    "at": "2026-11-06T18:15:00+01:00",
-    "type": "STORY",
-    "media": [
-      "posts/2026-11-06_empfehlungsalgorithmen/story.jpg"
-    ],
-    "caption": "",
-    "via": "metricool-umzug"
-  },
-  {
-    "id": "2026-11-07-reel",
-    "at": "2026-11-07T12:00:00+01:00",
-    "type": "REEL",
-    "media": [
-      "posts/2026-11-07_quiz-technik/reel.mp4"
-    ],
-    "caption": "Technik-Quiz 🧠 Wie viele hast du gewusst? Folge @neuro_nauten für mehr!\n\nNova ist eine KI-Figur 🤖\n\n📲 Folge @neuro_nauten auf Instagram & TikTok!\n\n#KI #Quiz #TechWissen #LernenMitKI #KIerklärt #Wissen #neuronauten #Claude #ClaudeAI #Anthropic #AI #ArtificialIntelligence #KünstlicheIntelligenz #GenerativeAI #AITools",
-    "via": "metricool-umzug"
-  },
-  {
-    "id": "2026-11-07-karussell",
-    "at": "2026-11-07T18:00:00+01:00",
-    "type": "FEED",
-    "media": [
-      "posts/2026-11-07_quiz-technik/slide-01.jpg",
-      "posts/2026-11-07_quiz-technik/slide-02.jpg",
-      "posts/2026-11-07_quiz-technik/slide-03.jpg",
-      "posts/2026-11-07_quiz-technik/slide-04.jpg",
-      "posts/2026-11-07_quiz-technik/slide-05.jpg"
-    ],
-    "caption": "Samstags-Quiz 🧠 Wie tickt KI?\n\n3 Fragen zu Technik-Themen. Rate erst, dann wische! Schreib deine Punkte in die Kommentare 👇\n\nNova ist eine KI-Figur 🤖\n\n#KI #Quiz #TechWissen #LernenMitKI #KIerklärt #Wissen #neuronauten #Claude #ClaudeAI #Anthropic #AI #ArtificialIntelligence #KünstlicheIntelligenz #GenerativeAI #AITools",
-    "via": "metricool-umzug"
-  },
-  {
-    "id": "2026-11-07-story",
-    "at": "2026-11-07T18:15:00+01:00",
-    "type": "STORY",
-    "media": [
-      "posts/2026-11-07_quiz-technik/story.jpg"
-    ],
-    "caption": "",
-    "via": "metricool-umzug"
-  },
-  {
-    "id": "2026-11-08-reel",
-    "at": "2026-11-08T12:00:00+01:00",
-    "type": "REEL",
-    "media": [
-      "posts/2026-11-08_urheberrecht-ki/reel.mp4"
-    ],
-    "caption": "Wem gehört das KI-Bild? ⚖️ Urheberrecht erklärt. Folge @neuro_nauten für mehr!\n\nNova ist eine KI-Figur 🤖\n\n📲 Folge @neuro_nauten auf Instagram & TikTok!\n\n#KI #Urheberrecht #KIBilder #Recht #Ethik #KIerklärt #neuronauten #Claude #ClaudeAI #Anthropic #AI #ArtificialIntelligence #KünstlicheIntelligenz #GenerativeAI #AITools",
-    "via": "metricool-umzug"
-  },
-  {
-    "id": "2026-11-08-karussell",
-    "at": "2026-11-08T18:00:00+01:00",
-    "type": "FEED",
-    "media": [
-      "posts/2026-11-08_urheberrecht-ki/slide-01.jpg",
-      "posts/2026-11-08_urheberrecht-ki/slide-02.jpg",
-      "posts/2026-11-08_urheberrecht-ki/slide-03.jpg",
-      "posts/2026-11-08_urheberrecht-ki/slide-04.jpg",
-      "posts/2026-11-08_urheberrecht-ki/slide-05.jpg"
-    ],
-    "caption": "Wem gehören KI-Bilder? 🎨⚖️\n\nUrheberrecht schützt menschliche Schöpfungen. Rein KI-erzeugte Bilder sind meist nicht geschützt, aber die Regeln der Anbieter gelten trotzdem. Keine Rechtsberatung.\n\n💬 Nutzt du KI-Bilder?\n\nNova ist eine KI-Figur 🤖\n\n#KI #Urheberrecht #KIBilder #Recht #Ethik #KIerklärt #neuronauten #Claude #ClaudeAI #Anthropic #AI #ArtificialIntelligence #KünstlicheIntelligenz #GenerativeAI #AITools",
-    "via": "metricool-umzug"
-  },
-  {
-    "id": "2026-11-08-story",
-    "at": "2026-11-08T18:15:00+01:00",
-    "type": "STORY",
-    "media": [
-      "posts/2026-11-08_urheberrecht-ki/story.jpg"
-    ],
-    "caption": "",
-    "via": "metricool-umzug"
-  },
-  {
-    "id": "2026-11-09-reel",
-    "at": "2026-11-09T12:00:00+01:00",
-    "type": "REEL",
-    "media": [
-      "posts/2026-11-09_generative-ki/reel.mp4"
-    ],
-    "caption": "Generative KI in 20 Sekunden ✨ Folge @neuro_nauten für mehr!\n\nNova ist eine KI-Figur 🤖\n\n📲 Folge @neuro_nauten auf Instagram & TikTok!\n\n#KI #GenerativeKI #KIBasics #ChatGPT #KIerklärt #LernenMitKI #neuronauten #Claude #ClaudeAI #Anthropic #AI #ArtificialIntelligence #KünstlicheIntelligenz #GenerativeAI #AITools",
-    "via": "metricool-umzug"
-  },
-  {
-    "id": "2026-11-09-karussell",
-    "at": "2026-11-09T18:00:00+01:00",
-    "type": "FEED",
-    "media": [
-      "posts/2026-11-09_generative-ki/slide-01.jpg",
-      "posts/2026-11-09_generative-ki/slide-02.jpg",
-      "posts/2026-11-09_generative-ki/slide-03.jpg",
-      "posts/2026-11-09_generative-ki/slide-04.jpg",
-      "posts/2026-11-09_generative-ki/slide-05.jpg"
-    ],
-    "caption": "Was ist generative KI? ✨🤖\n\nKI, die Neues erschafft: Texte, Bilder, Musik, Videos, Code. Ein starkes Werkzeug, aber prüfen bleibt deine Aufgabe.\n\n💾 Speichern!\n\nNova ist eine KI-Figur 🤖\n\n#KI #GenerativeKI #KIBasics #ChatGPT #KIerklärt #LernenMitKI #neuronauten #Claude #ClaudeAI #Anthropic #AI #ArtificialIntelligence #KünstlicheIntelligenz #GenerativeAI #AITools",
-    "via": "metricool-umzug"
-  },
-  {
-    "id": "2026-11-09-story",
-    "at": "2026-11-09T18:15:00+01:00",
-    "type": "STORY",
-    "media": [
-      "posts/2026-11-09_generative-ki/story.jpg"
-    ],
-    "caption": "",
-    "via": "metricool-umzug"
-  },
-  {
-    "id": "2026-11-10-reel",
-    "at": "2026-11-10T12:00:00+01:00",
-    "type": "REEL",
-    "media": [
-      "posts/2026-11-10_prompt-schritt-fuer-schritt/reel.mp4"
-    ],
-    "caption": "Der Schritt-für-Schritt-Trick 🪜 Folge @neuro_nauten für mehr!\n\nNova ist eine KI-Figur 🤖\n\n📲 Folge @neuro_nauten auf Instagram & TikTok!\n\n#Prompt #PromptEngineering #ChatGPT #KITipps #Lernen #LernenMitKI #neuronauten #Claude #ClaudeAI #Anthropic #AI #ArtificialIntelligence #KünstlicheIntelligenz #GenerativeAI #AITools",
-    "via": "metricool-umzug"
-  },
-  {
-    "id": "2026-11-10-karussell",
-    "at": "2026-11-10T18:00:00+01:00",
-    "type": "FEED",
-    "media": [
-      "posts/2026-11-10_prompt-schritt-fuer-schritt/slide-01.jpg",
-      "posts/2026-11-10_prompt-schritt-fuer-schritt/slide-02.jpg",
-      "posts/2026-11-10_prompt-schritt-fuer-schritt/slide-03.jpg",
-      "posts/2026-11-10_prompt-schritt-fuer-schritt/slide-04.jpg",
-      "posts/2026-11-10_prompt-schritt-fuer-schritt/slide-05.jpg"
-    ],
-    "caption": "Prompt-Tipp: Schritt für Schritt 🪜\n\nBitte die KI, ihren Lösungsweg aufzuschreiben. Das macht sie genauer und dich schlauer.\n\n💾 Speichern für die nächste knifflige Aufgabe!\n\nNova ist eine KI-Figur 🤖\n\n#Prompt #PromptEngineering #ChatGPT #KITipps #Lernen #LernenMitKI #neuronauten #Claude #ClaudeAI #Anthropic #AI #ArtificialIntelligence #KünstlicheIntelligenz #GenerativeAI #AITools",
-    "via": "metricool-umzug"
-  },
-  {
-    "id": "2026-11-10-story",
-    "at": "2026-11-10T18:15:00+01:00",
-    "type": "STORY",
-    "media": [
-      "posts/2026-11-10_prompt-schritt-fuer-schritt/story.jpg"
-    ],
-    "caption": "",
-    "via": "metricool-umzug"
-  },
-  {
-    "id": "2026-11-11-reel",
-    "at": "2026-11-11T12:00:00+01:00",
-    "type": "REEL",
-    "media": [
-      "posts/2026-11-11_reiseplanung-mit-ki/reel.mp4"
-    ],
-    "caption": "Reisen planen mit KI ✈️ In 3 Schritten. Folge @neuro_nauten für mehr!\n\nNova ist eine KI-Figur 🤖\n\n📲 Folge @neuro_nauten auf Instagram & TikTok!\n\n#Reisen #KI #Reiseplanung #ChatGPT #KIimAlltag #LernenMitKI #neuronauten #Claude #ClaudeAI #Anthropic #AI #ArtificialIntelligence #KünstlicheIntelligenz #GenerativeAI #AITools",
-    "via": "metricool-umzug"
-  },
-  {
-    "id": "2026-11-11-karussell",
-    "at": "2026-11-11T18:00:00+01:00",
-    "type": "FEED",
-    "media": [
-      "posts/2026-11-11_reiseplanung-mit-ki/slide-01.jpg",
-      "posts/2026-11-11_reiseplanung-mit-ki/slide-02.jpg",
-      "posts/2026-11-11_reiseplanung-mit-ki/slide-03.jpg",
-      "posts/2026-11-11_reiseplanung-mit-ki/slide-04.jpg",
-      "posts/2026-11-11_reiseplanung-mit-ki/slide-05.jpg"
-    ],
-    "caption": "Reisen planen mit KI ✈️🤖\n\nBudget und Interessen nennen, Plan erstellen lassen, und vor dem Buchen alles auf offiziellen Seiten prüfen.\n\n💬 Wohin geht deine nächste Reise?\n\nNova ist eine KI-Figur 🤖\n\n#Reisen #KI #Reiseplanung #ChatGPT #KIimAlltag #LernenMitKI #neuronauten #Claude #ClaudeAI #Anthropic #AI #ArtificialIntelligence #KünstlicheIntelligenz #GenerativeAI #AITools",
-    "via": "metricool-umzug"
-  },
-  {
-    "id": "2026-11-11-story",
-    "at": "2026-11-11T18:15:00+01:00",
-    "type": "STORY",
-    "media": [
-      "posts/2026-11-11_reiseplanung-mit-ki/story.jpg"
-    ],
-    "caption": "",
-    "via": "metricool-umzug"
-  },
-  {
-    "id": "2026-11-12-reel",
-    "at": "2026-11-12T12:00:00+01:00",
-    "type": "REEL",
-    "media": [
-      "posts/2026-11-12_mythos-ki-texte-erkennen/reel.mp4"
-    ],
-    "caption": "Erkennst du KI-Texte? 🕵️ Mythos oder Fakt. Folge @neuro_nauten für mehr!\n\nNova ist eine KI-Figur 🤖\n\n📲 Folge @neuro_nauten auf Instagram & TikTok!\n\n#KI #MythosOderFakt #ChatGPT #KIDetektor #Medienkompetenz #KIerklärt #neuronauten #Claude #ClaudeAI #Anthropic #AI #ArtificialIntelligence #KünstlicheIntelligenz #GenerativeAI #AITools",
-    "via": "metricool-umzug"
-  },
-  {
-    "id": "2026-11-12-karussell",
-    "at": "2026-11-12T18:00:00+01:00",
-    "type": "FEED",
-    "media": [
-      "posts/2026-11-12_mythos-ki-texte-erkennen/slide-01.jpg",
-      "posts/2026-11-12_mythos-ki-texte-erkennen/slide-02.jpg",
-      "posts/2026-11-12_mythos-ki-texte-erkennen/slide-03.jpg",
-      "posts/2026-11-12_mythos-ki-texte-erkennen/slide-04.jpg",
-      "posts/2026-11-12_mythos-ki-texte-erkennen/slide-05.jpg"
-    ],
-    "caption": "„KI-Texte erkennt man immer“: Mythos oder Fakt? 🕵️\n\nMythos. Gute KI-Texte sind kaum zu erkennen, und Detektoren irren sich oft. Besser: Inhalte und Quellen prüfen.\n\n💬 Hast du schon mal einen KI-Text erkannt?\n\nNova ist eine KI-Figur 🤖\n\n#KI #MythosOderFakt #ChatGPT #KIDetektor #Medienkompetenz #KIerklärt #neuronauten #Claude #ClaudeAI #Anthropic #AI #ArtificialIntelligence #KünstlicheIntelligenz #GenerativeAI #AITools",
-    "via": "metricool-umzug"
-  },
-  {
-    "id": "2026-11-12-story",
-    "at": "2026-11-12T18:15:00+01:00",
-    "type": "STORY",
-    "media": [
-      "posts/2026-11-12_mythos-ki-texte-erkennen/story.jpg"
-    ],
-    "caption": "",
-    "via": "metricool-umzug"
-  },
-  {
-    "id": "2026-11-13-reel",
-    "at": "2026-11-13T12:00:00+01:00",
-    "type": "REEL",
-    "media": [
-      "posts/2026-11-13_spamfilter/reel.mp4"
-    ],
-    "caption": "So entscheidet dein Spamfilter 📧 Folge @neuro_nauten für mehr KI-Wissen!\n\nNova ist eine KI-Figur 🤖\n\n📲 Folge @neuro_nauten auf Instagram & TikTok!\n\n#KI #Spamfilter #MachineLearning #EMail #KIerklärt #TechWissen #neuronauten #Claude #ClaudeAI #Anthropic #AI #ArtificialIntelligence #KünstlicheIntelligenz #GenerativeAI #AITools",
-    "via": "metricool-umzug"
-  },
-  {
-    "id": "2026-11-13-karussell",
-    "at": "2026-11-13T18:00:00+01:00",
-    "type": "FEED",
-    "media": [
-      "posts/2026-11-13_spamfilter/slide-01.jpg",
-      "posts/2026-11-13_spamfilter/slide-02.jpg",
-      "posts/2026-11-13_spamfilter/slide-03.jpg",
-      "posts/2026-11-13_spamfilter/slide-04.jpg",
-      "posts/2026-11-13_spamfilter/slide-05.jpg"
-    ],
-    "caption": "Wie entscheidet dein Spamfilter, was Müll ist? 📧🤖\n\nEr hat aus unzähligen Beispielen gelernt und wiegt viele Signale gegeneinander ab. Perfekt ist er aber nicht.\n\n💾 Speichern & teilen!\n💬 Schon mal eine wichtige Mail im Spamordner gefunden?\n\nNova ist eine KI-Figur 🤖\n\n#KI #Spamfilter #MachineLearning #EMail #KIerklärt #TechWissen #neuronauten #Claude #ClaudeAI #Anthropic #AI #ArtificialIntelligence #KünstlicheIntelligenz #GenerativeAI #AITools",
-    "via": "metricool-umzug"
-  },
-  {
-    "id": "2026-11-13-story",
-    "at": "2026-11-13T18:15:00+01:00",
-    "type": "STORY",
-    "media": [
-      "posts/2026-11-13_spamfilter/story.jpg"
-    ],
-    "caption": "",
-    "via": "metricool-umzug"
-  }
+ {
+  "id": "2026-10-15-story-tagesplan",
+  "at": "2026-10-15T21:00:00+02:00",
+  "type": "STORY",
+  "media": [
+   "extras/2026-10-15_story-tagesplan/story.jpg"
+  ],
+  "caption": ""
+ },
+ {
+  "id": "2026-10-16-nova-video",
+  "at": "2026-10-16T17:00:00+02:00",
+  "type": "REEL",
+  "media": [
+   "nova-videos/2026-10-16_lernen-mit-ki/nova-video.mp4"
+  ],
+  "caption": "Lernen mit KI 📚 3 Tricks von Nova: Lernkarten aus deinen Notizen, dich abfragen lassen und Schwieriges ganz einfach erklären lassen.\n\n💾 Speichern und vor der nächsten Prüfung ausprobieren.\n\nNova ist eine KI-Figur 🤖 Das Bild ist KI-generiert.\n\n#KI #TechWissen #Lernmotivation #Bildung #Lernen"
+ },
+ {
+  "id": "2026-11-14-reel",
+  "at": "2026-11-14T12:00:00+01:00",
+  "type": "REEL",
+  "media": [
+   "posts/2026-11-14_quiz-ki-alltag/reel-tools.mp4"
+  ],
+  "caption": "3 kostenlose KI-Helfer für deinen Alltag 📱 Welchen nutzt du schon? Schreib's in die Kommentare!\n\nTipp: Keine persönlichen Daten oder Fotos von anderen Menschen hochladen.\n\nNova ist eine KI-Figur 🤖 Folge @neuro_nauten für täglich neue KI-Tipps!\n\n#AI #LernenMitKI #Alltagshelfer #Gratis #Zukunft"
+ },
+ {
+  "id": "2026-11-14-karussell",
+  "at": "2026-11-14T18:00:00+01:00",
+  "type": "FEED",
+  "media": [
+   "posts/2026-11-14_quiz-ki-alltag/slide-01.jpg",
+   "posts/2026-11-14_quiz-ki-alltag/slide-02.jpg",
+   "posts/2026-11-14_quiz-ki-alltag/slide-03.jpg",
+   "posts/2026-11-14_quiz-ki-alltag/slide-04.jpg",
+   "posts/2026-11-14_quiz-ki-alltag/slide-05.jpg"
+  ],
+  "caption": "Samstags-Quiz 🧠 Wo steckt KI in deinem Alltag?\n\n3 Fragen, rate erst, dann wische! Schreib deine Punkte in die Kommentare 👇\n\nNova ist eine KI-Figur 🤖\n\n#ChatGPT #Produktivität #Quiz #Wissenstest #Medienkompetenz"
+ },
+ {
+  "id": "2026-11-14-story",
+  "at": "2026-11-14T18:15:00+01:00",
+  "type": "STORY",
+  "media": [
+   "posts/2026-11-14_quiz-ki-alltag/story.jpg"
+  ],
+  "caption": ""
+ },
+ {
+  "id": "2026-10-17-nova-video",
+  "at": "2026-10-17T17:00:00+02:00",
+  "type": "REEL",
+  "media": [
+   "nova-videos/2026-10-17_texte-schreiben/nova-video.mp4"
+  ],
+  "caption": "Texte schneller schreiben ✍️ Nova zeigt 3 Wege: aus Stichpunkten eine Mail machen, lange Texte kürzen und den Ton anpassen.\n\nTipp: Keine privaten Daten in den Chat kopieren.\n\nNova ist eine KI-Figur 🤖 Das Bild ist KI-generiert.\n\n#Technologie #ChatGPTDeutsch #KIAvatar #AITools #Wissen"
+ },
+ {
+  "id": "2026-10-18-claude-03",
+  "at": "2026-10-18T09:00:00+02:00",
+  "type": "FEED",
+  "media": [
+   "serie-claude/2026-10-17_folge-03/slide-01.jpg",
+   "serie-claude/2026-10-17_folge-03/slide-02.jpg",
+   "serie-claude/2026-10-17_folge-03/slide-03.jpg",
+   "serie-claude/2026-10-17_folge-03/slide-04.jpg",
+   "serie-claude/2026-10-17_folge-03/slide-05.jpg"
+  ],
+  "caption": "Claude-Setup #3: Stile 🎨\n\nMit Stilen legst du fest, wie Claude antwortet: kurz und knapp, ausführlich erklärt, formell oder in deinem eigenen Stil. Den Stil wählst du direkt beim Schreiben aus (je nach App und Tarif).\n\n💾 Speichern! In der nächsten Folge: Tipp 4, Projekte.\n\nNova ist eine KI-Figur 🤖\n\n#KünstlicheIntelligenz #KITools #KIAssistent #Anthropic #Zukunft"
+ },
+ {
+  "id": "2026-10-19-foto",
+  "at": "2026-10-19T09:00:00+02:00",
+  "type": "FEED",
+  "media": [
+   "autopost/media/2026-10-17-foto-1.jpg"
+  ],
+  "caption": "3 Zeitspar-Tricks für den Job ⏱️\n\n1. Lange Mails zusammenfassen lassen\n2. Aus Stichpunkten ein Protokoll machen\n3. To-dos nach Wichtigkeit sortieren\n\n🔒 Keine vertraulichen Firmendaten oder Namen von Kolleg:innen eingeben.\n\n💾 Speichern für den nächsten Bürotag! Das Bild wurde mit Canva erstellt und kann KI-generierte Inhalte enthalten.\n\n#Technologie #LernenMitKI #ZukunftDerArbeit #Job #Lernen",
+  "ready_after": "2026-10-16T05:26:54.598874+00:00"
+ },
+ {
+  "id": "2026-10-17-bildprompts-02",
+  "at": "2026-10-17T09:00:00+02:00",
+  "type": "FEED",
+  "media": [
+   "autopost/media/2026-10-17-bildprompts-02-1.jpg"
+  ],
+  "caption": "Bilder-Prompts #2: Leg den Stil fest 🎨\n\n„ein Leuchtturm“ lässt der KI freie Wahl. Mit Stilangabe (Aquarell, Foto, Bleistift, 3D, Comic) bekommst du den Look, den du willst.\n\n💾 Speichern! In der nächsten Folge: Tipp 3, Licht.\n\nBeispielbilder sind KI-generiert 🤖\n\n#KI #TechWissen #AIArtCommunity #DigitalArt #TechTipps",
+  "ready_after": "2026-10-16T05:34:22.137565+00:00"
+ },
+ {
+  "id": "2026-10-16-tiktok-story",
+  "at": "2026-10-16T18:16:00+02:00",
+  "type": "STORY",
+  "media": [
+   "extras/tiktok-ankuendigung/story.jpg"
+  ],
+  "caption": ""
+ },
+ {
+  "id": "2026-10-16-reel-nachgeholt",
+  "at": "2026-10-16T12:15:00+02:00",
+  "type": "REEL",
+  "media": [
+   "posts/2026-10-16_wie-chatgpt-schreibt/reel-tools.mp4"
+  ],
+  "caption": "3 KI-Tools, die nichts kosten 🔥\n\n1️⃣ Perplexity: Suchen mit KI, Antworten mit Quellenangaben zum Nachprüfen\n2️⃣ DeepL: übersetzt ganze Texte natürlich, die Gratis-Version reicht für den Alltag\n3️⃣ Canva KI: Bilder und Designs per Texteingabe, auch im Gratis-Tarif\n\n💾 Speichern, damit du sie wiederfindest.\n💬 Welches Tool nutzt du schon?\n👉 Folge @neuro_nauten für täglich neue KI-Tools und Tipps.\n\n#KITools #KostenloseTools #Perplexity #DeepL #KI"
+ },
+ {
+  "id": "2026-10-16-karussell",
+  "at": "2026-10-16T18:00:00+02:00",
+  "type": "FEED",
+  "media": [
+   "posts/2026-10-16_wie-chatgpt-schreibt/slide-01.jpg",
+   "posts/2026-10-16_wie-chatgpt-schreibt/slide-02.jpg",
+   "posts/2026-10-16_wie-chatgpt-schreibt/slide-03.jpg",
+   "posts/2026-10-16_wie-chatgpt-schreibt/slide-04.jpg",
+   "posts/2026-10-16_wie-chatgpt-schreibt/slide-05.jpg"
+  ],
+  "caption": "Wie schreibt ChatGPT eigentlich Texte? ✍️🤖\n\nEs zerlegt Sprache in Tokens und sagt immer das nächste Stück voraus, Milliarden Mal trainiert. Die ganze Erklärung in 5 Folien.\n\n💬 Was überrascht dich daran am meisten?\n\n#KI #ChatGPT #Sprachmodell #LLM #KIerklärt #TechWissen #LernenMitKI #neuronauten #Claude #ClaudeAI #Anthropic #AI #ArtificialIntelligence #KünstlicheIntelligenz #GenerativeAI #AITools",
+  "via": "metricool-umzug"
+ },
+ {
+  "id": "2026-10-16-story",
+  "at": "2026-10-16T18:15:00+02:00",
+  "type": "STORY",
+  "media": [
+   "posts/2026-10-16_wie-chatgpt-schreibt/story.jpg"
+  ],
+  "caption": "",
+  "via": "metricool-umzug"
+ },
+ {
+  "id": "2026-10-16-bildprompts-01",
+  "at": "2026-10-16T20:00:00+02:00",
+  "type": "FEED",
+  "media": [
+   "autopost/media/2026-10-16-bildprompts-01-1.jpg"
+  ],
+  "caption": "Bilder-Prompts #1: Beschreib dein Motiv genau 🎨\n\nNeue Serie! 30 Tage lang zeigen wir dir, wie du mit ChatGPT & Co. richtig gute KI-Bilder erstellst.\n\nEinfacher Prompt: „eine Katze“ → die KI rät.\nBesserer Prompt: „Fotorealistische rote Katze schläft auf einer weißen Fensterbank, weiches Morgenlicht, Garten unscharf im Hintergrund, gemütlich, Nahaufnahme“ → genau dein Bild.\n\nDie Formel: Motiv + Stil + Licht + Perspektive + Farben + Stimmung + Format\n\n💾 Speichern und morgen kommt Tipp 2: Stil festlegen.\n\nBeide Beispielbilder sind KI-generiert 🤖\n\n#BilderPrompts #KIBilder #ChatGPT #PromptEngineering #KIlernen #neuro_nauten #Claude #ClaudeAI #Anthropic #AI #ArtificialIntelligence #KünstlicheIntelligenz #GenerativeAI #AITools",
+  "via": "metricool-umzug",
+  "ready_after": "2026-10-16T11:47:37.167498+00:00"
+ },
+ {
+  "id": "2026-10-17-reel",
+  "at": "2026-10-17T12:00:00+02:00",
+  "type": "REEL",
+  "media": [
+   "posts/2026-10-17_quiz-ki-basics/reel-tools.mp4"
+  ],
+  "caption": "3 ChatGPT-Funktionen, die auch in der Gratis-Version stecken ⚡ Welche nutzt du schon? Schreib's in die Kommentare!\n\nTipp: Keine persönlichen Daten in Chats oder Fotos teilen.\n\nNova ist eine KI-Figur 🤖 Folge @neuro_nauten auf Instagram & TikTok für täglich neue KI-Tipps!\n\n#KI #ChatGPT #KITools #KITipps #Gratis #LernenMitKI #Produktivität #neuronauten #Claude #ClaudeAI #Anthropic #AI #ArtificialIntelligence #KünstlicheIntelligenz #GenerativeAI #AITools",
+  "via": "metricool-umzug"
+ },
+ {
+  "id": "2026-10-17-karussell",
+  "at": "2026-10-17T18:00:00+02:00",
+  "type": "FEED",
+  "media": [
+   "posts/2026-10-17_quiz-ki-basics/slide-01.jpg",
+   "posts/2026-10-17_quiz-ki-basics/slide-02.jpg",
+   "posts/2026-10-17_quiz-ki-basics/slide-03.jpg",
+   "posts/2026-10-17_quiz-ki-basics/slide-04.jpg",
+   "posts/2026-10-17_quiz-ki-basics/slide-05.jpg"
+  ],
+  "caption": "Samstags-Quiz 🧠 Wie fit bist du in KI?\n\nRate erst, dann wische zur Auflösung. Schreib deine Punktzahl in die Kommentare: 0, 1, 2 oder 3? 👇\n\nNova ist eine KI-Figur 🤖\n\n#KI #Quiz #KIQuiz #KünstlicheIntelligenz #LernenMitKI #Wissen #ChatGPT #neuronauten #Claude #ClaudeAI #Anthropic #AI #ArtificialIntelligence #GenerativeAI #AITools",
+  "via": "metricool-umzug"
+ },
+ {
+  "id": "2026-10-17-story",
+  "at": "2026-10-17T18:15:00+02:00",
+  "type": "STORY",
+  "media": [
+   "posts/2026-10-17_quiz-ki-basics/story.jpg"
+  ],
+  "caption": "",
+  "via": "metricool-umzug"
+ },
+ {
+  "id": "2026-10-18-reel",
+  "at": "2026-10-18T12:00:00+02:00",
+  "type": "REEL",
+  "media": [
+   "posts/2026-10-18_deepfakes-erkennen/reel-tools.mp4"
+  ],
+  "caption": "Fake oder echt? 🔍 Mit Google Lens und TinEye findest du in Sekunden heraus, woher ein Bild stammt. Speichern für den nächsten viralen Post!\n\nNova ist eine KI-Figur 🤖 Folge @neuro_nauten auf Instagram & TikTok für täglich neue KI-Tipps!\n\n#KI #Deepfake #FakeNews #Medienkompetenz #GoogleLens #Faktencheck #KIerkennen #neuronauten #Claude #ClaudeAI #Anthropic #AI #ArtificialIntelligence #KünstlicheIntelligenz #GenerativeAI #AITools",
+  "via": "metricool-umzug"
+ },
+ {
+  "id": "2026-10-18-karussell",
+  "at": "2026-10-18T18:00:00+02:00",
+  "type": "FEED",
+  "media": [
+   "posts/2026-10-18_deepfakes-erkennen/slide-01.jpg",
+   "posts/2026-10-18_deepfakes-erkennen/slide-02.jpg",
+   "posts/2026-10-18_deepfakes-erkennen/slide-03.jpg",
+   "posts/2026-10-18_deepfakes-erkennen/slide-04.jpg",
+   "posts/2026-10-18_deepfakes-erkennen/slide-05.jpg"
+  ],
+  "caption": "Deepfakes erkennen 🕵️ KI-Fakes werden immer echter, aber mit diesen Checks fällst du seltener darauf rein.\n\n📤 Teile den Beitrag mit Familie und Freunden, besonders mit denen, die viel in WhatsApp-Gruppen unterwegs sind.\n\nNova ist eine KI-Figur 🤖\n\n#Deepfake #KI #Medienkompetenz #FakeNews #Sicherheit #KIerklärt #Digitalisierung #neuronauten #Claude #ClaudeAI #Anthropic #AI #ArtificialIntelligence #KünstlicheIntelligenz #GenerativeAI #AITools",
+  "via": "metricool-umzug"
+ },
+ {
+  "id": "2026-10-18-story",
+  "at": "2026-10-18T18:15:00+02:00",
+  "type": "STORY",
+  "media": [
+   "posts/2026-10-18_deepfakes-erkennen/story.jpg"
+  ],
+  "caption": "",
+  "via": "metricool-umzug"
+ },
+ {
+  "id": "2026-10-19-reel",
+  "at": "2026-10-19T12:00:00+02:00",
+  "type": "REEL",
+  "media": [
+   "posts/2026-10-19_ki-ml-deep-learning/reel-tools.mp4"
+  ],
+  "caption": "Lernen mit KI 📚 Drei kostenlose Tools für Schule, Studium und Weiterbildung. Welches probierst du zuerst?\n\nNova ist eine KI-Figur 🤖 Folge @neuro_nauten auf Instagram & TikTok für täglich neue KI-Tipps!\n\n#KI #LernenMitKI #NotebookLM #ChatGPT #Studium #Schule #Weiterbildung #neuronauten #Claude #ClaudeAI #Anthropic #AI #ArtificialIntelligence #KünstlicheIntelligenz #GenerativeAI #AITools",
+  "via": "metricool-umzug"
+ },
+ {
+  "id": "2026-10-19-karussell",
+  "at": "2026-10-19T18:00:00+02:00",
+  "type": "FEED",
+  "media": [
+   "posts/2026-10-19_ki-ml-deep-learning/slide-01.jpg",
+   "posts/2026-10-19_ki-ml-deep-learning/slide-02.jpg",
+   "posts/2026-10-19_ki-ml-deep-learning/slide-03.jpg",
+   "posts/2026-10-19_ki-ml-deep-learning/slide-04.jpg",
+   "posts/2026-10-19_ki-ml-deep-learning/slide-05.jpg"
+  ],
+  "caption": "KI, Machine Learning, Deep Learning: Was ist was? 🧅\n\nStell sie dir wie Zwiebelschalen vor: KI ist außen, Deep Learning ganz innen. Die Erklärung in den Folien.\n\n💾 Speichern für die nächste Diskussion im Büro!\n\nNova ist eine KI-Figur 🤖\n\n#KI #MachineLearning #DeepLearning #KIerklärt #KünstlicheIntelligenz #LernenMitKI #Weiterbildung #neuronauten #Claude #ClaudeAI #Anthropic #AI #ArtificialIntelligence #GenerativeAI #AITools",
+  "via": "metricool-umzug"
+ },
+ {
+  "id": "2026-10-19-story",
+  "at": "2026-10-19T18:15:00+02:00",
+  "type": "STORY",
+  "media": [
+   "posts/2026-10-19_ki-ml-deep-learning/story.jpg"
+  ],
+  "caption": "",
+  "via": "metricool-umzug"
+ },
+ {
+  "id": "2026-10-20-reel",
+  "at": "2026-10-20T12:00:00+02:00",
+  "type": "REEL",
+  "media": [
+   "posts/2026-10-20_prompt-formel/reel-tools.mp4"
+  ],
+  "caption": "Die Prompt-Formel ✍️ Rolle, Aufgabe mit Kontext, Format. Funktioniert mit ChatGPT, Claude, Gemini und Co. Speichern und beim nächsten Prompt ausprobieren!\n\nNova ist eine KI-Figur 🤖 Folge @neuro_nauten auf Instagram & TikTok für täglich neue KI-Tipps!\n\n#KI #Prompt #PromptEngineering #ChatGPT #Claude #KITipps #LernenMitKI #neuronauten #ClaudeAI #Anthropic #AI #ArtificialIntelligence #KünstlicheIntelligenz #GenerativeAI #AITools",
+  "via": "metricool-umzug"
+ },
+ {
+  "id": "2026-10-20-karussell",
+  "at": "2026-10-20T18:00:00+02:00",
+  "type": "FEED",
+  "media": [
+   "posts/2026-10-20_prompt-formel/slide-01.jpg",
+   "posts/2026-10-20_prompt-formel/slide-02.jpg",
+   "posts/2026-10-20_prompt-formel/slide-03.jpg",
+   "posts/2026-10-20_prompt-formel/slide-04.jpg",
+   "posts/2026-10-20_prompt-formel/slide-05.jpg"
+  ],
+  "caption": "Die 4-Teile-Formel für bessere Prompts 🎯\n\nRolle + Aufgabe + Kontext + Format = Antworten, die wirklich passen. Probier's aus und erzähl uns in den Kommentaren, wie's geklappt hat!\n\n💾 Speichern, damit du die Formel parat hast.\n\nNova ist eine KI-Figur 🤖\n\n#Prompt #PromptEngineering #ChatGPT #KI #KITipps #Produktivität #LernenMitKI #neuronauten #Claude #ClaudeAI #Anthropic #AI #ArtificialIntelligence #KünstlicheIntelligenz #GenerativeAI #AITools",
+  "via": "metricool-umzug"
+ },
+ {
+  "id": "2026-10-20-story",
+  "at": "2026-10-20T18:15:00+02:00",
+  "type": "STORY",
+  "media": [
+   "posts/2026-10-20_prompt-formel/story.jpg"
+  ],
+  "caption": "",
+  "via": "metricool-umzug"
+ },
+ {
+  "id": "2026-10-21-reel",
+  "at": "2026-10-21T12:00:00+02:00",
+  "type": "REEL",
+  "media": [
+   "posts/2026-10-21_emails-mit-ki/reel-tools.mp4"
+  ],
+  "caption": "Bessere E-Mails mit KI 📧 Stichpunkte rein, Entwurf raus, Feinschliff mit DeepL Write. Und immer dran denken: keine persönlichen Daten in KI-Tools.\n\nNova ist eine KI-Figur 🤖 Folge @neuro_nauten auf Instagram & TikTok für täglich neue KI-Tipps!\n\n#KI #EMail #ChatGPT #DeepL #Büro #Produktivität #Datenschutz #neuronauten #Claude #ClaudeAI #Anthropic #AI #ArtificialIntelligence #KünstlicheIntelligenz #GenerativeAI #AITools",
+  "via": "metricool-umzug"
+ },
+ {
+  "id": "2026-10-21-karussell",
+  "at": "2026-10-21T18:00:00+02:00",
+  "type": "FEED",
+  "media": [
+   "posts/2026-10-21_emails-mit-ki/slide-01.jpg",
+   "posts/2026-10-21_emails-mit-ki/slide-02.jpg",
+   "posts/2026-10-21_emails-mit-ki/slide-03.jpg",
+   "posts/2026-10-21_emails-mit-ki/slide-04.jpg",
+   "posts/2026-10-21_emails-mit-ki/slide-05.jpg"
+  ],
+  "caption": "Bessere E-Mails mit KI ✉️🤖\n\nStichpunkte rein, Ton festlegen, fertig. Und das Wichtigste: keine sensiblen Daten in den Chat, sondern Platzhalter verwenden.\n\n💾 Speichern für die nächste schwierige Mail!\n💬 Für welche Mails nutzt du KI schon?\n\nNova ist eine KI-Figur 🤖\n\n#KI #KIimAlltag #EMail #ChatGPT #Produktivität #Datenschutz #LernenMitKI #neuronauten #Claude #ClaudeAI #Anthropic #AI #ArtificialIntelligence #KünstlicheIntelligenz #GenerativeAI #AITools",
+  "via": "metricool-umzug"
+ },
+ {
+  "id": "2026-10-21-story",
+  "at": "2026-10-21T18:15:00+02:00",
+  "type": "STORY",
+  "media": [
+   "posts/2026-10-21_emails-mit-ki/story.jpg"
+  ],
+  "caption": "",
+  "via": "metricool-umzug"
+ },
+ {
+  "id": "2026-10-22-reel",
+  "at": "2026-10-22T12:00:00+02:00",
+  "type": "REEL",
+  "media": [
+   "posts/2026-10-22_mythos-ki-nimmt-jobs/reel-tools.mp4"
+  ],
+  "caption": "3 KI-Skills, die in fast jedem Job helfen 💼 Prompten, prüfen, schützen. Welchen willst du als Nächstes lernen?\n\nNova ist eine KI-Figur 🤖 Folge @neuro_nauten auf Instagram & TikTok für täglich neue KI-Tipps!\n\n#KI #Karriere #Zukunftderarbeit #Weiterbildung #KISkills #Job #LernenMitKI #neuronauten #Claude #ClaudeAI #Anthropic #AI #ArtificialIntelligence #KünstlicheIntelligenz #GenerativeAI #AITools",
+  "via": "metricool-umzug"
+ },
+ {
+  "id": "2026-10-22-karussell",
+  "at": "2026-10-22T18:00:00+02:00",
+  "type": "FEED",
+  "media": [
+   "posts/2026-10-22_mythos-ki-nimmt-jobs/slide-01.jpg",
+   "posts/2026-10-22_mythos-ki-nimmt-jobs/slide-02.jpg",
+   "posts/2026-10-22_mythos-ki-nimmt-jobs/slide-03.jpg",
+   "posts/2026-10-22_mythos-ki-nimmt-jobs/slide-04.jpg",
+   "posts/2026-10-22_mythos-ki-nimmt-jobs/slide-05.jpg"
+  ],
+  "caption": "„KI nimmt uns alle Jobs weg“: Mythos oder Fakt? 🤔\n\nEher Mythos. KI übernimmt Aufgaben, nicht ganze Menschen. Wer lernt, sie zu nutzen, hat einen echten Vorsprung.\n\n💬 Wie verändert KI deinen Job? Schreib's in die Kommentare!\n\nNova ist eine KI-Figur 🤖\n\n#KI #Zukunftderarbeit #Jobs #MythosOderFakt #Weiterbildung #LernenMitKI #KIerklärt #neuronauten #Claude #ClaudeAI #Anthropic #AI #ArtificialIntelligence #KünstlicheIntelligenz #GenerativeAI #AITools",
+  "via": "metricool-umzug"
+ },
+ {
+  "id": "2026-10-22-story",
+  "at": "2026-10-22T18:15:00+02:00",
+  "type": "STORY",
+  "media": [
+   "posts/2026-10-22_mythos-ki-nimmt-jobs/story.jpg"
+  ],
+  "caption": "",
+  "via": "metricool-umzug"
+ },
+ {
+  "id": "2026-10-23-reel",
+  "at": "2026-10-23T12:00:00+02:00",
+  "type": "REEL",
+  "media": [
+   "posts/2026-10-23_wie-bildgeneratoren-funktionieren/reel-tools.mp4"
+  ],
+  "caption": "KI-Bilder kostenlos erstellen 🎨 Welches Tool hast du schon getestet? Schreib's in die Kommentare!\n\nTipp: Keine Fotos von echten Personen hochladen und KI-Bilder immer als KI-generiert kennzeichnen.\n\nNova ist eine KI-Figur 🤖 Folge @neuro_nauten auf Instagram & TikTok für täglich neue KI-Tipps!\n\n#Technologie #Weiterbildung #Gratis #BildKI #Lernen",
+  "via": "metricool-umzug"
+ },
+ {
+  "id": "2026-10-23-karussell",
+  "at": "2026-10-23T18:00:00+02:00",
+  "type": "FEED",
+  "media": [
+   "posts/2026-10-23_wie-bildgeneratoren-funktionieren/slide-01.jpg",
+   "posts/2026-10-23_wie-bildgeneratoren-funktionieren/slide-02.jpg",
+   "posts/2026-10-23_wie-bildgeneratoren-funktionieren/slide-03.jpg",
+   "posts/2026-10-23_wie-bildgeneratoren-funktionieren/slide-04.jpg",
+   "posts/2026-10-23_wie-bildgeneratoren-funktionieren/slide-05.jpg"
+  ],
+  "caption": "Wie malt eine KI eigentlich Bilder? 🎨🤖\n\nSie startet mit Rauschen und entfernt es Schritt für Schritt, gelenkt von deinem Prompt. Das Verfahren heißt Diffusion.\n\n💾 Speichern & teilen!\n\nNova ist eine KI-Figur 🤖\n\n#KI #KIBilder #Bildgenerator #Diffusion #KIerklärt #TechWissen #LernenMitKI #neuronauten #Claude #ClaudeAI #Anthropic #AI #ArtificialIntelligence #KünstlicheIntelligenz #GenerativeAI #AITools",
+  "via": "metricool-umzug"
+ },
+ {
+  "id": "2026-10-23-story",
+  "at": "2026-10-23T18:15:00+02:00",
+  "type": "STORY",
+  "media": [
+   "posts/2026-10-23_wie-bildgeneratoren-funktionieren/story.jpg"
+  ],
+  "caption": "",
+  "via": "metricool-umzug"
+ },
+ {
+  "id": "2026-10-24-reel",
+  "at": "2026-10-24T12:00:00+02:00",
+  "type": "REEL",
+  "media": [
+   "posts/2026-10-24_quiz-prompts/reel-tools.mp4"
+  ],
+  "caption": "3 Prompt-Tricks, die sofort bessere Antworten bringen 💬 Welchen probierst du zuerst? Schreib's in die Kommentare!\n\nTipp: Keine Passwörter oder privaten Daten in Prompts schreiben.\n\nNova ist eine KI-Figur 🤖 Folge @neuro_nauten auf Instagram & TikTok für täglich neue KI-Tipps!\n\n#Technologie #KIimAlltag #ChatGPTTipps #PromptTipps #Lifehacks",
+  "via": "metricool-umzug"
+ },
+ {
+  "id": "2026-10-24-karussell",
+  "at": "2026-10-24T18:00:00+02:00",
+  "type": "FEED",
+  "media": [
+   "posts/2026-10-24_quiz-prompts/slide-01.jpg",
+   "posts/2026-10-24_quiz-prompts/slide-02.jpg",
+   "posts/2026-10-24_quiz-prompts/slide-03.jpg",
+   "posts/2026-10-24_quiz-prompts/slide-04.jpg",
+   "posts/2026-10-24_quiz-prompts/slide-05.jpg"
+  ],
+  "caption": "Samstags-Quiz 🧠 Bist du ein Prompt-Profi?\n\nRate erst, dann wische zur Auflösung. Schreib deine Punktzahl in die Kommentare 👇\n\nNova ist eine KI-Figur 🤖\n\n#KI #Quiz #Prompt #ChatGPT #KITipps #LernenMitKI #KIerklärt #neuronauten #Claude #ClaudeAI #Anthropic #AI #ArtificialIntelligence #KünstlicheIntelligenz #GenerativeAI #AITools",
+  "via": "metricool-umzug"
+ },
+ {
+  "id": "2026-10-24-story",
+  "at": "2026-10-24T18:15:00+02:00",
+  "type": "STORY",
+  "media": [
+   "posts/2026-10-24_quiz-prompts/story.jpg"
+  ],
+  "caption": "",
+  "via": "metricool-umzug"
+ },
+ {
+  "id": "2026-10-25-reel",
+  "at": "2026-10-25T12:00:00+01:00",
+  "type": "REEL",
+  "media": [
+   "posts/2026-10-25_datenschutz-chatbots/reel.mp4"
+  ],
+  "caption": "Was weiß die KI über dich? 🔒 3 Datenschutz-Regeln für Chatbots. Folge @neuro_nauten für mehr!\n\nNova ist eine KI-Figur 🤖\n\n📲 Folge @neuro_nauten auf Instagram & TikTok!\n\n#Datenschutz #KI #ChatGPT #Sicherheit #Medienkompetenz #KIerklärt #LernenMitKI #neuronauten #Claude #ClaudeAI #Anthropic #AI #ArtificialIntelligence #KünstlicheIntelligenz #GenerativeAI #AITools",
+  "via": "metricool-umzug"
+ },
+ {
+  "id": "2026-10-25-karussell",
+  "at": "2026-10-25T18:00:00+01:00",
+  "type": "FEED",
+  "media": [
+   "posts/2026-10-25_datenschutz-chatbots/slide-01.jpg",
+   "posts/2026-10-25_datenschutz-chatbots/slide-02.jpg",
+   "posts/2026-10-25_datenschutz-chatbots/slide-03.jpg",
+   "posts/2026-10-25_datenschutz-chatbots/slide-04.jpg",
+   "posts/2026-10-25_datenschutz-chatbots/slide-05.jpg"
+  ],
+  "caption": "Datenschutz bei Chatbots 🔒\n\nAlles, was du eintippst, kann gespeichert werden. Darum: keine Passwörter, keine Gesundheitsdaten, keine Daten anderer, und im Job die Regeln checken.\n\n📤 Teile das mit jemandem, der ChatGPT alles erzählt!\n\nNova ist eine KI-Figur 🤖\n\n#Datenschutz #KI #ChatGPT #Sicherheit #Medienkompetenz #KIerklärt #LernenMitKI #neuronauten #Claude #ClaudeAI #Anthropic #AI #ArtificialIntelligence #KünstlicheIntelligenz #GenerativeAI #AITools",
+  "via": "metricool-umzug"
+ },
+ {
+  "id": "2026-10-25-story",
+  "at": "2026-10-25T18:15:00+01:00",
+  "type": "STORY",
+  "media": [
+   "posts/2026-10-25_datenschutz-chatbots/story.jpg"
+  ],
+  "caption": "",
+  "via": "metricool-umzug"
+ },
+ {
+  "id": "2026-10-26-reel",
+  "at": "2026-10-26T12:00:00+01:00",
+  "type": "REEL",
+  "media": [
+   "posts/2026-10-26_neuronales-netz/reel.mp4"
+  ],
+  "caption": "Neuronales Netz in 20 Sekunden erklärt 🧠 Folge @neuro_nauten für mehr!\n\nNova ist eine KI-Figur 🤖\n\n📲 Folge @neuro_nauten auf Instagram & TikTok!\n\n#KI #NeuronalesNetz #DeepLearning #KIBasics #KIerklärt #TechWissen #LernenMitKI #neuronauten #Claude #ClaudeAI #Anthropic #AI #ArtificialIntelligence #KünstlicheIntelligenz #GenerativeAI #AITools",
+  "via": "metricool-umzug"
+ },
+ {
+  "id": "2026-10-26-karussell",
+  "at": "2026-10-26T18:00:00+01:00",
+  "type": "FEED",
+  "media": [
+   "posts/2026-10-26_neuronales-netz/slide-01.jpg",
+   "posts/2026-10-26_neuronales-netz/slide-02.jpg",
+   "posts/2026-10-26_neuronales-netz/slide-03.jpg",
+   "posts/2026-10-26_neuronales-netz/slide-04.jpg",
+   "posts/2026-10-26_neuronales-netz/slide-05.jpg"
+  ],
+  "caption": "Was ist ein neuronales Netz? 🧠\n\nViele verbundene Recheneinheiten in Schichten. Lernen heißt: die Gewichte der Verbindungen so lange anpassen, bis die Antworten stimmen.\n\n💾 Speichern für später!\n\nNova ist eine KI-Figur 🤖\n\n#KI #NeuronalesNetz #DeepLearning #KIBasics #KIerklärt #TechWissen #LernenMitKI #neuronauten #Claude #ClaudeAI #Anthropic #AI #ArtificialIntelligence #KünstlicheIntelligenz #GenerativeAI #AITools",
+  "via": "metricool-umzug"
+ },
+ {
+  "id": "2026-10-26-story",
+  "at": "2026-10-26T18:15:00+01:00",
+  "type": "STORY",
+  "media": [
+   "posts/2026-10-26_neuronales-netz/story.jpg"
+  ],
+  "caption": "",
+  "via": "metricool-umzug"
+ },
+ {
+  "id": "2026-10-27-reel",
+  "at": "2026-10-27T12:00:00+01:00",
+  "type": "REEL",
+  "media": [
+   "posts/2026-10-27_prompt-beispiele-geben/reel.mp4"
+  ],
+  "caption": "Der Beispiel-Trick für bessere Prompts ✍️ Folge @neuro_nauten für mehr!\n\nNova ist eine KI-Figur 🤖\n\n📲 Folge @neuro_nauten auf Instagram & TikTok!\n\n#Prompt #PromptEngineering #ChatGPT #KITipps #Produktivität #LernenMitKI #KIerklärt #neuronauten #Claude #ClaudeAI #Anthropic #AI #ArtificialIntelligence #KünstlicheIntelligenz #GenerativeAI #AITools",
+  "via": "metricool-umzug"
+ },
+ {
+  "id": "2026-10-27-karussell",
+  "at": "2026-10-27T18:00:00+01:00",
+  "type": "FEED",
+  "media": [
+   "posts/2026-10-27_prompt-beispiele-geben/slide-01.jpg",
+   "posts/2026-10-27_prompt-beispiele-geben/slide-02.jpg",
+   "posts/2026-10-27_prompt-beispiele-geben/slide-03.jpg",
+   "posts/2026-10-27_prompt-beispiele-geben/slide-04.jpg",
+   "posts/2026-10-27_prompt-beispiele-geben/slide-05.jpg"
+  ],
+  "caption": "Prompt-Tipp: Zeig der KI ein Beispiel ✍️\n\nStatt lange zu beschreiben, gib 1–2 Muster mit. Die KI übernimmt Stil und Aufbau. Das heißt Few-Shot-Prompting.\n\n💬 Wofür probierst du das zuerst aus?\n\nNova ist eine KI-Figur 🤖\n\n#Prompt #PromptEngineering #ChatGPT #KITipps #Produktivität #LernenMitKI #KIerklärt #neuronauten #Claude #ClaudeAI #Anthropic #AI #ArtificialIntelligence #KünstlicheIntelligenz #GenerativeAI #AITools",
+  "via": "metricool-umzug"
+ },
+ {
+  "id": "2026-10-27-story",
+  "at": "2026-10-27T18:15:00+01:00",
+  "type": "STORY",
+  "media": [
+   "posts/2026-10-27_prompt-beispiele-geben/story.jpg"
+  ],
+  "caption": "",
+  "via": "metricool-umzug"
+ },
+ {
+  "id": "2026-10-28-reel",
+  "at": "2026-10-28T12:00:00+01:00",
+  "type": "REEL",
+  "media": [
+   "posts/2026-10-28_lernen-mit-ki/reel.mp4"
+  ],
+  "caption": "Lernen mit KI: 3 Tricks 📚 Folge @neuro_nauten für mehr!\n\nNova ist eine KI-Figur 🤖\n\n📲 Folge @neuro_nauten auf Instagram & TikTok!\n\n#Lernen #KI #LernenMitKI #Schule #Studium #ChatGPT #KIimAlltag #neuronauten #Claude #ClaudeAI #Anthropic #AI #ArtificialIntelligence #KünstlicheIntelligenz #GenerativeAI #AITools",
+  "via": "metricool-umzug"
+ },
+ {
+  "id": "2026-10-28-karussell",
+  "at": "2026-10-28T18:00:00+01:00",
+  "type": "FEED",
+  "media": [
+   "posts/2026-10-28_lernen-mit-ki/slide-01.jpg",
+   "posts/2026-10-28_lernen-mit-ki/slide-02.jpg",
+   "posts/2026-10-28_lernen-mit-ki/slide-03.jpg",
+   "posts/2026-10-28_lernen-mit-ki/slide-04.jpg",
+   "posts/2026-10-28_lernen-mit-ki/slide-05.jpg"
+  ],
+  "caption": "Besser lernen mit KI 📚🤖\n\nErklären lassen, abfragen lassen, aber selbst denken. So wird KI zum geduldigsten Nachhilfelehrer der Welt.\n\n📤 Teile das mit jemandem, der gerade für Prüfungen lernt!\n\nNova ist eine KI-Figur 🤖\n\n#Lernen #KI #LernenMitKI #Schule #Studium #ChatGPT #KIimAlltag #neuronauten #Claude #ClaudeAI #Anthropic #AI #ArtificialIntelligence #KünstlicheIntelligenz #GenerativeAI #AITools",
+  "via": "metricool-umzug"
+ },
+ {
+  "id": "2026-10-28-story",
+  "at": "2026-10-28T18:15:00+01:00",
+  "type": "STORY",
+  "media": [
+   "posts/2026-10-28_lernen-mit-ki/story.jpg"
+  ],
+  "caption": "",
+  "via": "metricool-umzug"
+ },
+ {
+  "id": "2026-10-29-reel",
+  "at": "2026-10-29T12:00:00+01:00",
+  "type": "REEL",
+  "media": [
+   "posts/2026-10-29_mythos-ki-ist-neutral/reel.mp4"
+  ],
+  "caption": "Ist KI neutral? ⚖️ Spoiler: nein. Folge @neuro_nauten für mehr!\n\nNova ist eine KI-Figur 🤖\n\n📲 Folge @neuro_nauten auf Instagram & TikTok!\n\n#KI #Bias #MythosOderFakt #Ethik #Medienkompetenz #KIerklärt #LernenMitKI #neuronauten #Claude #ClaudeAI #Anthropic #AI #ArtificialIntelligence #KünstlicheIntelligenz #GenerativeAI #AITools",
+  "via": "metricool-umzug"
+ },
+ {
+  "id": "2026-10-29-karussell",
+  "at": "2026-10-29T18:00:00+01:00",
+  "type": "FEED",
+  "media": [
+   "posts/2026-10-29_mythos-ki-ist-neutral/slide-01.jpg",
+   "posts/2026-10-29_mythos-ki-ist-neutral/slide-02.jpg",
+   "posts/2026-10-29_mythos-ki-ist-neutral/slide-03.jpg",
+   "posts/2026-10-29_mythos-ki-ist-neutral/slide-04.jpg",
+   "posts/2026-10-29_mythos-ki-ist-neutral/slide-05.jpg"
+  ],
+  "caption": "„KI ist neutral“: Mythos oder Fakt? ⚖️\n\nMythos. KI lernt aus menschlichen Daten und übernimmt deren Verzerrungen. Darum: Ergebnisse immer kritisch prüfen.\n\n💬 Ist dir so etwas schon mal aufgefallen?\n\nNova ist eine KI-Figur 🤖\n\n#KI #Bias #MythosOderFakt #Ethik #Medienkompetenz #KIerklärt #LernenMitKI #neuronauten #Claude #ClaudeAI #Anthropic #AI #ArtificialIntelligence #KünstlicheIntelligenz #GenerativeAI #AITools",
+  "via": "metricool-umzug"
+ },
+ {
+  "id": "2026-10-29-story",
+  "at": "2026-10-29T18:15:00+01:00",
+  "type": "STORY",
+  "media": [
+   "posts/2026-10-29_mythos-ki-ist-neutral/story.jpg"
+  ],
+  "caption": "",
+  "via": "metricool-umzug"
+ },
+ {
+  "id": "2026-10-30-reel",
+  "at": "2026-10-30T12:00:00+01:00",
+  "type": "REEL",
+  "media": [
+   "posts/2026-10-30_spracherkennung/reel.mp4"
+  ],
+  "caption": "So hört KI zu 🎙️ In 3 Schritten erklärt. Folge @neuro_nauten für mehr!\n\nNova ist eine KI-Figur 🤖\n\n📲 Folge @neuro_nauten auf Instagram & TikTok!\n\n#KI #Spracherkennung #Sprachassistent #KIerklärt #TechWissen #LernenMitKI #neuronauten #Claude #ClaudeAI #Anthropic #AI #ArtificialIntelligence #KünstlicheIntelligenz #GenerativeAI #AITools",
+  "via": "metricool-umzug"
+ },
+ {
+  "id": "2026-10-30-karussell",
+  "at": "2026-10-30T18:00:00+01:00",
+  "type": "FEED",
+  "media": [
+   "posts/2026-10-30_spracherkennung/slide-01.jpg",
+   "posts/2026-10-30_spracherkennung/slide-02.jpg",
+   "posts/2026-10-30_spracherkennung/slide-03.jpg",
+   "posts/2026-10-30_spracherkennung/slide-04.jpg",
+   "posts/2026-10-30_spracherkennung/slide-05.jpg"
+  ],
+  "caption": "Wie versteht KI Sprache? 🎙️🤖\n\nSchall wird zu Daten, Muster werden zu Wörtern, und der Kontext räumt Fehler aus. Sprachassistenten machen das in Sekundenbruchteilen.\n\n💾 Speichern & teilen!\n\nNova ist eine KI-Figur 🤖\n\n#KI #Spracherkennung #Sprachassistent #KIerklärt #TechWissen #LernenMitKI #neuronauten #Claude #ClaudeAI #Anthropic #AI #ArtificialIntelligence #KünstlicheIntelligenz #GenerativeAI #AITools",
+  "via": "metricool-umzug"
+ },
+ {
+  "id": "2026-10-30-story",
+  "at": "2026-10-30T18:15:00+01:00",
+  "type": "STORY",
+  "media": [
+   "posts/2026-10-30_spracherkennung/story.jpg"
+  ],
+  "caption": "",
+  "via": "metricool-umzug"
+ },
+ {
+  "id": "2026-10-31-reel",
+  "at": "2026-10-31T12:00:00+01:00",
+  "type": "REEL",
+  "media": [
+   "posts/2026-10-31_quiz-ki-mythen/reel.mp4"
+  ],
+  "caption": "Wahr oder falsch? 🧠 Das KI-Mythen-Quiz. Folge @neuro_nauten für mehr!\n\nNova ist eine KI-Figur 🤖\n\n📲 Folge @neuro_nauten auf Instagram & TikTok!\n\n#KI #Quiz #MythosOderFakt #LernenMitKI #KIerklärt #Wissen #neuronauten #Claude #ClaudeAI #Anthropic #AI #ArtificialIntelligence #KünstlicheIntelligenz #GenerativeAI #AITools",
+  "via": "metricool-umzug"
+ },
+ {
+  "id": "2026-10-31-karussell",
+  "at": "2026-10-31T18:00:00+01:00",
+  "type": "FEED",
+  "media": [
+   "posts/2026-10-31_quiz-ki-mythen/slide-01.jpg",
+   "posts/2026-10-31_quiz-ki-mythen/slide-02.jpg",
+   "posts/2026-10-31_quiz-ki-mythen/slide-03.jpg",
+   "posts/2026-10-31_quiz-ki-mythen/slide-04.jpg",
+   "posts/2026-10-31_quiz-ki-mythen/slide-05.jpg"
+  ],
+  "caption": "Samstags-Quiz 🧠 Wahr oder falsch?\n\nDrei Aussagen über KI. Rate erst, dann wische! Wie viele hattest du richtig? 👇\n\nNova ist eine KI-Figur 🤖\n\n#KI #Quiz #MythosOderFakt #LernenMitKI #KIerklärt #Wissen #neuronauten #Claude #ClaudeAI #Anthropic #AI #ArtificialIntelligence #KünstlicheIntelligenz #GenerativeAI #AITools",
+  "via": "metricool-umzug"
+ },
+ {
+  "id": "2026-10-31-story",
+  "at": "2026-10-31T18:15:00+01:00",
+  "type": "STORY",
+  "media": [
+   "posts/2026-10-31_quiz-ki-mythen/story.jpg"
+  ],
+  "caption": "",
+  "via": "metricool-umzug"
+ },
+ {
+  "id": "2026-11-01-reel",
+  "at": "2026-11-01T12:00:00+01:00",
+  "type": "REEL",
+  "media": [
+   "posts/2026-11-01_eu-ai-act/reel.mp4"
+  ],
+  "caption": "Das KI-Gesetz der EU in 20 Sekunden 🇪🇺 Folge @neuro_nauten für mehr!\n\nNova ist eine KI-Figur 🤖\n\n📲 Folge @neuro_nauten auf Instagram & TikTok!\n\n#KI #AIAct #EU #KIGesetz #Ethik #KIerklärt #LernenMitKI #neuronauten #Claude #ClaudeAI #Anthropic #AI #ArtificialIntelligence #KünstlicheIntelligenz #GenerativeAI #AITools",
+  "via": "metricool-umzug"
+ },
+ {
+  "id": "2026-11-01-karussell",
+  "at": "2026-11-01T18:00:00+01:00",
+  "type": "FEED",
+  "media": [
+   "posts/2026-11-01_eu-ai-act/slide-01.jpg",
+   "posts/2026-11-01_eu-ai-act/slide-02.jpg",
+   "posts/2026-11-01_eu-ai-act/slide-03.jpg",
+   "posts/2026-11-01_eu-ai-act/slide-04.jpg",
+   "posts/2026-11-01_eu-ai-act/slide-05.jpg"
+  ],
+  "caption": "Der EU AI Act einfach erklärt 🇪🇺⚖️\n\nRegeln nach Risiko, Verbote für besonders gefährliche Anwendungen und mehr Transparenz bei Chatbots und Deepfakes.\n\n💬 Findest du die Regeln zu streng oder zu locker?\n\nNova ist eine KI-Figur 🤖\n\n#KI #AIAct #EU #KIGesetz #Ethik #KIerklärt #LernenMitKI #neuronauten #Claude #ClaudeAI #Anthropic #AI #ArtificialIntelligence #KünstlicheIntelligenz #GenerativeAI #AITools",
+  "via": "metricool-umzug"
+ },
+ {
+  "id": "2026-11-01-story",
+  "at": "2026-11-01T18:15:00+01:00",
+  "type": "STORY",
+  "media": [
+   "posts/2026-11-01_eu-ai-act/story.jpg"
+  ],
+  "caption": "",
+  "via": "metricool-umzug"
+ },
+ {
+  "id": "2026-11-02-reel",
+  "at": "2026-11-02T12:00:00+01:00",
+  "type": "REEL",
+  "media": [
+   "posts/2026-11-02_trainingsdaten/reel.mp4"
+  ],
+  "caption": "Was frisst eine KI? 🍽️ Trainingsdaten erklärt. Folge @neuro_nauten für mehr!\n\nNova ist eine KI-Figur 🤖\n\n📲 Folge @neuro_nauten auf Instagram & TikTok!\n\n#KI #Trainingsdaten #Daten #KIBasics #KIerklärt #LernenMitKI #neuronauten #Claude #ClaudeAI #Anthropic #AI #ArtificialIntelligence #KünstlicheIntelligenz #GenerativeAI #AITools",
+  "via": "metricool-umzug"
+ },
+ {
+  "id": "2026-11-02-karussell",
+  "at": "2026-11-02T18:00:00+01:00",
+  "type": "FEED",
+  "media": [
+   "posts/2026-11-02_trainingsdaten/slide-01.jpg",
+   "posts/2026-11-02_trainingsdaten/slide-02.jpg",
+   "posts/2026-11-02_trainingsdaten/slide-03.jpg",
+   "posts/2026-11-02_trainingsdaten/slide-04.jpg",
+   "posts/2026-11-02_trainingsdaten/slide-05.jpg"
+  ],
+  "caption": "Trainingsdaten: das Futter der KI 🍽️🤖\n\nOhne Daten keine KI, und schlechte Daten machen schlechte KI. Garbage in, garbage out!\n\n💾 Speichern für später!\n\nNova ist eine KI-Figur 🤖\n\n#KI #Trainingsdaten #Daten #KIBasics #KIerklärt #LernenMitKI #neuronauten #Claude #ClaudeAI #Anthropic #AI #ArtificialIntelligence #KünstlicheIntelligenz #GenerativeAI #AITools",
+  "via": "metricool-umzug"
+ },
+ {
+  "id": "2026-11-02-story",
+  "at": "2026-11-02T18:15:00+01:00",
+  "type": "STORY",
+  "media": [
+   "posts/2026-11-02_trainingsdaten/story.jpg"
+  ],
+  "caption": "",
+  "via": "metricool-umzug"
+ },
+ {
+  "id": "2026-11-03-reel",
+  "at": "2026-11-03T12:00:00+01:00",
+  "type": "REEL",
+  "media": [
+   "posts/2026-11-03_prompt-rueckfragen/reel.mp4"
+  ],
+  "caption": "Ein Satz für bessere KI-Antworten 🙋 Folge @neuro_nauten für mehr!\n\nNova ist eine KI-Figur 🤖\n\n📲 Folge @neuro_nauten auf Instagram & TikTok!\n\n#Prompt #PromptEngineering #ChatGPT #KITipps #Produktivität #LernenMitKI #neuronauten #Claude #ClaudeAI #Anthropic #AI #ArtificialIntelligence #KünstlicheIntelligenz #GenerativeAI #AITools",
+  "via": "metricool-umzug"
+ },
+ {
+  "id": "2026-11-03-karussell",
+  "at": "2026-11-03T18:00:00+01:00",
+  "type": "FEED",
+  "media": [
+   "posts/2026-11-03_prompt-rueckfragen/slide-01.jpg",
+   "posts/2026-11-03_prompt-rueckfragen/slide-02.jpg",
+   "posts/2026-11-03_prompt-rueckfragen/slide-03.jpg",
+   "posts/2026-11-03_prompt-rueckfragen/slide-04.jpg",
+   "posts/2026-11-03_prompt-rueckfragen/slide-05.jpg"
+  ],
+  "caption": "Prompt-Tipp: Lass die KI zurückfragen 🙋\n\nEin Satz am Ende reicht: „Stell mir zuerst bis zu 5 Fragen, bevor du antwortest.“ Probier's aus!\n\n💾 Speichern!\n\nNova ist eine KI-Figur 🤖\n\n#Prompt #PromptEngineering #ChatGPT #KITipps #Produktivität #LernenMitKI #neuronauten #Claude #ClaudeAI #Anthropic #AI #ArtificialIntelligence #KünstlicheIntelligenz #GenerativeAI #AITools",
+  "via": "metricool-umzug"
+ },
+ {
+  "id": "2026-11-03-story",
+  "at": "2026-11-03T18:15:00+01:00",
+  "type": "STORY",
+  "media": [
+   "posts/2026-11-03_prompt-rueckfragen/story.jpg"
+  ],
+  "caption": "",
+  "via": "metricool-umzug"
+ },
+ {
+  "id": "2026-11-04-reel",
+  "at": "2026-11-04T12:00:00+01:00",
+  "type": "REEL",
+  "media": [
+   "posts/2026-11-04_bewerbung-mit-ki/reel.mp4"
+  ],
+  "caption": "Bewerben mit KI: 3 Tipps 💼 Folge @neuro_nauten für mehr!\n\nNova ist eine KI-Figur 🤖\n\n📲 Folge @neuro_nauten auf Instagram & TikTok!\n\n#Bewerbung #KI #Karriere #ChatGPT #KIimAlltag #LernenMitKI #neuronauten #Claude #ClaudeAI #Anthropic #AI #ArtificialIntelligence #KünstlicheIntelligenz #GenerativeAI #AITools",
+  "via": "metricool-umzug"
+ },
+ {
+  "id": "2026-11-04-karussell",
+  "at": "2026-11-04T18:00:00+01:00",
+  "type": "FEED",
+  "media": [
+   "posts/2026-11-04_bewerbung-mit-ki/slide-01.jpg",
+   "posts/2026-11-04_bewerbung-mit-ki/slide-02.jpg",
+   "posts/2026-11-04_bewerbung-mit-ki/slide-03.jpg",
+   "posts/2026-11-04_bewerbung-mit-ki/slide-04.jpg",
+   "posts/2026-11-04_bewerbung-mit-ki/slide-05.jpg"
+  ],
+  "caption": "Bewerben mit KI 💼🤖\n\nEntwurf selbst schreiben, von der KI verbessern lassen und das Vorstellungsgespräch üben. Aber echt bleiben!\n\n📤 Teile das mit jemandem, der sich gerade bewirbt!\n\nNova ist eine KI-Figur 🤖\n\n#Bewerbung #KI #Karriere #ChatGPT #KIimAlltag #LernenMitKI #neuronauten #Claude #ClaudeAI #Anthropic #AI #ArtificialIntelligence #KünstlicheIntelligenz #GenerativeAI #AITools",
+  "via": "metricool-umzug"
+ },
+ {
+  "id": "2026-11-04-story",
+  "at": "2026-11-04T18:15:00+01:00",
+  "type": "STORY",
+  "media": [
+   "posts/2026-11-04_bewerbung-mit-ki/story.jpg"
+  ],
+  "caption": "",
+  "via": "metricool-umzug"
+ },
+ {
+  "id": "2026-11-05-reel",
+  "at": "2026-11-05T12:00:00+01:00",
+  "type": "REEL",
+  "media": [
+   "posts/2026-11-05_mythos-ki-versteht-mich/reel.mp4"
+  ],
+  "caption": "Versteht die KI dich wirklich? 💭 Folge @neuro_nauten für mehr!\n\nNova ist eine KI-Figur 🤖\n\n📲 Folge @neuro_nauten auf Instagram & TikTok!\n\n#KI #MythosOderFakt #ChatGPT #MentaleGesundheit #Medienkompetenz #KIerklärt #neuronauten #Claude #ClaudeAI #Anthropic #AI #ArtificialIntelligence #KünstlicheIntelligenz #GenerativeAI #AITools",
+  "via": "metricool-umzug"
+ },
+ {
+  "id": "2026-11-05-karussell",
+  "at": "2026-11-05T18:00:00+01:00",
+  "type": "FEED",
+  "media": [
+   "posts/2026-11-05_mythos-ki-versteht-mich/slide-01.jpg",
+   "posts/2026-11-05_mythos-ki-versteht-mich/slide-02.jpg",
+   "posts/2026-11-05_mythos-ki-versteht-mich/slide-03.jpg",
+   "posts/2026-11-05_mythos-ki-versteht-mich/slide-04.jpg",
+   "posts/2026-11-05_mythos-ki-versteht-mich/slide-05.jpg"
+  ],
+  "caption": "„Die KI versteht mich“: Mythos oder Fakt? 💭\n\nEher Mythos. KI ahmt Mitgefühl überzeugend nach, fühlt aber nichts. Bei echten Sorgen sind Menschen unersetzlich.\n\n💬 Wie siehst du das?\n\nNova ist eine KI-Figur 🤖\n\n#KI #MythosOderFakt #ChatGPT #MentaleGesundheit #Medienkompetenz #KIerklärt #neuronauten #Claude #ClaudeAI #Anthropic #AI #ArtificialIntelligence #KünstlicheIntelligenz #GenerativeAI #AITools",
+  "via": "metricool-umzug"
+ },
+ {
+  "id": "2026-11-05-story",
+  "at": "2026-11-05T18:15:00+01:00",
+  "type": "STORY",
+  "media": [
+   "posts/2026-11-05_mythos-ki-versteht-mich/story.jpg"
+  ],
+  "caption": "",
+  "via": "metricool-umzug"
+ },
+ {
+  "id": "2026-11-06-reel",
+  "at": "2026-11-06T12:00:00+01:00",
+  "type": "REEL",
+  "media": [
+   "posts/2026-11-06_empfehlungsalgorithmen/reel.mp4"
+  ],
+  "caption": "Wie dein Feed dich so gut kennt 📱 Folge @neuro_nauten für mehr!\n\nNova ist eine KI-Figur 🤖\n\n📲 Folge @neuro_nauten auf Instagram & TikTok!\n\n#KI #Algorithmus #SocialMedia #Filterblase #KIerklärt #Medienkompetenz #neuronauten #Claude #ClaudeAI #Anthropic #AI #ArtificialIntelligence #KünstlicheIntelligenz #GenerativeAI #AITools",
+  "via": "metricool-umzug"
+ },
+ {
+  "id": "2026-11-06-karussell",
+  "at": "2026-11-06T18:00:00+01:00",
+  "type": "FEED",
+  "media": [
+   "posts/2026-11-06_empfehlungsalgorithmen/slide-01.jpg",
+   "posts/2026-11-06_empfehlungsalgorithmen/slide-02.jpg",
+   "posts/2026-11-06_empfehlungsalgorithmen/slide-03.jpg",
+   "posts/2026-11-06_empfehlungsalgorithmen/slide-04.jpg",
+   "posts/2026-11-06_empfehlungsalgorithmen/slide-05.jpg"
+  ],
+  "caption": "Warum kennt dein Feed dich so gut? 📱🤖\n\nEr misst alles, was du tust, und vergleicht dich mit Millionen anderen. Vorsicht vor der Filterblase!\n\n💾 Speichern & teilen!\n\nNova ist eine KI-Figur 🤖\n\n#KI #Algorithmus #SocialMedia #Filterblase #KIerklärt #Medienkompetenz #neuronauten #Claude #ClaudeAI #Anthropic #AI #ArtificialIntelligence #KünstlicheIntelligenz #GenerativeAI #AITools",
+  "via": "metricool-umzug"
+ },
+ {
+  "id": "2026-11-06-story",
+  "at": "2026-11-06T18:15:00+01:00",
+  "type": "STORY",
+  "media": [
+   "posts/2026-11-06_empfehlungsalgorithmen/story.jpg"
+  ],
+  "caption": "",
+  "via": "metricool-umzug"
+ },
+ {
+  "id": "2026-11-07-reel",
+  "at": "2026-11-07T12:00:00+01:00",
+  "type": "REEL",
+  "media": [
+   "posts/2026-11-07_quiz-technik/reel.mp4"
+  ],
+  "caption": "Technik-Quiz 🧠 Wie viele hast du gewusst? Folge @neuro_nauten für mehr!\n\nNova ist eine KI-Figur 🤖\n\n📲 Folge @neuro_nauten auf Instagram & TikTok!\n\n#KI #Quiz #TechWissen #LernenMitKI #KIerklärt #Wissen #neuronauten #Claude #ClaudeAI #Anthropic #AI #ArtificialIntelligence #KünstlicheIntelligenz #GenerativeAI #AITools",
+  "via": "metricool-umzug"
+ },
+ {
+  "id": "2026-11-07-karussell",
+  "at": "2026-11-07T18:00:00+01:00",
+  "type": "FEED",
+  "media": [
+   "posts/2026-11-07_quiz-technik/slide-01.jpg",
+   "posts/2026-11-07_quiz-technik/slide-02.jpg",
+   "posts/2026-11-07_quiz-technik/slide-03.jpg",
+   "posts/2026-11-07_quiz-technik/slide-04.jpg",
+   "posts/2026-11-07_quiz-technik/slide-05.jpg"
+  ],
+  "caption": "Samstags-Quiz 🧠 Wie tickt KI?\n\n3 Fragen zu Technik-Themen. Rate erst, dann wische! Schreib deine Punkte in die Kommentare 👇\n\nNova ist eine KI-Figur 🤖\n\n#KI #Quiz #TechWissen #LernenMitKI #KIerklärt #Wissen #neuronauten #Claude #ClaudeAI #Anthropic #AI #ArtificialIntelligence #KünstlicheIntelligenz #GenerativeAI #AITools",
+  "via": "metricool-umzug"
+ },
+ {
+  "id": "2026-11-07-story",
+  "at": "2026-11-07T18:15:00+01:00",
+  "type": "STORY",
+  "media": [
+   "posts/2026-11-07_quiz-technik/story.jpg"
+  ],
+  "caption": "",
+  "via": "metricool-umzug"
+ },
+ {
+  "id": "2026-11-08-reel",
+  "at": "2026-11-08T12:00:00+01:00",
+  "type": "REEL",
+  "media": [
+   "posts/2026-11-08_urheberrecht-ki/reel.mp4"
+  ],
+  "caption": "Wem gehört das KI-Bild? ⚖️ Urheberrecht erklärt. Folge @neuro_nauten für mehr!\n\nNova ist eine KI-Figur 🤖\n\n📲 Folge @neuro_nauten auf Instagram & TikTok!\n\n#KI #Urheberrecht #KIBilder #Recht #Ethik #KIerklärt #neuronauten #Claude #ClaudeAI #Anthropic #AI #ArtificialIntelligence #KünstlicheIntelligenz #GenerativeAI #AITools",
+  "via": "metricool-umzug"
+ },
+ {
+  "id": "2026-11-08-karussell",
+  "at": "2026-11-08T18:00:00+01:00",
+  "type": "FEED",
+  "media": [
+   "posts/2026-11-08_urheberrecht-ki/slide-01.jpg",
+   "posts/2026-11-08_urheberrecht-ki/slide-02.jpg",
+   "posts/2026-11-08_urheberrecht-ki/slide-03.jpg",
+   "posts/2026-11-08_urheberrecht-ki/slide-04.jpg",
+   "posts/2026-11-08_urheberrecht-ki/slide-05.jpg"
+  ],
+  "caption": "Wem gehören KI-Bilder? 🎨⚖️\n\nUrheberrecht schützt menschliche Schöpfungen. Rein KI-erzeugte Bilder sind meist nicht geschützt, aber die Regeln der Anbieter gelten trotzdem. Keine Rechtsberatung.\n\n💬 Nutzt du KI-Bilder?\n\nNova ist eine KI-Figur 🤖\n\n#KI #Urheberrecht #KIBilder #Recht #Ethik #KIerklärt #neuronauten #Claude #ClaudeAI #Anthropic #AI #ArtificialIntelligence #KünstlicheIntelligenz #GenerativeAI #AITools",
+  "via": "metricool-umzug"
+ },
+ {
+  "id": "2026-11-08-story",
+  "at": "2026-11-08T18:15:00+01:00",
+  "type": "STORY",
+  "media": [
+   "posts/2026-11-08_urheberrecht-ki/story.jpg"
+  ],
+  "caption": "",
+  "via": "metricool-umzug"
+ },
+ {
+  "id": "2026-11-09-reel",
+  "at": "2026-11-09T12:00:00+01:00",
+  "type": "REEL",
+  "media": [
+   "posts/2026-11-09_generative-ki/reel.mp4"
+  ],
+  "caption": "Generative KI in 20 Sekunden ✨ Folge @neuro_nauten für mehr!\n\nNova ist eine KI-Figur 🤖\n\n📲 Folge @neuro_nauten auf Instagram & TikTok!\n\n#KI #GenerativeKI #KIBasics #ChatGPT #KIerklärt #LernenMitKI #neuronauten #Claude #ClaudeAI #Anthropic #AI #ArtificialIntelligence #KünstlicheIntelligenz #GenerativeAI #AITools",
+  "via": "metricool-umzug"
+ },
+ {
+  "id": "2026-11-09-karussell",
+  "at": "2026-11-09T18:00:00+01:00",
+  "type": "FEED",
+  "media": [
+   "posts/2026-11-09_generative-ki/slide-01.jpg",
+   "posts/2026-11-09_generative-ki/slide-02.jpg",
+   "posts/2026-11-09_generative-ki/slide-03.jpg",
+   "posts/2026-11-09_generative-ki/slide-04.jpg",
+   "posts/2026-11-09_generative-ki/slide-05.jpg"
+  ],
+  "caption": "Was ist generative KI? ✨🤖\n\nKI, die Neues erschafft: Texte, Bilder, Musik, Videos, Code. Ein starkes Werkzeug, aber prüfen bleibt deine Aufgabe.\n\n💾 Speichern!\n\nNova ist eine KI-Figur 🤖\n\n#KI #GenerativeKI #KIBasics #ChatGPT #KIerklärt #LernenMitKI #neuronauten #Claude #ClaudeAI #Anthropic #AI #ArtificialIntelligence #KünstlicheIntelligenz #GenerativeAI #AITools",
+  "via": "metricool-umzug"
+ },
+ {
+  "id": "2026-11-09-story",
+  "at": "2026-11-09T18:15:00+01:00",
+  "type": "STORY",
+  "media": [
+   "posts/2026-11-09_generative-ki/story.jpg"
+  ],
+  "caption": "",
+  "via": "metricool-umzug"
+ },
+ {
+  "id": "2026-11-10-reel",
+  "at": "2026-11-10T12:00:00+01:00",
+  "type": "REEL",
+  "media": [
+   "posts/2026-11-10_prompt-schritt-fuer-schritt/reel.mp4"
+  ],
+  "caption": "Der Schritt-für-Schritt-Trick 🪜 Folge @neuro_nauten für mehr!\n\nNova ist eine KI-Figur 🤖\n\n📲 Folge @neuro_nauten auf Instagram & TikTok!\n\n#Prompt #PromptEngineering #ChatGPT #KITipps #Lernen #LernenMitKI #neuronauten #Claude #ClaudeAI #Anthropic #AI #ArtificialIntelligence #KünstlicheIntelligenz #GenerativeAI #AITools",
+  "via": "metricool-umzug"
+ },
+ {
+  "id": "2026-11-10-karussell",
+  "at": "2026-11-10T18:00:00+01:00",
+  "type": "FEED",
+  "media": [
+   "posts/2026-11-10_prompt-schritt-fuer-schritt/slide-01.jpg",
+   "posts/2026-11-10_prompt-schritt-fuer-schritt/slide-02.jpg",
+   "posts/2026-11-10_prompt-schritt-fuer-schritt/slide-03.jpg",
+   "posts/2026-11-10_prompt-schritt-fuer-schritt/slide-04.jpg",
+   "posts/2026-11-10_prompt-schritt-fuer-schritt/slide-05.jpg"
+  ],
+  "caption": "Prompt-Tipp: Schritt für Schritt 🪜\n\nBitte die KI, ihren Lösungsweg aufzuschreiben. Das macht sie genauer und dich schlauer.\n\n💾 Speichern für die nächste knifflige Aufgabe!\n\nNova ist eine KI-Figur 🤖\n\n#Prompt #PromptEngineering #ChatGPT #KITipps #Lernen #LernenMitKI #neuronauten #Claude #ClaudeAI #Anthropic #AI #ArtificialIntelligence #KünstlicheIntelligenz #GenerativeAI #AITools",
+  "via": "metricool-umzug"
+ },
+ {
+  "id": "2026-11-10-story",
+  "at": "2026-11-10T18:15:00+01:00",
+  "type": "STORY",
+  "media": [
+   "posts/2026-11-10_prompt-schritt-fuer-schritt/story.jpg"
+  ],
+  "caption": "",
+  "via": "metricool-umzug"
+ },
+ {
+  "id": "2026-11-11-reel",
+  "at": "2026-11-11T12:00:00+01:00",
+  "type": "REEL",
+  "media": [
+   "posts/2026-11-11_reiseplanung-mit-ki/reel.mp4"
+  ],
+  "caption": "Reisen planen mit KI ✈️ In 3 Schritten. Folge @neuro_nauten für mehr!\n\nNova ist eine KI-Figur 🤖\n\n📲 Folge @neuro_nauten auf Instagram & TikTok!\n\n#Reisen #KI #Reiseplanung #ChatGPT #KIimAlltag #LernenMitKI #neuronauten #Claude #ClaudeAI #Anthropic #AI #ArtificialIntelligence #KünstlicheIntelligenz #GenerativeAI #AITools",
+  "via": "metricool-umzug"
+ },
+ {
+  "id": "2026-11-11-karussell",
+  "at": "2026-11-11T18:00:00+01:00",
+  "type": "FEED",
+  "media": [
+   "posts/2026-11-11_reiseplanung-mit-ki/slide-01.jpg",
+   "posts/2026-11-11_reiseplanung-mit-ki/slide-02.jpg",
+   "posts/2026-11-11_reiseplanung-mit-ki/slide-03.jpg",
+   "posts/2026-11-11_reiseplanung-mit-ki/slide-04.jpg",
+   "posts/2026-11-11_reiseplanung-mit-ki/slide-05.jpg"
+  ],
+  "caption": "Reisen planen mit KI ✈️🤖\n\nBudget und Interessen nennen, Plan erstellen lassen, und vor dem Buchen alles auf offiziellen Seiten prüfen.\n\n💬 Wohin geht deine nächste Reise?\n\nNova ist eine KI-Figur 🤖\n\n#Reisen #KI #Reiseplanung #ChatGPT #KIimAlltag #LernenMitKI #neuronauten #Claude #ClaudeAI #Anthropic #AI #ArtificialIntelligence #KünstlicheIntelligenz #GenerativeAI #AITools",
+  "via": "metricool-umzug"
+ },
+ {
+  "id": "2026-11-11-story",
+  "at": "2026-11-11T18:15:00+01:00",
+  "type": "STORY",
+  "media": [
+   "posts/2026-11-11_reiseplanung-mit-ki/story.jpg"
+  ],
+  "caption": "",
+  "via": "metricool-umzug"
+ },
+ {
+  "id": "2026-11-12-reel",
+  "at": "2026-11-12T12:00:00+01:00",
+  "type": "REEL",
+  "media": [
+   "posts/2026-11-12_mythos-ki-texte-erkennen/reel.mp4"
+  ],
+  "caption": "Erkennst du KI-Texte? 🕵️ Mythos oder Fakt. Folge @neuro_nauten für mehr!\n\nNova ist eine KI-Figur 🤖\n\n📲 Folge @neuro_nauten auf Instagram & TikTok!\n\n#KI #MythosOderFakt #ChatGPT #KIDetektor #Medienkompetenz #KIerklärt #neuronauten #Claude #ClaudeAI #Anthropic #AI #ArtificialIntelligence #KünstlicheIntelligenz #GenerativeAI #AITools",
+  "via": "metricool-umzug"
+ },
+ {
+  "id": "2026-11-12-karussell",
+  "at": "2026-11-12T18:00:00+01:00",
+  "type": "FEED",
+  "media": [
+   "posts/2026-11-12_mythos-ki-texte-erkennen/slide-01.jpg",
+   "posts/2026-11-12_mythos-ki-texte-erkennen/slide-02.jpg",
+   "posts/2026-11-12_mythos-ki-texte-erkennen/slide-03.jpg",
+   "posts/2026-11-12_mythos-ki-texte-erkennen/slide-04.jpg",
+   "posts/2026-11-12_mythos-ki-texte-erkennen/slide-05.jpg"
+  ],
+  "caption": "„KI-Texte erkennt man immer“: Mythos oder Fakt? 🕵️\n\nMythos. Gute KI-Texte sind kaum zu erkennen, und Detektoren irren sich oft. Besser: Inhalte und Quellen prüfen.\n\n💬 Hast du schon mal einen KI-Text erkannt?\n\nNova ist eine KI-Figur 🤖\n\n#KI #MythosOderFakt #ChatGPT #KIDetektor #Medienkompetenz #KIerklärt #neuronauten #Claude #ClaudeAI #Anthropic #AI #ArtificialIntelligence #KünstlicheIntelligenz #GenerativeAI #AITools",
+  "via": "metricool-umzug"
+ },
+ {
+  "id": "2026-11-12-story",
+  "at": "2026-11-12T18:15:00+01:00",
+  "type": "STORY",
+  "media": [
+   "posts/2026-11-12_mythos-ki-texte-erkennen/story.jpg"
+  ],
+  "caption": "",
+  "via": "metricool-umzug"
+ },
+ {
+  "id": "2026-11-13-reel",
+  "at": "2026-11-13T12:00:00+01:00",
+  "type": "REEL",
+  "media": [
+   "posts/2026-11-13_spamfilter/reel.mp4"
+  ],
+  "caption": "So entscheidet dein Spamfilter 📧 Folge @neuro_nauten für mehr KI-Wissen!\n\nNova ist eine KI-Figur 🤖\n\n📲 Folge @neuro_nauten auf Instagram & TikTok!\n\n#KI #Spamfilter #MachineLearning #EMail #KIerklärt #TechWissen #neuronauten #Claude #ClaudeAI #Anthropic #AI #ArtificialIntelligence #KünstlicheIntelligenz #GenerativeAI #AITools",
+  "via": "metricool-umzug"
+ },
+ {
+  "id": "2026-11-13-karussell",
+  "at": "2026-11-13T18:00:00+01:00",
+  "type": "FEED",
+  "media": [
+   "posts/2026-11-13_spamfilter/slide-01.jpg",
+   "posts/2026-11-13_spamfilter/slide-02.jpg",
+   "posts/2026-11-13_spamfilter/slide-03.jpg",
+   "posts/2026-11-13_spamfilter/slide-04.jpg",
+   "posts/2026-11-13_spamfilter/slide-05.jpg"
+  ],
+  "caption": "Wie entscheidet dein Spamfilter, was Müll ist? 📧🤖\n\nEr hat aus unzähligen Beispielen gelernt und wiegt viele Signale gegeneinander ab. Perfekt ist er aber nicht.\n\n💾 Speichern & teilen!\n💬 Schon mal eine wichtige Mail im Spamordner gefunden?\n\nNova ist eine KI-Figur 🤖\n\n#KI #Spamfilter #MachineLearning #EMail #KIerklärt #TechWissen #neuronauten #Claude #ClaudeAI #Anthropic #AI #ArtificialIntelligence #KünstlicheIntelligenz #GenerativeAI #AITools",
+  "via": "metricool-umzug"
+ },
+ {
+  "id": "2026-11-13-story",
+  "at": "2026-11-13T18:15:00+01:00",
+  "type": "STORY",
+  "media": [
+   "posts/2026-11-13_spamfilter/story.jpg"
+  ],
+  "caption": "",
+  "via": "metricool-umzug"
+ }
 ]
