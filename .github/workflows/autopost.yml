@@ -21,6 +21,13 @@ jobs:
           PAGES_BASE: https://sebastianbc81.github.io/neuro_nauten-media/
           CHECK: ${{ github.event_name == 'workflow_dispatch' && '1' || '0' }}
         run: python3 autopost/post.py
+      - name: Fällige Videos auf TikTok posten
+        if: always()
+        continue-on-error: true
+        env:
+          TT_CLIENT_KEY: ${{ secrets.TT_CLIENT_KEY }}
+          TT_CLIENT_SECRET: ${{ secrets.TT_CLIENT_SECRET }}
+        run: python3 autopost/tiktok.py
       - name: Status speichern
         if: always()
         run: |

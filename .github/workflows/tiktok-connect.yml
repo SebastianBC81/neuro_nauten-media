@@ -1,0 +1,32 @@
+name: TikTok verbinden
+on:
+  workflow_dispatch:
+    inputs:
+      code:
+        description: "Code von der Seite „TikTok verbunden“ (einmal gültig, verfällt nach wenigen Minuten)"
+        required: true
+permissions:
+  contents: write
+concurrency:
+  group: autopost
+  cancel-in-progress: false
+jobs:
+  connect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - name: Code gegen Zugang tauschen (wird nur verschlüsselt gespeichert)
+        env:
+          TT_CLIENT_KEY: ${{ secrets.TT_CLIENT_KEY }}
+          TT_CLIENT_SECRET: ${{ secrets.TT_CLIENT_SECRET }}
+          TT_CODE: ${{ inputs.code }}
+        run: python3 autopost/tiktok.py connect
+      - name: Speichern
+        run: |
+          git config user.name "neuro_nauten-autopost"
+          git config user.email "actions@users.noreply.github.com"
+          git add autopost/tiktok-token.enc autopost/tiktok-selbsttest.txt
+          git commit -m "TikTok verbunden"
+          for i in 1 2 3; do git pull --rebase -q origin main && git push -q origin HEAD:main && exit 0; sleep 5; done
+          exit 1

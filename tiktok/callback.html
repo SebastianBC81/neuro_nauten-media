@@ -1,0 +1,19 @@
+<!doctype html><html lang="de"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>TikTok verbunden · neuro_nauten</title><link rel="stylesheet" href="style.css"></head><body><main>
+<h1 id="t">TikTok-Rückmeldung</h1><div id="out"></div>
+<script>
+var p=new URLSearchParams(location.search),o=document.getElementById('out');
+var st=null;try{st=sessionStorage.getItem('tt_state');}catch(e){}
+if(p.get('error')){o.innerHTML='<p class="err">TikTok meldet einen Fehler: '+(p.get('error_description')||p.get('error')).replace(/</g,'&lt;')+'</p>';}
+else if(!p.get('code')){o.innerHTML='<p>Hier ist kein Code angekommen. Bitte über <a href="verbinden.html">TikTok verbinden</a> neu starten.</p>';}
+else if(st&&p.get('state')!==st){o.innerHTML='<p class="err">Die Sicherheitsprüfung passt nicht. Bitte über <a href="verbinden.html">TikTok verbinden</a> neu starten.</p>';}
+else{
+ document.getElementById('t').textContent='Fast geschafft!';
+ o.innerHTML='<p><b>1.</b> Kopiere diesen Code (er gilt nur kurz und nur einmal):</p><div class="box"><textarea id="c" readonly></textarea><button id="cp">Code kopieren</button></div>'+
+ '<p><b>2.</b> Öffne <a class="btn" href="https://github.com/SebastianBC81/neuro_nauten-media/actions/workflows/tiktok-connect.yml" target="_blank" rel="noopener">GitHub: TikTok verbinden</a></p>'+
+ '<p>Dort <b>Run workflow</b> tippen, den Code einfügen und grün auf <b>Run workflow</b> tippen. Fertig.</p>';
+ var c=document.getElementById('c');c.value=p.get('code');
+ document.getElementById('cp').onclick=function(){c.select();try{navigator.clipboard.writeText(c.value);}catch(e){document.execCommand('copy');}this.textContent='Kopiert ✓';};
+ try{sessionStorage.removeItem('tt_state');}catch(e){}
+}
+</script></main></body></html>

@@ -1,0 +1,16 @@
+<!doctype html><html lang="de"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>TikTok verbinden · neuro_nauten</title><link rel="stylesheet" href="style.css"></head><body><main>
+<h1>TikTok mit dem Autoposter verbinden</h1>
+<p>Trag den <b>Client Key</b> deiner TikTok-Entwickler-App ein (kein Passwort, kein Secret) und tippe auf „Weiter zu TikTok“. TikTok fragt dann, ob die App Videos in dein Konto hochladen darf.</p>
+<div class="box"><label for="k">Client Key</label><input id="k" autocomplete="off" placeholder="z. B. aw1b2c3d4e5f">
+<button id="go">Weiter zu TikTok</button><p id="msg" class="err"></p></div>
+<small>Diese Seite speichert nichts auf einem Server. Der Zugang wird erst im nächsten Schritt im GitHub-Ablauf erzeugt und dort nur verschlüsselt abgelegt.</small>
+<script>
+document.getElementById('go').onclick=function(){
+  var k=document.getElementById('k').value.trim();
+  if(!k){document.getElementById('msg').textContent='Bitte den Client Key eintragen.';return;}
+  var a=new Uint8Array(16);crypto.getRandomValues(a);var s=Array.from(a,function(b){return b.toString(16).padStart(2,'0')}).join('');
+  try{sessionStorage.setItem('tt_state',s);}catch(e){}
+  var u='https://www.tiktok.com/v2/auth/authorize/?client_key='+encodeURIComponent(k)+'&scope='+encodeURIComponent('user.info.basic,video.publish')+'&response_type=code&redirect_uri='+encodeURIComponent('https://sebastianbc81.github.io/neuro_nauten-media/tiktok/callback.html')+'&state='+s;
+  location.href=u;};
+</script></main></body></html>
