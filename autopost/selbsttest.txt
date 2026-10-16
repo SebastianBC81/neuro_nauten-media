@@ -1,3 +1,3 @@
-2026-10-16T16:05:11.233505+00:00
-Instagram-Zugang FEHLER: Instagram-API 400: {"error":{"message":"API access blocked.","type":"OAuthException","code":200,"fbtrace_id":"A1w54sopYL005QLf10cFy0f"}}
+2026-10-16T16:19:34.465330+00:00
+Instagram-Zugang FEHLER: Instagram-API 400: {"error":{"message":"API access blocked.","type":"OAuthException","code":200,"fbtrace_id":"AMaEKMY6XohOj38cNRPSgQB"}}
 GitHub Pages OK: https://sebastianbc81.github.io/neuro_nauten-media/vorschau/claude-serie-1-2.jpg
