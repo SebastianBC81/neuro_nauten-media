@@ -58,8 +58,8 @@
   "caption": "Texte schneller schreiben ✍️ Nova zeigt 3 Wege: aus Stichpunkten eine Mail machen, lange Texte kürzen und den Ton anpassen.\n\nTipp: Keine privaten Daten in den Chat kopieren.\n\nNova ist eine KI-Figur 🤖 Das Bild ist KI-generiert.\n\n#Technologie #ChatGPTDeutsch #KIAvatar #AITools #Wissen"
  },
  {
-  "id": "2026-10-17-claude-03",
-  "at": "2026-10-17T09:00:00+02:00",
+  "id": "2026-10-18-claude-03",
+  "at": "2026-10-18T20:00:00+02:00",
   "type": "FEED",
   "media": [
    "serie-claude/2026-10-17_folge-03/slide-01.jpg",
@@ -68,20 +68,11 @@
    "serie-claude/2026-10-17_folge-03/slide-04.jpg",
    "serie-claude/2026-10-17_folge-03/slide-05.jpg"
   ],
-  "caption": "Claude-Setup #3: Stile 🎨\n\nMit Stilen legst du fest, wie Claude antwortet: kurz und knapp, ausführlich erklärt, formell oder in deinem eigenen Stil. Den Stil wählst du direkt beim Schreiben aus (je nach App und Tarif).\n\n💾 Speichern und morgen kommt Tipp 4: Projekte.\n\n#KünstlicheIntelligenz #KITools #KIAssistent #Anthropic #Zukunft"
+  "caption": "Claude-Setup #3: Stile 🎨\n\nMit Stilen legst du fest, wie Claude antwortet: kurz und knapp, ausführlich erklärt, formell oder in deinem eigenen Stil. Den Stil wählst du direkt beim Schreiben aus (je nach App und Tarif).\n\n💾 Speichern! In der nächsten Folge: Tipp 4, Projekte.\n\n#KünstlicheIntelligenz #KITools #KIAssistent #Anthropic #Zukunft"
  },
  {
-  "id": "2026-10-17-claude-03-story",
-  "at": "2026-10-17T09:15:00+02:00",
-  "type": "STORY",
-  "media": [
-   "serie-claude/2026-10-17_folge-03/story.jpg"
-  ],
-  "caption": ""
- },
- {
-  "id": "2026-10-17-foto",
-  "at": "2026-10-17T15:00:00+02:00",
+  "id": "2026-10-19-foto",
+  "at": "2026-10-19T20:00:00+02:00",
   "type": "FEED",
   "media": [
    "autopost/media/2026-10-17-foto-1.jpg"
@@ -96,7 +87,7 @@
   "media": [
    "autopost/media/2026-10-17-bildprompts-02-1.jpg"
   ],
-  "caption": "Bilder-Prompts #2: Leg den Stil fest 🎨\n\n„ein Leuchtturm“ lässt der KI freie Wahl. Mit Stilangabe (Aquarell, Foto, Bleistift, 3D, Comic) bekommst du den Look, den du willst.\n\n💾 Speichern und morgen kommt Tipp 3: Licht.\n\nBeispielbilder sind KI-generiert 🤖\n\n#KI #TechWissen #AIArtCommunity #DigitalArt #TechTipps",
+  "caption": "Bilder-Prompts #2: Leg den Stil fest 🎨\n\n„ein Leuchtturm“ lässt der KI freie Wahl. Mit Stilangabe (Aquarell, Foto, Bleistift, 3D, Comic) bekommst du den Look, den du willst.\n\n💾 Speichern! In der nächsten Folge: Tipp 3, Licht.\n\nBeispielbilder sind KI-generiert 🤖\n\n#KI #TechWissen #AIArtCommunity #DigitalArt #TechTipps",
   "ready_after": "2026-10-16T05:34:22.137565+00:00"
  }
 ]
