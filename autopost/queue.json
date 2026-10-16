@@ -13,9 +13,9 @@
   "at": "2026-10-16T17:00:00+02:00",
   "type": "REEL",
   "media": [
-   "nova-videos/2026-10-16_demo/nova-video.mp4"
+   "nova-videos/2026-10-16_lernen-mit-ki/nova-video.mp4"
   ],
-  "caption": "Nova empfiehlt 💡 3 Dinge, die ChatGPT auch gratis kann: Sprachmodus, Fotos hochladen und eigene Anweisungen.\n\n💾 Speichern und ausprobieren.\n\nNova ist eine KI-Figur 🤖 Das Bild ist KI-generiert.\n\n#KI #TechWissen #KIAvatar #Gratis #Lernen"
+  "caption": "Lernen mit KI 📚 3 Tricks von Nova: Lernkarten aus deinen Notizen, dich abfragen lassen und Schwieriges ganz einfach erklären lassen.\n\n💾 Speichern und vor der nächsten Prüfung ausprobieren.\n\nNova ist eine KI-Figur 🤖 Das Bild ist KI-generiert.\n\n#KI #TechWissen #Lernmotivation #Bildung #Lernen"
  },
  {
   "id": "2026-11-14-reel",
@@ -47,5 +47,14 @@
    "posts/2026-11-14_quiz-ki-alltag/story.jpg"
   ],
   "caption": ""
+ },
+ {
+  "id": "2026-10-17-nova-video",
+  "at": "2026-10-17T17:00:00+02:00",
+  "type": "REEL",
+  "media": [
+   "nova-videos/2026-10-17_texte-schreiben/nova-video.mp4"
+  ],
+  "caption": "Texte schneller schreiben ✍️ Nova zeigt 3 Wege: aus Stichpunkten eine Mail machen, lange Texte kürzen und den Ton anpassen.\n\nTipp: Keine privaten Daten in den Chat kopieren.\n\nNova ist eine KI-Figur 🤖 Das Bild ist KI-generiert.\n\n#Technologie #ChatGPTDeutsch #KIAvatar #AITools #Wissen"
  }
 ]
