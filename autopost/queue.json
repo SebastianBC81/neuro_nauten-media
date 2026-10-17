@@ -1168,5 +1168,36 @@
    "nova-videos/2026-10-18_kochen-mit-ki/nova-video.mp4"
   ],
   "caption": "Was koche ich heute? 🍝 Nova zeigt 3 Wege: aus Resten ein Rezept machen, einen Wochenplan mit Einkaufsliste erstellen und Rezepte auf mehr Personen umrechnen.\n\nTipp: Mengen und Garzeiten kurz gegenchecken, KI kann sich irren.\n\nNova ist eine KI-Figur 🤖 Das Bild ist KI-generiert.\n\n#ChatGPT #DigitaleBildung #KITipps #Gratis #TechTipps"
+ },
+ {
+  "id": "2026-11-15-reel",
+  "at": "2026-11-15T12:00:00+01:00",
+  "type": "REEL",
+  "media": [
+   "posts/2026-11-15_ki-und-klima/reel-tools.mp4"
+  ],
+  "caption": "3 Tipps, wie du KI klimabewusster nutzt 🌍 Welchen setzt du schon um? Schreib's in die Kommentare!\n\nGut zu wissen: Bilder und Videos zu erzeugen braucht meist mehr Rechenleistung als eine kurze Textantwort.\n\nNova ist eine KI-Figur 🤖 Folge @neuro_nauten auf Instagram & TikTok für täglich neue KI-Tipps!\n\n#KI #ChatGPTDeutsch #Copilot #ChatGPTTipps #Medienkompetenz"
+ },
+ {
+  "id": "2026-11-15-karussell",
+  "at": "2026-11-15T18:00:00+01:00",
+  "type": "FEED",
+  "media": [
+   "posts/2026-11-15_ki-und-klima/slide-01.jpg",
+   "posts/2026-11-15_ki-und-klima/slide-02.jpg",
+   "posts/2026-11-15_ki-und-klima/slide-03.jpg",
+   "posts/2026-11-15_ki-und-klima/slide-04.jpg",
+   "posts/2026-11-15_ki-und-klima/slide-05.jpg"
+  ],
+  "caption": "KI und Klima: Wie viel Strom verbraucht künstliche Intelligenz? 🌍⚡\n\nKI-Modelle laufen in Rechenzentren, die Strom und oft Wasser zum Kühlen brauchen. Gleichzeitig hilft KI bei Wettervorhersagen und Stromnetzen. Hier siehst du beide Seiten und wie du KI bewusster nutzt.\n\n💾 Speichern & teilen!\n💬 Achtest du darauf, wie oft du KI-Bilder erzeugst?\n\nNova ist eine KI-Figur 🤖\n\n#Technologie #ChatGPTDeutsch #Klimaschutz #Energie #Zukunft"
+ },
+ {
+  "id": "2026-11-15-story",
+  "at": "2026-11-15T18:15:00+01:00",
+  "type": "STORY",
+  "media": [
+   "posts/2026-11-15_ki-und-klima/story.jpg"
+  ],
+  "caption": ""
  }
 ]
