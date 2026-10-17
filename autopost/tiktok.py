@@ -24,8 +24,8 @@ TOK = os.path.join(ROOT, "autopost", "tiktok-token.enc")
 STATUS = os.path.join(ROOT, "autopost", "tiktok-selbsttest.txt")
 API = "https://open.tiktokapis.com/v2"
 REDIRECT = "https://sebastianbc81.github.io/neuro_nauten-media/tiktok/callback.html"
-KEY = os.environ.get("TT_CLIENT_KEY", "")
-SECRET = os.environ.get("TT_CLIENT_SECRET", "")
+KEY = os.environ.get("TT_CLIENT_KEY", "").strip()  # beim Einfügen rutscht leicht ein Zeilenumbruch mit
+SECRET = os.environ.get("TT_CLIENT_SECRET", "").strip()
 MAX_LATE = dt.timedelta(hours=12)
 MAX_TRIES = 3
 
@@ -149,7 +149,10 @@ def publish(item, token, info):
 
 
 def connect():
-    code = urllib.parse.unquote(os.environ.get("TT_CODE", "").strip())
+    code = os.environ.get("TT_CODE", "")
+    if not code and os.environ.get("GITHUB_EVENT_PATH"):  # aus dem Ereignis lesen, damit der Code nicht im öffentlichen Log steht
+        code = json.load(open(os.environ["GITHUB_EVENT_PATH"])).get("inputs", {}).get("code", "")
+    code = urllib.parse.unquote(code.strip())
     if not (KEY and SECRET and code):
         sys.exit("TT_CLIENT_KEY, TT_CLIENT_SECRET (Secrets) und der Code werden gebraucht.")
     tok = oauth(grant_type="authorization_code", code=code, redirect_uri=REDIRECT)

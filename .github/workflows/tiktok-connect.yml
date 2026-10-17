@@ -20,7 +20,6 @@ jobs:
         env:
           TT_CLIENT_KEY: ${{ secrets.TT_CLIENT_KEY }}
           TT_CLIENT_SECRET: ${{ secrets.TT_CLIENT_SECRET }}
-          TT_CODE: ${{ inputs.code }}
         run: python3 autopost/tiktok.py connect
       - name: Speichern
         run: |
