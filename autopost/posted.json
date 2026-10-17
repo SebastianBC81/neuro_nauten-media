@@ -29,5 +29,10 @@
  "2026-10-16-bildprompts-01": {
   "tries": 3,
   "error": "Instagram-API 400: {\"error\":{\"message\":\"API access blocked.\",\"type\":\"OAuthException\",\"code\":200,\"fbtrace_id\":\"AYX7oIXcr5Em-JK9i-QV9TI\"}}"
+ },
+ "2026-10-17-bildprompts-02": {
+  "tries": 1,
+  "media_id": "18175766551443913",
+  "posted_at": "2026-10-17T07:06:39.194356+00:00"
  }
 }
