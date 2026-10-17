@@ -15,19 +15,19 @@
   "posted_at": "2026-10-16T15:05:49.989148+00:00"
  },
  "2026-10-16-karussell": {
-  "tries": 2,
-  "error": "Instagram-API 400: {\"error\":{\"message\":\"API access blocked.\",\"type\":\"OAuthException\",\"code\":200,\"fbtrace_id\":\"Ado-4x34i8h2tWyTk2Be4Jd\"}}"
+  "tries": 3,
+  "error": "Instagram-API 400: {\"error\":{\"message\":\"API access blocked.\",\"type\":\"OAuthException\",\"code\":200,\"fbtrace_id\":\"A7n4swLsH8rMs8zLSSxweWS\"}}"
  },
  "2026-10-16-story": {
-  "tries": 2,
-  "error": "Instagram-API 400: {\"error\":{\"message\":\"API access blocked.\",\"type\":\"OAuthException\",\"code\":200,\"fbtrace_id\":\"AD11n0Verh4DY0UtawEl0No\"}}"
+  "tries": 3,
+  "error": "Instagram-API 400: {\"error\":{\"message\":\"API access blocked.\",\"type\":\"OAuthException\",\"code\":200,\"fbtrace_id\":\"AbS77ltIRm_7py3UoORjZYe\"}}"
  },
  "2026-10-16-tiktok-story": {
-  "tries": 2,
-  "error": "Instagram-API 400: {\"error\":{\"message\":\"API access blocked.\",\"type\":\"OAuthException\",\"code\":200,\"fbtrace_id\":\"A4IFtU5w3mvZV4Fhda8LttM\"}}"
+  "tries": 3,
+  "error": "Instagram-API 400: {\"error\":{\"message\":\"API access blocked.\",\"type\":\"OAuthException\",\"code\":200,\"fbtrace_id\":\"A9zjEc4Yn1E5cZPdW_7ya3e\"}}"
  },
  "2026-10-16-bildprompts-01": {
-  "tries": 2,
-  "error": "Instagram-API 400: {\"error\":{\"message\":\"API access blocked.\",\"type\":\"OAuthException\",\"code\":200,\"fbtrace_id\":\"Aj-Az8Re6rwf0Twerinku4D\"}}"
+  "tries": 3,
+  "error": "Instagram-API 400: {\"error\":{\"message\":\"API access blocked.\",\"type\":\"OAuthException\",\"code\":200,\"fbtrace_id\":\"AYX7oIXcr5Em-JK9i-QV9TI\"}}"
  }
 }
