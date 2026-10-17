@@ -1,0 +1,12 @@
+{
+ "hook": "Noch mehr *KI-Tipps*?",
+ "hook_sub": "Täglich neu auf Instagram",
+ "scenes": [
+  {"title": "*Karussells*", "text": "KI-Wissen in 5 Folien, zum Speichern und Nachlesen."},
+  {"title": "*Prompts* zum Kopieren", "text": "Kopierfertige Prompts, die du sofort ausprobieren kannst."},
+  {"title": "*Quiz* & Mythen", "text": "Teste dein KI-Wissen und entlarve die größten Irrtümer."}
+ ],
+ "outro": "Folge *@neuro_nauten* auf Instagram",
+ "series": "Auf Instagram",
+ "nova": true
+}
