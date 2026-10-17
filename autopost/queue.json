@@ -1199,5 +1199,23 @@
    "posts/2026-11-15_ki-und-klima/story.jpg"
   ],
   "caption": ""
+ },
+ {
+  "id": "2026-10-17-tiktok-story",
+  "at": "2026-10-17T18:16:00+02:00",
+  "type": "STORY",
+  "media": [
+   "extras/tiktok-ankuendigung/story.jpg"
+  ],
+  "caption": ""
+ },
+ {
+  "id": "2026-10-21-bildprompts-01",
+  "at": "2026-10-21T09:00:00+02:00",
+  "type": "FEED",
+  "media": [
+   "autopost/media/2026-10-21-bildprompts-01-1.jpg"
+  ],
+  "caption": "Bilder-Prompts #1: Beschreib dein Motiv genau 🎨\n\nIn dieser Serie zeigen wir dir, wie du mit ChatGPT & Co. richtig gute KI-Bilder erstellst. Folge 1 holen wir hier nach.\n\nEinfacher Prompt: „eine Katze“ → die KI rät.\nBesserer Prompt: „Fotorealistische rote Katze schläft auf einer weißen Fensterbank, weiches Morgenlicht, Garten unscharf im Hintergrund, gemütlich, Nahaufnahme“ → genau dein Bild.\n\nDie Formel: Motiv + Stil + Licht + Perspektive + Farben + Stimmung + Format\n\n💾 Speichern und gleich ausprobieren!\n\nBeide Beispielbilder sind KI-generiert 🤖\n\n#KünstlicheIntelligenz #Weiterbildung #BildKI #DigitalArt #Zukunft"
  }
 ]
