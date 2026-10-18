@@ -1217,5 +1217,45 @@
    "autopost/media/2026-10-21-bildprompts-01-1.jpg"
   ],
   "caption": "Bilder-Prompts #1: Beschreib dein Motiv genau 🎨\n\nIn dieser Serie zeigen wir dir, wie du mit ChatGPT & Co. richtig gute KI-Bilder erstellst. Folge 1 holen wir hier nach.\n\nEinfacher Prompt: „eine Katze“ → die KI rät.\nBesserer Prompt: „Fotorealistische rote Katze schläft auf einer weißen Fensterbank, weiches Morgenlicht, Garten unscharf im Hintergrund, gemütlich, Nahaufnahme“ → genau dein Bild.\n\nDie Formel: Motiv + Stil + Licht + Perspektive + Farben + Stimmung + Format\n\n💾 Speichern und gleich ausprobieren!\n\nBeide Beispielbilder sind KI-generiert 🤖\n\n#KünstlicheIntelligenz #Weiterbildung #BildKI #DigitalArt #Zukunft"
+ },
+ {
+  "id": "2026-10-19-nova-video",
+  "at": "2026-10-19T17:00:00+02:00",
+  "type": "REEL",
+  "media": [
+   "nova-videos/2026-10-19_ki-am-handy/nova-video.mp4"
+  ],
+  "caption": "KI am Handy: 3 Gratis-Tricks 📱 Schild abfotografieren und übersetzen lassen, im Chatbot sprechen statt tippen und Pflanzen per Foto bestimmen.\n\nTipp: Bei Pflanzen, die du essen oder anfassen willst, das Ergebnis immer zusätzlich prüfen. KI kann sich irren.\n\nNova ist eine KI-Figur 🤖 Das Bild ist KI-generiert.\n\n#Digitalisierung #TechWissen #AITools #Gratis #Innovation"
+ },
+ {
+  "id": "2026-11-16-reel",
+  "at": "2026-11-16T12:00:00+01:00",
+  "type": "REEL",
+  "media": [
+   "posts/2026-11-16_ki-agenten/reel-tools.mp4"
+  ],
+  "caption": "3 Regeln, bevor du einen KI-Agenten losschickst 🤖 Welche Aufgabe würdest du einem Agenten geben? Schreib's in die Kommentare!\n\nGut zu wissen: Agenten können sich irren. Je wichtiger der Schritt, desto eher klickst du selbst.\n\nNova ist eine KI-Figur 🤖 Folge @neuro_nauten auf Instagram & TikTok für täglich neue KI-Tipps!\n\n#KünstlicheIntelligenz #Weiterbildung #AITools #Copilot #neuronauten"
+ },
+ {
+  "id": "2026-11-16-karussell",
+  "at": "2026-11-16T18:00:00+01:00",
+  "type": "FEED",
+  "media": [
+   "posts/2026-11-16_ki-agenten/slide-01.jpg",
+   "posts/2026-11-16_ki-agenten/slide-02.jpg",
+   "posts/2026-11-16_ki-agenten/slide-03.jpg",
+   "posts/2026-11-16_ki-agenten/slide-04.jpg",
+   "posts/2026-11-16_ki-agenten/slide-05.jpg"
+  ],
+  "caption": "KI-Agenten einfach erklärt: Was ist der Unterschied zum Chatbot? 🤖⚙️\n\nEin Chatbot antwortet auf Fragen. Ein KI-Agent erledigt Aufgaben in mehreren Schritten und nutzt dafür Werkzeuge wie die Websuche. Praktisch, aber wichtige Schritte solltest du immer selbst bestätigen.\n\n💾 Speichern & teilen!\n💬 Schick das jemandem, der „KI-Agent“ schon mal gehört hat und nicht weiß, was gemeint ist!\n\nNova ist eine KI-Figur 🤖\n\n#ChatGPT #KITools #KIBasics #KIAgenten #Lernen"
+ },
+ {
+  "id": "2026-11-16-story",
+  "at": "2026-11-16T18:15:00+01:00",
+  "type": "STORY",
+  "media": [
+   "posts/2026-11-16_ki-agenten/story.jpg"
+  ],
+  "caption": ""
  }
 ]
