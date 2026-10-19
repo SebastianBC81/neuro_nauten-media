@@ -86,7 +86,13 @@
   "posted_at": "2026-10-18T16:26:18.758138+00:00"
  },
  "2026-10-19-foto": {
+  "tries": 2,
+  "media_id": "18012268478986504",
+  "posted_at": "2026-10-19T10:10:42.660576+00:00"
+ },
+ "2026-10-19-reel": {
   "tries": 1,
-  "error": "Instagram-API 400: {\"error\":{\"message\":\"Media ID is not available\",\"type\":\"OAuthException\",\"code\":9007,\"error_subcode\":2207027,\"is_transient\":false,\"error_user_title\":\"Cannot Publish\",\"error_user_msg\":\"The media is not ready for publishing, please wait for a moment\",\"fbtrace_id\":\"AVWNxiQmdGem_Au4DszYn1e\"}}"
+  "media_id": "18116151203039733",
+  "posted_at": "2026-10-19T10:11:32.479533+00:00"
  }
 }
