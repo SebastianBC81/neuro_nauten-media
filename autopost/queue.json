@@ -1257,5 +1257,45 @@
    "posts/2026-11-16_ki-agenten/story.jpg"
   ],
   "caption": ""
+ },
+ {
+  "id": "2026-10-20-nova-video",
+  "at": "2026-10-20T17:00:00+02:00",
+  "type": "REEL",
+  "media": [
+   "nova-videos/2026-10-20_sprachen-lernen/nova-video.mp4"
+  ],
+  "caption": "Sprache lernen mit KI 🗣️ Nova zeigt 3 Tricks: ein Gespräch im Restaurant üben, Vokabeln abfragen lassen und Fehler im eigenen Text erklären lassen.\n\nTipp: Bei Grammatik im Zweifel ein Wörterbuch gegenchecken, KI kann sich irren.\n\nNova ist eine KI-Figur 🤖 Das Bild ist KI-generiert.\n\n#Digitalisierung #KITools #AITools #Gratis #Medienkompetenz"
+ },
+ {
+  "id": "2026-11-17-reel",
+  "at": "2026-11-17T12:00:00+01:00",
+  "type": "REEL",
+  "media": [
+   "posts/2026-11-17_gegenargumente/reel-tools.mp4"
+  ],
+  "caption": "3 Gratis-Tools für ehrliches Feedback 🥊 Welches nutzt du schon? Schreib's in die Kommentare!\n\nGut zu wissen: Keine vertraulichen Daten einfügen und Quellen immer selbst gegenchecken.\n\nNova ist eine KI-Figur 🤖 Folge @neuro_nauten auf Instagram & TikTok für täglich neue KI-Tipps!\n\n#KI #Produktivität #Gemini #AITools #Zukunft"
+ },
+ {
+  "id": "2026-11-17-karussell",
+  "at": "2026-11-17T18:00:00+01:00",
+  "type": "FEED",
+  "media": [
+   "posts/2026-11-17_gegenargumente/slide-01.jpg",
+   "posts/2026-11-17_gegenargumente/slide-02.jpg",
+   "posts/2026-11-17_gegenargumente/slide-03.jpg",
+   "posts/2026-11-17_gegenargumente/slide-04.jpg",
+   "posts/2026-11-17_gegenargumente/slide-05.jpg"
+  ],
+  "caption": "Prompt-Tipp: So bringst du ChatGPT & Co. dazu, dir zu widersprechen 🥊\n\nChatbots stimmen dir oft lieber zu. Mit drei einfachen Prompts bekommst du Gegenargumente, eine faire Pro-und-Contra-Tabelle und ehrliche Kritik an deinen Texten.\n\n💾 Speichern & teilen!\n💬 Schick das jemandem, der gerade vor einer großen Entscheidung steht!\n\nNova ist eine KI-Figur 🤖\n\n#Technologie #Produktivität #KritischDenken #PromptTipps #Lifehacks"
+ },
+ {
+  "id": "2026-11-17-story",
+  "at": "2026-11-17T18:15:00+01:00",
+  "type": "STORY",
+  "media": [
+   "posts/2026-11-17_gegenargumente/story.jpg"
+  ],
+  "caption": ""
  }
 ]
