@@ -1297,5 +1297,36 @@
    "posts/2026-11-17_gegenargumente/story.jpg"
   ],
   "caption": ""
+ },
+ {
+  "id": "2026-11-18-reel",
+  "at": "2026-11-18T12:00:00+01:00",
+  "type": "REEL",
+  "media": [
+   "posts/2026-11-18_rezepte-aus-resten/reel-tools.mp4"
+  ],
+  "caption": "3 Gratis-KI-Tools gegen Lebensmittelverschwendung 🥘 Was kochst du heute aus Resten? Schreib's in die Kommentare!\n\nGut zu wissen: Die Gratis-Versionen haben je nach App Limits, und Haltbarkeit oder Allergien prüfst du immer selbst.\n\nNova ist eine KI-Figur 🤖 Folge @neuro_nauten auf Instagram & TikTok für täglich neue KI-Tipps!\n\n#Digitalisierung #KITipps #Gemini #AITools #Wissen"
+ },
+ {
+  "id": "2026-11-18-karussell",
+  "at": "2026-11-18T18:00:00+01:00",
+  "type": "FEED",
+  "media": [
+   "posts/2026-11-18_rezepte-aus-resten/slide-01.jpg",
+   "posts/2026-11-18_rezepte-aus-resten/slide-02.jpg",
+   "posts/2026-11-18_rezepte-aus-resten/slide-03.jpg",
+   "posts/2026-11-18_rezepte-aus-resten/slide-04.jpg",
+   "posts/2026-11-18_rezepte-aus-resten/slide-05.jpg"
+  ],
+  "caption": "Kochen mit Resten: So hilft dir KI wie ChatGPT gegen Lebensmittelverschwendung 🥘🤖\n\nZutaten auflisten oder ein Foto schicken, Zeit und Vorlieben nennen, und schon hast du Rezeptideen. Haltbarkeit und Allergien prüfst du aber immer selbst.\n\n💾 Speichern für den nächsten leeren Kühlschrank!\n💬 Schick das jemandem, der abends nie weiß, was er kochen soll!\n\nNova ist eine KI-Figur 🤖\n\n#Digitalisierung #Produktivität #Resteverwertung #Kochen #neuronauten"
+ },
+ {
+  "id": "2026-11-18-story",
+  "at": "2026-11-18T18:15:00+01:00",
+  "type": "STORY",
+  "media": [
+   "posts/2026-11-18_rezepte-aus-resten/story.jpg"
+  ],
+  "caption": ""
  }
 ]
