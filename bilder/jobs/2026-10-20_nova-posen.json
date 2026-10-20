@@ -1,0 +1,110 @@
+{
+ "model": "SG161222/Realistic_Vision_V5.1_noVAE",
+ "vae": "stabilityai/sd-vae-ft-mse",
+ "lcm_lora": true,
+ "steps": 8,
+ "guidance": 1.5,
+ "width": 512,
+ "height": 768,
+ "negative": "cartoon, illustration, 3d render, anime, doll, plastic skin, deformed, extra limbs, extra fingers, text, letters, logo, print on clothes, watermark, nsfw, cleavage",
+ "ip_adapter": "ip-adapter-plus-face_sd15.bin",
+ "ref": "bilder/nova-referenz.png",
+ "images": [
+  {
+   "file": "bilder/nova-posen/erklaert-s40.png",
+   "prompt": "RAW photo, full body shot of a 25 year old woman with long wavy blonde hair, round thin metal glasses, plain dark navy hoodie without print, dark jeans, white sneakers, standing and explaining with one open hand, friendly smile, modern dark studio with soft violet and cyan lights, natural skin texture, 50mm, sharp focus, photorealistic",
+   "seed": 40,
+   "ip_scale": 0.55
+  },
+  {
+   "file": "bilder/nova-posen/erklaert-s7.png",
+   "prompt": "RAW photo, full body shot of a 25 year old woman with long wavy blonde hair, round thin metal glasses, plain dark navy hoodie without print, dark jeans, white sneakers, standing and explaining with one open hand, friendly smile, modern dark studio with soft violet and cyan lights, natural skin texture, 50mm, sharp focus, photorealistic",
+   "seed": 7,
+   "ip_scale": 0.55
+  },
+  {
+   "file": "bilder/nova-posen/zeigt-hoch-s40.png",
+   "prompt": "RAW photo, full body shot of a 25 year old woman with long wavy blonde hair, round thin metal glasses, plain dark navy hoodie without print, dark jeans, white sneakers, pointing up with her index finger, confident smile, modern dark studio with soft violet and cyan lights, natural skin texture, 50mm, sharp focus, photorealistic",
+   "seed": 40,
+   "ip_scale": 0.55
+  },
+  {
+   "file": "bilder/nova-posen/zeigt-hoch-s7.png",
+   "prompt": "RAW photo, full body shot of a 25 year old woman with long wavy blonde hair, round thin metal glasses, plain dark navy hoodie without print, dark jeans, white sneakers, pointing up with her index finger, confident smile, modern dark studio with soft violet and cyan lights, natural skin texture, 50mm, sharp focus, photorealistic",
+   "seed": 7,
+   "ip_scale": 0.55
+  },
+  {
+   "file": "bilder/nova-posen/tablet-s40.png",
+   "prompt": "RAW photo, full body shot of a 25 year old woman with long wavy blonde hair, round thin metal glasses, plain dark navy hoodie without print, dark jeans, white sneakers, holding a tablet in both hands, looking at the camera, smiling, modern dark studio with soft violet and cyan lights, natural skin texture, 50mm, sharp focus, photorealistic",
+   "seed": 40,
+   "ip_scale": 0.55
+  },
+  {
+   "file": "bilder/nova-posen/tablet-s7.png",
+   "prompt": "RAW photo, full body shot of a 25 year old woman with long wavy blonde hair, round thin metal glasses, plain dark navy hoodie without print, dark jeans, white sneakers, holding a tablet in both hands, looking at the camera, smiling, modern dark studio with soft violet and cyan lights, natural skin texture, 50mm, sharp focus, photorealistic",
+   "seed": 7,
+   "ip_scale": 0.55
+  },
+  {
+   "file": "bilder/nova-posen/daumen-s40.png",
+   "prompt": "RAW photo, full body shot of a 25 year old woman with long wavy blonde hair, round thin metal glasses, plain dark navy hoodie without print, dark jeans, white sneakers, giving a thumbs up, big smile, modern dark studio with soft violet and cyan lights, natural skin texture, 50mm, sharp focus, photorealistic",
+   "seed": 40,
+   "ip_scale": 0.55
+  },
+  {
+   "file": "bilder/nova-posen/daumen-s7.png",
+   "prompt": "RAW photo, full body shot of a 25 year old woman with long wavy blonde hair, round thin metal glasses, plain dark navy hoodie without print, dark jeans, white sneakers, giving a thumbs up, big smile, modern dark studio with soft violet and cyan lights, natural skin texture, 50mm, sharp focus, photorealistic",
+   "seed": 7,
+   "ip_scale": 0.55
+  },
+  {
+   "file": "bilder/nova-posen/arme-s40.png",
+   "prompt": "RAW photo, full body shot of a 25 year old woman with long wavy blonde hair, round thin metal glasses, plain dark navy hoodie without print, dark jeans, white sneakers, arms crossed, confident relaxed pose, slight smile, modern dark studio with soft violet and cyan lights, natural skin texture, 50mm, sharp focus, photorealistic",
+   "seed": 40,
+   "ip_scale": 0.55
+  },
+  {
+   "file": "bilder/nova-posen/arme-s7.png",
+   "prompt": "RAW photo, full body shot of a 25 year old woman with long wavy blonde hair, round thin metal glasses, plain dark navy hoodie without print, dark jeans, white sneakers, arms crossed, confident relaxed pose, slight smile, modern dark studio with soft violet and cyan lights, natural skin texture, 50mm, sharp focus, photorealistic",
+   "seed": 7,
+   "ip_scale": 0.55
+  },
+  {
+   "file": "bilder/nova-posen/winkt-s40.png",
+   "prompt": "RAW photo, full body shot of a 25 year old woman with long wavy blonde hair, round thin metal glasses, plain dark navy hoodie without print, dark jeans, white sneakers, waving hello with one hand, warm smile, modern dark studio with soft violet and cyan lights, natural skin texture, 50mm, sharp focus, photorealistic",
+   "seed": 40,
+   "ip_scale": 0.55
+  },
+  {
+   "file": "bilder/nova-posen/winkt-s7.png",
+   "prompt": "RAW photo, full body shot of a 25 year old woman with long wavy blonde hair, round thin metal glasses, plain dark navy hoodie without print, dark jeans, white sneakers, waving hello with one hand, warm smile, modern dark studio with soft violet and cyan lights, natural skin texture, 50mm, sharp focus, photorealistic",
+   "seed": 7,
+   "ip_scale": 0.55
+  },
+  {
+   "file": "bilder/nova-posen/denkt-s40.png",
+   "prompt": "RAW photo, full body shot of a 25 year old woman with long wavy blonde hair, round thin metal glasses, plain dark navy hoodie without print, dark jeans, white sneakers, thinking pose, hand on chin, curious look, modern dark studio with soft violet and cyan lights, natural skin texture, 50mm, sharp focus, photorealistic",
+   "seed": 40,
+   "ip_scale": 0.55
+  },
+  {
+   "file": "bilder/nova-posen/denkt-s7.png",
+   "prompt": "RAW photo, full body shot of a 25 year old woman with long wavy blonde hair, round thin metal glasses, plain dark navy hoodie without print, dark jeans, white sneakers, thinking pose, hand on chin, curious look, modern dark studio with soft violet and cyan lights, natural skin texture, 50mm, sharp focus, photorealistic",
+   "seed": 7,
+   "ip_scale": 0.55
+  },
+  {
+   "file": "bilder/nova-posen/praesentiert-s40.png",
+   "prompt": "RAW photo, full body shot of a 25 year old woman with long wavy blonde hair, round thin metal glasses, plain dark navy hoodie without print, dark jeans, white sneakers, presenting to the side with an open palm, smiling, modern dark studio with soft violet and cyan lights, natural skin texture, 50mm, sharp focus, photorealistic",
+   "seed": 40,
+   "ip_scale": 0.55
+  },
+  {
+   "file": "bilder/nova-posen/praesentiert-s7.png",
+   "prompt": "RAW photo, full body shot of a 25 year old woman with long wavy blonde hair, round thin metal glasses, plain dark navy hoodie without print, dark jeans, white sneakers, presenting to the side with an open palm, smiling, modern dark studio with soft violet and cyan lights, natural skin texture, 50mm, sharp focus, photorealistic",
+   "seed": 7,
+   "ip_scale": 0.55
+  }
+ ]
+}
