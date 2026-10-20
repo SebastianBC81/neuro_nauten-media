@@ -1,0 +1,46 @@
+{
+ "model": "SimianLuo/LCM_Dreamshaper_v7",
+ "steps": 6,
+ "size": 768,
+ "ip_adapter": "ip-adapter-plus-face_sd15.bin",
+ "ref": "bilder/nova-referenz.png",
+ "ip_scale": 0.6,
+ "images": [
+  {
+   "file": "bilder/2026-10-20_nova-ganz2/nova-sc5-s21.png",
+   "prompt": "full body photo of a young woman with long wavy blonde hair, round thin metal glasses, dark navy hoodie, black jeans, white sneakers, standing and explaining with one hand raised, friendly confident smile, dark navy studio background with violet and cyan rim light, photorealistic, 50mm photo",
+   "seed": 21,
+   "ip_scale": 0.5
+  },
+  {
+   "file": "bilder/2026-10-20_nova-ganz2/nova-sc5-s8.png",
+   "prompt": "full body photo of a young woman with long wavy blonde hair, round thin metal glasses, dark navy hoodie, black jeans, white sneakers, standing and explaining with one hand raised, friendly confident smile, dark navy studio background with violet and cyan rim light, photorealistic, 50mm photo",
+   "seed": 8,
+   "ip_scale": 0.5
+  },
+  {
+   "file": "bilder/2026-10-20_nova-ganz2/nova-sc5-s40.png",
+   "prompt": "full body photo of a young woman with long wavy blonde hair, round thin metal glasses, dark navy hoodie, black jeans, white sneakers, standing and explaining with one hand raised, friendly confident smile, dark navy studio background with violet and cyan rim light, photorealistic, 50mm photo",
+   "seed": 40,
+   "ip_scale": 0.5
+  },
+  {
+   "file": "bilder/2026-10-20_nova-ganz2/nova-sc7-s21.png",
+   "prompt": "full body photo of a young woman with long wavy blonde hair, round thin metal glasses, dark navy hoodie, black jeans, white sneakers, standing and explaining with one hand raised, friendly confident smile, dark navy studio background with violet and cyan rim light, photorealistic, 50mm photo",
+   "seed": 21,
+   "ip_scale": 0.7
+  },
+  {
+   "file": "bilder/2026-10-20_nova-ganz2/nova-sc7-s8.png",
+   "prompt": "full body photo of a young woman with long wavy blonde hair, round thin metal glasses, dark navy hoodie, black jeans, white sneakers, standing and explaining with one hand raised, friendly confident smile, dark navy studio background with violet and cyan rim light, photorealistic, 50mm photo",
+   "seed": 8,
+   "ip_scale": 0.7
+  },
+  {
+   "file": "bilder/2026-10-20_nova-ganz2/nova-sc7-s40.png",
+   "prompt": "full body photo of a young woman with long wavy blonde hair, round thin metal glasses, dark navy hoodie, black jeans, white sneakers, standing and explaining with one hand raised, friendly confident smile, dark navy studio background with violet and cyan rim light, photorealistic, 50mm photo",
+   "seed": 40,
+   "ip_scale": 0.7
+  }
+ ]
+}
