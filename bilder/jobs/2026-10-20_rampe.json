@@ -1,0 +1,68 @@
+{
+ "model": "SimianLuo/LCM_Dreamshaper_v7",
+ "steps": 6,
+ "width": 576,
+ "height": 1024,
+ "images": [
+  {
+   "file": "bilder/2026-10-20_rampe/01-anfahrt-s11.png",
+   "prompt": "cinematic photograph, black 1980s american sports coupe, unbadged plain glossy black body, pop-up headlights, long hood, low angle front view driving fast towards a steep steel ramp, dust trail, desert rocket test site in texas at golden hour, dramatic sky, 35mm film, sharp focus, highly detailed, photorealistic",
+   "seed": 11
+  },
+  {
+   "file": "bilder/2026-10-20_rampe/01-anfahrt-s42.png",
+   "prompt": "cinematic photograph, black 1980s american sports coupe, unbadged plain glossy black body, pop-up headlights, long hood, low angle front view driving fast towards a steep steel ramp, dust trail, desert rocket test site in texas at golden hour, dramatic sky, 35mm film, sharp focus, highly detailed, photorealistic",
+   "seed": 42
+  },
+  {
+   "file": "bilder/2026-10-20_rampe/02-rampe-s11.png",
+   "prompt": "cinematic photograph, black 1980s american sports coupe, unbadged plain glossy black body, pop-up headlights, long hood, side view driving up a very steep steel ramp, wheels on the ramp, dust, desert rocket test site in texas at golden hour, dramatic sky, 35mm film, sharp focus, highly detailed, photorealistic",
+   "seed": 11
+  },
+  {
+   "file": "bilder/2026-10-20_rampe/02-rampe-s42.png",
+   "prompt": "cinematic photograph, black 1980s american sports coupe, unbadged plain glossy black body, pop-up headlights, long hood, side view driving up a very steep steel ramp, wheels on the ramp, dust, desert rocket test site in texas at golden hour, dramatic sky, 35mm film, sharp focus, highly detailed, photorealistic",
+   "seed": 42
+  },
+  {
+   "file": "bilder/2026-10-20_rampe/03-flug-s11.png",
+   "prompt": "cinematic photograph, black 1980s american sports coupe, unbadged plain glossy black body, pop-up headlights, long hood, flying high in the air above the desert, bright white cold gas jets blasting from small nozzles under the car, desert rocket test site in texas at golden hour, dramatic sky, 35mm film, sharp focus, highly detailed, photorealistic",
+   "seed": 11
+  },
+  {
+   "file": "bilder/2026-10-20_rampe/03-flug-s42.png",
+   "prompt": "cinematic photograph, black 1980s american sports coupe, unbadged plain glossy black body, pop-up headlights, long hood, flying high in the air above the desert, bright white cold gas jets blasting from small nozzles under the car, desert rocket test site in texas at golden hour, dramatic sky, 35mm film, sharp focus, highly detailed, photorealistic",
+   "seed": 42
+  },
+  {
+   "file": "bilder/2026-10-20_rampe/04-drehung-s11.png",
+   "prompt": "cinematic photograph, black 1980s american sports coupe, unbadged plain glossy black body, pop-up headlights, long hood, car tilted sideways in mid air, white gas thruster jets firing, spinning, desert rocket test site in texas at golden hour, dramatic sky, 35mm film, sharp focus, highly detailed, photorealistic",
+   "seed": 11
+  },
+  {
+   "file": "bilder/2026-10-20_rampe/04-drehung-s42.png",
+   "prompt": "cinematic photograph, black 1980s american sports coupe, unbadged plain glossy black body, pop-up headlights, long hood, car tilted sideways in mid air, white gas thruster jets firing, spinning, desert rocket test site in texas at golden hour, dramatic sky, 35mm film, sharp focus, highly detailed, photorealistic",
+   "seed": 42
+  },
+  {
+   "file": "bilder/2026-10-20_rampe/05-landung-s11.png",
+   "prompt": "cinematic photograph, black 1980s american sports coupe, unbadged plain glossy black body, pop-up headlights, long hood, landing on its four wheels on the desert ground, huge dust cloud, white gas jets underneath, desert rocket test site in texas at golden hour, dramatic sky, 35mm film, sharp focus, highly detailed, photorealistic",
+   "seed": 11
+  },
+  {
+   "file": "bilder/2026-10-20_rampe/05-landung-s42.png",
+   "prompt": "cinematic photograph, black 1980s american sports coupe, unbadged plain glossy black body, pop-up headlights, long hood, landing on its four wheels on the desert ground, huge dust cloud, white gas jets underneath, desert rocket test site in texas at golden hour, dramatic sky, 35mm film, sharp focus, highly detailed, photorealistic",
+   "seed": 42
+  },
+  {
+   "file": "bilder/2026-10-20_rampe/06-stand-s11.png",
+   "prompt": "cinematic photograph, black 1980s american sports coupe, unbadged plain glossy black body, pop-up headlights, long hood, parked after landing, three quarter front view, dust settling, headlights on, desert rocket test site in texas at golden hour, dramatic sky, 35mm film, sharp focus, highly detailed, photorealistic",
+   "seed": 11
+  },
+  {
+   "file": "bilder/2026-10-20_rampe/06-stand-s42.png",
+   "prompt": "cinematic photograph, black 1980s american sports coupe, unbadged plain glossy black body, pop-up headlights, long hood, parked after landing, three quarter front view, dust settling, headlights on, desert rocket test site in texas at golden hour, dramatic sky, 35mm film, sharp focus, highly detailed, photorealistic",
+   "seed": 42
+  }
+ ]
+}
