@@ -1260,7 +1260,7 @@
  },
  {
   "id": "2026-10-20-nova-video",
-  "at": "2026-10-20T17:00:00+02:00",
+  "at": "2026-10-22T17:00:00+02:00",
   "type": "REEL",
   "media": [
    "nova-videos/2026-10-20_sprachen-lernen/nova-video.mp4"
@@ -1328,5 +1328,23 @@
    "posts/2026-11-18_rezepte-aus-resten/story.jpg"
   ],
   "caption": ""
+ },
+ {
+  "id": "2026-10-21-nova-video",
+  "at": "2026-10-21T17:00:00+02:00",
+  "type": "REEL",
+  "media": [
+   "nova-videos/2026-10-21_ideen-finden/nova-video.mp4"
+  ],
+  "caption": "Keine Idee? KI hilft beim Brainstorming 💡 Nova zeigt 3 Tricks: Rahmen nennen (Anlass, Budget, Zeit), 10 Ideen auflisten lassen und nach der verrücktesten fragen.\n\nTipp: Die beste Idee wählst du selbst, die KI liefert nur Rohmaterial.\n\nNova ist eine KI-Figur 🤖 Das Bild ist KI-generiert.\n\n#AI #Weiterbildung #ChatGPTTipps #AITools #Innovation"
+ },
+ {
+  "id": "2026-10-20-ki-aktuell",
+  "at": "2026-10-20T17:00:00+02:00",
+  "type": "REEL",
+  "media": [
+   "aktuell/2026-10-20_ki-veraendert-arbeit/nova-video.mp4"
+  ],
+  "caption": "KI-Aktuell: Wie verändert KI die Arbeit? Die KI-Firma Anthropic hat Zahlen aus dem eigenen Haus veröffentlicht 📊\n\nLaut dem Bericht sank der Anteil von Junior-Mitarbeitenden in technischen Abteilungen seit Anfang 2025 von 21 % auf 14 %. Die Meetingzeit pro Person stieg um 20 %, und in einer Umfrage sagten 27 %, sie seien mit KI produktiver. Einen Grund für weniger Junior-Stellen nennt der Bericht laut TechCrunch nicht.\n\nQuelle: TechCrunch, 17.10.2026 (Bericht von Anthropic)\n\n💬 Was denkst du: Wird es für Berufseinsteiger schwerer?\n\nNova ist eine KI-Figur 🤖 Das Bild ist KI-generiert.\n\n#Digitalisierung #ChatGPTDeutsch #KINews #Zukunft #Medienkompetenz"
  }
 ]
