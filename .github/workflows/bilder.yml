@@ -25,6 +25,7 @@ jobs:
           M=$(python3 -c "import json,os;print(json.load(open(os.environ['JOB'])).get('model','SimianLuo/LCM_Dreamshaper_v7'))")
           mkdir -p bilder/info
           curl -sfL "https://huggingface.co/$M/raw/main/README.md" -o "bilder/info/$(echo $M | tr / _).README.md" || true
+          if grep -q ip_adapter "$JOB"; then curl -sfL "https://huggingface.co/h94/IP-Adapter/raw/main/README.md" -o bilder/info/h94_IP-Adapter.README.md || true; fi
       - name: Bilder erzeugen
         env:
           JOB: ${{ inputs.job }}
