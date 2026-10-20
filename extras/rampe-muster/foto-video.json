@@ -1,0 +1,9 @@
+{"series": "KI-Aktuell", "music": 2, "label": "Alle Bilder KI-generiert · Auto frei erfunden",
+ "shots": [
+  {"img": "01-anfahrt-s77.png", "dur": 2.6, "move": "in", "shake": 0.15, "text": ["Ein Auto, das *fliegt*?", "Tesla zeigte letzte Woche einen Roadster-Prototyp mit Düsen"]},
+  {"img": "01-anfahrt-s5.png", "dur": 2.4, "move": "in", "shake": 0.35, "dust": true, "text": ["Rampe hoch, *Düsen* an", "Kaltgas-Düsen sollen das Auto anheben"]},
+  {"img": "03-flug-s5.png", "dur": 2.4, "move": "up", "shake": 0.6, "flash": true, "text": ["Wir haben's mit *KI* nachgestellt", "Kein Foto: jedes Bild hier ist KI-generiert"]},
+  {"img": "04-duesen-s5.png", "dur": 2.0, "move": "down", "shake": 0.5, "dust": true},
+  {"img": "05-landung-s77.png", "dur": 2.6, "move": "in", "shake": 0.9, "dust": true, "text": ["Erkennst du die *KI*?", "Achte auf Räder, Licht und Schatten"]},
+  {"img": "06-stand-s23.png", "dur": 3.0, "move": "out", "text": ["Würdest du *mitfliegen*?", "Schreib's in die Kommentare! @neuro_nauten"]}
+ ]}
