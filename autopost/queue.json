@@ -1331,7 +1331,7 @@
  },
  {
   "id": "2026-10-21-nova-video",
-  "at": "2026-10-21T17:00:00+02:00",
+  "at": "2026-10-23T17:00:00+02:00",
   "type": "REEL",
   "media": [
    "nova-videos/2026-10-21_ideen-finden/nova-video.mp4"
@@ -1346,5 +1346,14 @@
    "aktuell/2026-10-20_ki-veraendert-arbeit/nova-video.mp4"
   ],
   "caption": "KI-Aktuell: Wie verändert KI die Arbeit? Die KI-Firma Anthropic hat Zahlen aus dem eigenen Haus veröffentlicht 📊\n\nLaut dem Bericht sank der Anteil von Junior-Mitarbeitenden in technischen Abteilungen seit Anfang 2025 von 21 % auf 14 %. Die Meetingzeit pro Person stieg um 20 %, und in einer Umfrage sagten 27 %, sie seien mit KI produktiver. Einen Grund für weniger Junior-Stellen nennt der Bericht laut TechCrunch nicht.\n\nQuelle: TechCrunch, 17.10.2026 (Bericht von Anthropic)\n\n💬 Was denkst du: Wird es für Berufseinsteiger schwerer?\n\nNova ist eine KI-Figur 🤖 Das Bild ist KI-generiert.\n\n#Digitalisierung #ChatGPTDeutsch #KINews #Zukunft #Medienkompetenz"
+ },
+ {
+  "id": "2026-10-21-ki-aktuell",
+  "at": "2026-10-21T17:00:00+02:00",
+  "type": "REEL",
+  "media": [
+   "aktuell/2026-10-21_interpol-deepfake-warnung/nova-video.mp4"
+  ],
+  "caption": "Deepfake-Anruf von Chef oder Familie? INTERPOL warnt vor KI-Betrug 🚨\n\nBetrüger fälschen mit KI Stimmen und Gesichter, zum Beispiel in Videoanrufen. INTERPOL nennt als Warnsignale: unerwarteter Kontakt, Zeitdruck, emotionaler Druck und Geheimhaltung sowie ungewöhnliche Zahlungswege wie Krypto oder Gutscheinkarten. Der Rat: ruhig bleiben, unabhängig prüfen (auflegen und unter einer bekannten Nummer zurückrufen), ein Codewort vereinbaren und Zwei-Faktor-Anmeldung aktivieren. Schon Geld überwiesen? Sofort Bank und Polizei informieren.\n\nQuelle: INTERPOL, 19.10.2026\n\nHast du mit deiner Familie schon ein Codewort? Schick das jemandem, der es wissen sollte!\n\nNova ist eine KI-Figur 🤖 Das Bild ist KI-generiert.\n\n#Digitalisierung #Produktivität #TechNews #KINews #Zukunft"
  }
 ]
