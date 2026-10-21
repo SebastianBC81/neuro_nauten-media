@@ -1399,5 +1399,14 @@
    "posts/2026-11-19_mythos-ki-immer-aktuell/story.jpg"
   ],
   "caption": ""
+ },
+ {
+  "id": "2026-10-21-test-story",
+  "at": "2026-10-21T20:00:00+02:00",
+  "type": "STORY",
+  "media": [
+   "serie-claude/2026-10-17_folge-03/story.jpg"
+  ],
+  "caption": ""
  }
 ]
