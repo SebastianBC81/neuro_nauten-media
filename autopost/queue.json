@@ -1368,5 +1368,36 @@
    "serie-claude/2026-10-22_folge-04/slide-05.jpg"
   ],
   "caption": "Claude-Setup #4: Projekte statt Chat-Chaos 🗂️\n\nMit Projekten sortierst du deine Claude-Chats nach Themen. Jedes Projekt kann eigene Dateien und Anweisungen haben, die in allen Chats darin gelten (je nach App und Tarif). So musst du nicht jedes Mal von vorn erklären.\n\nWelches Projekt legst du als Erstes an? 💾 Speichern! In der nächsten Folge: Tipp 5, Projektwissen hochladen.\n\nNova ist eine KI-Figur 🤖\n\n#Digitalisierung #Weiterbildung #KIAssistent #ChatbotTipps #Lernen"
+ },
+ {
+  "id": "2026-11-19-reel",
+  "at": "2026-11-19T12:00:00+01:00",
+  "type": "REEL",
+  "media": [
+   "posts/2026-11-19_mythos-ki-immer-aktuell/reel-tools.mp4"
+  ],
+  "caption": "KI ist nicht automatisch aktuell 📅 Mit diesen 3 Gratis-Tools bekommst du Antworten mit Quellen. Welches nutzt du?\n\nGut zu wissen: Die Gratis-Versionen haben je nach App Limits, und die Quellen solltest du selbst kurz anklicken.\n\nNova ist eine KI-Figur 🤖 Folge @neuro_nauten auf Instagram & TikTok für täglich neue KI-Tipps!\n\n#KünstlicheIntelligenz #KIerklärt #Copilot #Gemini #neuronauten"
+ },
+ {
+  "id": "2026-11-19-karussell",
+  "at": "2026-11-19T18:00:00+01:00",
+  "type": "FEED",
+  "media": [
+   "posts/2026-11-19_mythos-ki-immer-aktuell/slide-01.jpg",
+   "posts/2026-11-19_mythos-ki-immer-aktuell/slide-02.jpg",
+   "posts/2026-11-19_mythos-ki-immer-aktuell/slide-03.jpg",
+   "posts/2026-11-19_mythos-ki-immer-aktuell/slide-04.jpg",
+   "posts/2026-11-19_mythos-ki-immer-aktuell/slide-05.jpg"
+  ],
+  "caption": "Ist ChatGPT & Co. immer aktuell? Mythos oder Fakt? 📅\n\nMythos. KI-Modelle lernen nur aus Daten bis zu einem Stichtag. Aktuelles wissen sie nur, wenn sie im Web suchen, und dann solltest du Quelle und Datum prüfen.\n\n💬 Hat dir eine KI schon mal veraltete Infos gegeben? Schick das jemandem, der KI für News nutzt!\n\nNova ist eine KI-Figur 🤖\n\n#AI #ChatGPTDeutsch #MythosOderFakt #Faktencheck #Lernen"
+ },
+ {
+  "id": "2026-11-19-story",
+  "at": "2026-11-19T18:15:00+01:00",
+  "type": "STORY",
+  "media": [
+   "posts/2026-11-19_mythos-ki-immer-aktuell/story.jpg"
+  ],
+  "caption": ""
  }
 ]
