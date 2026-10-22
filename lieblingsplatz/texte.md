@@ -385,6 +385,24 @@ Was habt ihr noch aus alten Autoteilen rumliegen? 👇
 
 ---
 
+## 20. 3D-Drucker in Action (Reel)
+
+**Ordner:** `3d-druck/` → 1_reel (Video, 9:16, 6 Sekunden)
+
+**Titel fürs Vorschaubild:** Was wird das?
+
+**Bildunterschrift:**
+
+3D-Druck in Action. 🖨️
+
+Schicht für Schicht entstehen hier gerade geschwungene schwarze Teile mit rot-weißem Rand.
+
+Was meint ihr, was das wird? Ratet mal 👇
+
+**Hashtags:** #lieblingsplatzwerkstatt #3ddruck #3dprinting #werkstatt #maker
+
+---
+
 ## Allgemein
 
 - Hashtags: pro Post maximal 5 (gekürzt am 22.10.2026). Instagram empfiehlt selbst 3 bis 5 passende Hashtags; nach Berichten von Ende 2025 begrenzt Instagram neue Posts auf 5. Immer #lieblingsplatzwerkstatt plus 3 bis 4 zum Projekt.
