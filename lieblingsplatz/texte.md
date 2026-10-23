@@ -1,4 +1,4 @@
-# Lieblingsplatz Werkstatt: Post-Texte (Stand 22.10.2026)
+# Lieblingsplatz Werkstatt: Post-Texte (Stand 23.10.2026)
 
 Alle Bilder liegen als 1080 × 1350 (4:5, Instagram-Hochformat) in den Unterordnern. Ich habe sie zugeschnitten und Kontrast/Schärfe leicht verbessert, sonst nichts verändert. Die alten Versionen mit Blaufilter habe ich bewusst nicht genommen: Der Filter macht das Holz grau.
 
@@ -39,6 +39,8 @@ Neues Logo, gleiche Leidenschaft: Ich bin Elektriker und baue in meiner Freizeit
 
 Was wollt ihr als Erstes sehen: Möbel, Geschenkideen oder LED-Projekte? 👇
 
+Unbezahlt, alle gezeigten Produkte selbst gekauft.
+
 **Hashtags:** #lieblingsplatzwerkstatt #werkstatt #holzwerkstatt #hobbywerkstatt #holzarbeiten
 
 ---
@@ -59,7 +61,18 @@ Das letzte Bild zeigt ihn noch auf der Werkbank, kurz vor dem Verleimen.
 
 Würdet ihr so einen in euren Flur hängen? 👇
 
-**Hashtags:** #lieblingsplatzwerkstatt #klappstuhl #wandstuhl #holzmöbel #möbelbau
+🇬🇧 Looks like wall art made of wooden slats. It's actually a chair. 👉 Swipe.
+
+There's not much space in the hallway, but you still want to sit down to put your shoes on. So I built a folding chair that hangs on the wall and folds flat when it's not needed.
+
+The last photo shows it on the workbench, just before gluing.
+
+Would you hang one in your hallway? 👇
+
+Unbezahlt, alle gezeigten Produkte selbst gekauft.
+Unpaid, all products shown were bought by me.
+
+**Hashtags:** #woodworker #diy #selfmade #holzwerken #handgemacht
 
 ---
 
@@ -77,7 +90,16 @@ Für Restaurant-Gutscheine habe ich Geschenkboxen aus Holz gebaut: Deckel geflam
 
 Würdet ihr lieber so einen Gutschein bekommen oder doch klassisch im Umschlag? 👇
 
-**Hashtags:** #lieblingsplatzwerkstatt #holzarbeiten #geflammtesholz #geschenkbox #holzbox
+🇬🇧 A voucher in an envelope? Sure. But this is nicer. 🔥
+
+For restaurant vouchers I built wooden gift boxes: lids flame-treated to really bring out the grain, a knife and fork motif on top, wood wool inside, and the voucher right in the middle.
+
+Would you rather get a voucher like this or the classic envelope? 👇
+
+Unbezahlt, alle gezeigten Produkte selbst gekauft.
+Unpaid, all products shown were bought by me.
+
+**Hashtags:** #woodworker #diy #selfmade #holzwerken #handgemacht
 
 ---
 
@@ -95,7 +117,16 @@ Ich habe die Oberfläche bewusst so gelassen: Risse, Astlöcher und Wurmlöcher 
 
 Rustikal mit Rissen oder lieber glatt und neu: Was gefällt euch besser? 👇
 
-**Hashtags:** #lieblingsplatzwerkstatt #holzarbeiten #garderobe #rustikal #flurideen
+🇬🇧 A board with character, now a coat rack in the hallway.
+
+I deliberately left the surface as it was: cracks, knotholes and wormholes are part of it. Add simple metal hooks, done.
+
+Rustic with cracks or smooth and new: which do you prefer? 👇
+
+Unbezahlt, alle gezeigten Produkte selbst gekauft.
+Unpaid, all products shown were bought by me.
+
+**Hashtags:** #woodworker #diy #selfmade #holzwerken #handgemacht
 
 ---
 
@@ -115,7 +146,18 @@ Bild 1 ist die fertige Bank auf der Terrasse, die anderen zeigen sie roh in der 
 
 Welche Version gefällt euch besser: roh oder geölt? 👇
 
-**Hashtags:** #lieblingsplatzwerkstatt #gartenbank #sitzbank #holzbank #holzmöbel
+🇬🇧 Simple, solid, and the joint is the highlight. 🪵
+
+The seat slats run into the side pieces, and you can see their ends as a pattern along the top edge.
+
+Photo 1 is the finished bench on the terrace, the others show it raw in the workshop, right after sanding.
+
+Which version do you like better: raw or oiled? 👇
+
+Unbezahlt, alle gezeigten Produkte selbst gekauft.
+Unpaid, all products shown were bought by me.
+
+**Hashtags:** #woodworker #diy #selfmade #holzwerken #handgemacht
 
 ---
 
@@ -133,7 +175,16 @@ Drin: ein Getränkekühlschrank, zwei große Schubladen und ein Schrank. Die Fro
 
 Was darf in eurer Outdoor-Küche auf keinen Fall fehlen? 👇
 
-**Hashtags:** #lieblingsplatzwerkstatt #outdoorküche #outdoorkitchen #gartenküche #terrasse
+🇬🇧 From a grey carcass in the workshop to an outdoor kitchen on the terrace. 👉 Swipe for the journey.
+
+Inside: a drinks fridge, two large drawers and a cupboard. I clad the front with wooden slats and painted it white, with worktops on top set at two different heights.
+
+What can't be missing from your outdoor kitchen? 👇
+
+Unbezahlt, alle gezeigten Produkte selbst gekauft.
+Unpaid, all products shown were bought by me.
+
+**Hashtags:** #woodworker #diy #selfmade #holzwerken #handgemacht
 
 ---
 
@@ -153,7 +204,18 @@ Die Wolke ist blau gestrichen, unten in der Mitte sitzt die Ladestation für die
 
 Habt ihr auch ein Kind, bei dem die Figuren überall rumliegen? 😄👇
 
-**Hashtags:** #lieblingsplatzwerkstatt #tonieregal #tonies #kinderzimmer #kinderzimmerideen
+🇬🇧 Why don't the figures fall off? 🧲 Swipe through.
+
+Tonie figures have a magnet in their base. So I drilled holes into the shelves, set metal into them and closed them with wooden plugs. After sanding you only see light dots, and the figures still hold.
+
+The cloud is painted blue, and the charging station for the box sits in the middle at the bottom.
+
+Do you also have a kid who leaves the figures lying around everywhere? 😄👇
+
+Unbezahlt, alle gezeigten Produkte selbst gekauft.
+Unpaid, all products shown were bought by me.
+
+**Hashtags:** #woodworker #diy #selfmade #holzwerken #handgemacht
 
 ---
 
@@ -171,7 +233,16 @@ Komplett selbst gebaut: rosa Fronten, eine Holzblende, eine Rückwand mit Tafelf
 
 Was wird bei euch in der Kinderküche am häufigsten „gekocht“? 👇
 
-**Hashtags:** #lieblingsplatzwerkstatt #kinderküche #spielküche #kinderzimmer #kinderzimmerideen
+🇬🇧 The most important kitchen in the house? This one. 😄
+
+Built entirely by me: pink fronts, a wooden panel, a back wall with chalkboard paint for drawing on, and hooks on the side for oven gloves and wooden spoons.
+
+What gets "cooked" most often in your play kitchen? 👇
+
+Unbezahlt, alle gezeigten Produkte selbst gekauft.
+Unpaid, all products shown were bought by me.
+
+**Hashtags:** #woodworker #diy #selfmade #holzwerken #handgemacht
 
 ---
 
@@ -191,7 +262,18 @@ Bild 2 und 3 zeigen die Teile beim Trocknen, bevor alles zusammengebaut wurde.
 
 Was wurde bei euch früher im Kaufladen am meisten „verkauft“? 👇
 
-**Hashtags:** #lieblingsplatzwerkstatt #kaufladen #kinderkaufladen #holzspielzeug #kinderzimmer
+🇬🇧 Playing shop works best in your own store. 🛒
+
+Built entirely by me: all parts cut, painted one by one in pink and blue, the shelves left in natural wood, and a chalkboard on top for the shop's name.
+
+Photos 2 and 3 show the parts drying before everything was assembled.
+
+What did you "sell" most in your play shop as a kid? 👇
+
+Unbezahlt, alle gezeigten Produkte selbst gekauft.
+Unpaid, all products shown were bought by me.
+
+**Hashtags:** #woodworker #diy #selfmade #holzwerken #handgemacht
 
 ---
 
@@ -209,7 +291,16 @@ Wischt mal auf Bild 2. So sah das Brett aus, bevor es schön wurde. 😅
 
 Wer ärgert sich bei euch am meisten, wenn er rausgeworfen wird? 👇
 
-**Hashtags:** #lieblingsplatzwerkstatt #brettspiel #harz #resin #spielbrett
+🇬🇧 Swipe to photo 2. That's what the board looked like before it got pretty. 😅
+
+The German classic "Mensch ärgere dich nicht" (a lot like Ludo), but homemade: holes drilled into the wood, each filled with coloured resin, one colour at a time. Then everything sanded flat until only smooth, flush dots were left in the wood.
+
+Who at your table gets the most upset when they get knocked out? 👇
+
+Unbezahlt, alle gezeigten Produkte selbst gekauft.
+Unpaid, all products shown were bought by me.
+
+**Hashtags:** #woodworker #diy #selfmade #holzwerken #handgemacht
 
 **Reel-Idee:** Ein 10-Sekunden-Video, das von Bild 2 auf Bild 1 überblendet, würde hier sehr gut funktionieren. Das kann ich aus den beiden Fotos bauen, wenn du willst.
 
@@ -230,7 +321,16 @@ Sterne aus Holz, ausgesägt, die Kanten bewusst kantig gelassen, aufgehängt an 
 
 Echter Baumschmuck oder lieber Kugeln? 👇
 
-**Hashtags:** #lieblingsplatzwerkstatt #weihnachtsdeko #baumschmuck #holzsterne #weihnachten
+🇬🇧 This year, only wood hangs on our tree. 🎄
+
+Wooden stars, sawn out, the edges deliberately left angular, hung on ribbons. Simple, natural, and they last forever.
+
+Wooden ornaments or classic baubles? 👇
+
+Unbezahlt, alle gezeigten Produkte selbst gekauft.
+Unpaid, all products shown were bought by me.
+
+**Hashtags:** #woodworker #diy #selfmade #holzwerken #handgemacht
 
 ---
 
@@ -252,7 +352,20 @@ Das letzte Bild zeigt den Rohbau, bevor der Frästisch dazukam.
 
 Was steht in eurer Werkstatt noch ohne festen Platz rum? 👇
 
-**Hashtags:** #lieblingsplatzwerkstatt #werkstatt #werkstattmöbel #frästisch #tischkreissäge
+🇬🇧 Saw, router table and dust extraction in one piece of furniture, all on wheels. 🛠️ Swipe through.
+
+The table saw sits in the middle, with a router table and built-in router to its left. In the drawer below, every router bit has its fixed place. On the right, the shop vac lives in the cabinet.
+
+The whole thing stands on swivel castors.
+
+The last photo shows the carcass before the router table was added.
+
+What in your workshop still has no fixed place? 👇
+
+Unbezahlt, alle gezeigten Produkte selbst gekauft.
+Unpaid, all products shown were bought by me.
+
+**Hashtags:** #woodworker #diy #selfmade #holzwerken #handgemacht
 
 ---
 
@@ -271,7 +384,16 @@ Zwei Giebelwände aus Holz, dazwischen ein Boden, fertig ist der Serviettenhalte
 
 Wäre das was für euren Adventstisch? 👇
 
-**Hashtags:** #lieblingsplatzwerkstatt #serviettenhalter #holzhaus #tischdeko #adventsdeko
+🇬🇧 A little house for the dining table. 🏠
+
+Two wooden gable walls with a base in between, and the napkin holder is done. Quick to build and a nice little gift for the Advent season.
+
+Would this suit your Advent table? 👇
+
+Unbezahlt, alle gezeigten Produkte selbst gekauft.
+Unpaid, all products shown were bought by me.
+
+**Hashtags:** #woodworker #diy #selfmade #holzwerken #handgemacht
 
 ---
 
@@ -289,7 +411,16 @@ Runde Tischplatte aus massiver Esche, darunter ein selbst gebautes Gestell aus F
 
 Schwarz oder Kupfer: Wie hättet ihr entschieden? 👇
 
-**Hashtags:** #lieblingsplatzwerkstatt #couchtisch #esche #massivholz #stahl
+🇬🇧 Ash meets copper. 🪵
+
+A round tabletop of solid ash on a self-built crossed base made of flat steel in copper. Beforehand I also tried a black version on the computer (last photo, just recoloured). In the end I stuck with copper.
+
+Black or copper: which would you have chosen? 👇
+
+Unbezahlt, alle gezeigten Produkte selbst gekauft.
+Unpaid, all products shown were bought by me.
+
+**Hashtags:** #woodworker #diy #selfmade #holzwerken #handgemacht
 
 ---
 
@@ -307,7 +438,16 @@ Alles mit dem Laser ausgeschnitten und in Ebenen aufgebaut: die Grundplatte hell
 
 Was würdet ihr euch als Schild für die Grillecke lasern lassen? 👇
 
-**Hashtags:** #lieblingsplatzwerkstatt #lasercut #lasergravur #holzschild #laserschneiden
+🇬🇧 A sign for Bubi's Butcher Shop. 🔥
+
+Everything laser-cut and built up in layers: the base plate stained light, on top the dark parts with knives, pig, cow, chicken and lettering. That creates a real 3D effect.
+
+What sign would you have lasered for your BBQ corner? 👇
+
+Unbezahlt, alle gezeigten Produkte selbst gekauft.
+Unpaid, all products shown were bought by me.
+
+**Hashtags:** #woodworker #diy #selfmade #holzwerken #handgemacht
 
 ---
 
@@ -327,7 +467,18 @@ Das letzte Bild zeigt den Pool jetzt im Winterschlaf.
 
 Pool im eigenen Garten: Traum oder zu viel Arbeit? 👇
 
-**Hashtags:** #lieblingsplatzwerkstatt #poolbau #pool #gartenpool #gartenprojekt
+🇬🇧 First a huge hole in the garden. Then this. 🏊 Swipe through.
+
+All done myself: digging, pouring the base slab, building the walls, setting the oval pool, backfilling, and finally a deck of boards all around it.
+
+The last photo shows the pool in hibernation now.
+
+A pool in your own garden: dream or too much work? 👇
+
+Unbezahlt, alle gezeigten Produkte selbst gekauft.
+Unpaid, all products shown were bought by me.
+
+**Hashtags:** #woodworker #diy #selfmade #holzwerken #handgemacht
 
 ---
 
@@ -345,7 +496,16 @@ Eine Tankstelle aus Holz für die Kinder, komplett selbst gebaut: zwei Zapfsäul
 
 Was würden eure Kinder als Erstes tanken? 👇
 
-**Hashtags:** #lieblingsplatzwerkstatt #kindertankstelle #holzspielzeug #spielzeugausholz #kinderspielzeug
+🇬🇧 Fill it up, please! ⛽
+
+A wooden petrol station for the kids, built entirely by me: two fuel pumps with rope as hoses, the sign in the middle, and everything on wheels so it can go anywhere.
+
+What would your kids fill up first? 👇
+
+Unbezahlt, alle gezeigten Produkte selbst gekauft.
+Unpaid, all products shown were bought by me.
+
+**Hashtags:** #woodworker #diy #selfmade #holzwerken #handgemacht
 
 ---
 
@@ -363,7 +523,16 @@ Das ist meine CNC-Fräse. Auf dem ersten Bild läuft sie gerade, mit Absaugung d
 
 Was würdet ihr als Erstes damit fräsen? 👇
 
-**Hashtags:** #lieblingsplatzwerkstatt #cnc #cncfräse #werkstatt #holzwerkstatt
+🇬🇧 Toys for big boys. 😄
+
+This is my CNC router. In the first photo it's running, with dust extraction right at the spindle, milling a heart motif. In the last photo you can see where the bits and collets live: every part has its fixed place on the wall.
+
+What would you mill with it first? 👇
+
+Unbezahlt, alle gezeigten Produkte selbst gekauft.
+Unpaid, all products shown were bought by me.
+
+**Hashtags:** #woodworker #diy #selfmade #holzwerken #handgemacht
 
 ---
 
@@ -381,7 +550,16 @@ Eine alte VDO-Uhr aus dem Auto, ein Kippschalter und ein Klotz Holz. Auf Bild 2 
 
 Was habt ihr noch aus alten Autoteilen rumliegen? 👇
 
-**Hashtags:** #lieblingsplatzwerkstatt #upcycling #tischuhr #holzarbeiten #werkstatt
+🇬🇧 From old car part to desk clock. 🕰️
+
+An old VDO clock from a car, a toggle switch and a block of wood. Photo 2 shows the parts before, the clock still with rust on its housing. Photo 3 shows everything fitted, the wood still raw. Photo 1 is the finished clock.
+
+What old car parts do you have lying around? 👇
+
+Unbezahlt, alle gezeigten Produkte selbst gekauft.
+Unpaid, all products shown were bought by me.
+
+**Hashtags:** #woodworker #diy #selfmade #holzwerken #handgemacht
 
 ---
 
@@ -399,13 +577,25 @@ Schicht für Schicht entstehen hier gerade geschwungene schwarze Teile mit rot-w
 
 Was meint ihr, was das wird? Ratet mal 👇
 
-**Hashtags:** #lieblingsplatzwerkstatt #3ddruck #3dprinting #werkstatt #maker
+🇬🇧 3D printing in action. 🖨️
+
+Layer by layer, curved black parts with a red and white edge are taking shape.
+
+What do you think it's going to be? Take a guess 👇
+
+Unbezahlt, alle gezeigten Produkte selbst gekauft.
+Unpaid, all products shown were bought by me.
+
+**Hashtags:** #woodworker #diy #selfmade #holzwerken #handgemacht
 
 ---
 
 ## Allgemein
 
-- Hashtags: pro Post maximal 5 (gekürzt am 22.10.2026). Instagram empfiehlt selbst 3 bis 5 passende Hashtags; nach Berichten von Ende 2025 begrenzt Instagram neue Posts auf 5. Immer #lieblingsplatzwerkstatt plus 3 bis 4 zum Projekt.
+- Ab 22.10.2026 steht in jeder Caption vor den Hashtags: „Unbezahlt, alle gezeigten Produkte selbst gekauft.“ (Wunsch Sebastian, wegen Markenerkennung.)
+
+- Hashtags: pro Post maximal 5. Instagram begrenzt laut mehreren Fachmedien (u. a. Social Media Today) auf 5 pro Post. Ab 23.10.2026 auf Wunsch von Sebastian in allen Posts derselbe Satz aus seiner Liste: #woodworker #diy #selfmade #holzwerken #handgemacht (englisch für internationale Reichweite, deutsch für DACH). Bewusst weggelassen: #amazing, #instagood (generisch, kein Werkstatt-Publikum) und #lieblingsplatzwerkstatt (eigener Tag, bringt keine fremde Reichweite).
+- Ab 23.10.2026 alle Captions zweisprachig: erst Deutsch, dann 🇬🇧 Englisch (wörtlich übersetzt, keine neuen Details), Hinweis in beiden Sprachen.
 - Rhythmus: höchstens 1 Feed-Post pro Tag, besser 3 bis 4 pro Woche. Dazwischen Stories (Werkstatt-Alltag, Zwischenstände), die kosten wenig Aufwand.
 - Zwischen den Posts mindestens einen Tag Abstand lassen.
 - Bei allen vier Projekten lohnt sich später zusätzlich ein Reel (z. B. Klappstuhl auf- und zuklappen, 10 Sekunden). Dafür brauche ich ein kurzes Video von dir.
